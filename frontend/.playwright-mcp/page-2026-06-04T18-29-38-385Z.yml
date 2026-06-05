@@ -1,0 +1,174 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - button "Collapse Sidebar" [ref=e6]: menu_open
+        - generic [ref=e7]: CRYPTODESK
+        - navigation [ref=e8]:
+          - button "BTC" [ref=e9] [cursor=pointer]
+          - button "ETH" [ref=e10] [cursor=pointer]
+          - button "SOL" [ref=e11] [cursor=pointer]
+          - button "CPI" [ref=e12] [cursor=pointer]
+          - button "MSTR" [ref=e13] [cursor=pointer]
+          - button "MAG7" [ref=e14] [cursor=pointer]
+      - generic [ref=e16]:
+        - generic [ref=e17]: /
+        - textbox "Search ValueGPT" [ref=e18]:
+          - /placeholder: Ask ValueGPT anything...
+        - generic [ref=e19]: ⌘K
+      - generic [ref=e20]:
+        - 'generic "Next: CPI on May 15 (4 days)" [ref=e105]':
+          - generic [ref=e106]: schedule
+          - generic [ref=e107]: CPI
+          - generic [ref=e108]: ·
+          - generic [ref=e109]: 4D
+        - generic [ref=e110]: CRYPTO
+        - generic [ref=e23]: LIVE
+        - button "Notifications" [ref=e24] [cursor=pointer]: notifications
+        - button "Layout" [ref=e25] [cursor=pointer]: grid_view
+        - img "User Profile" [ref=e27] [cursor=pointer]
+    - generic [ref=e28]:
+      - complementary [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - generic [ref=e33]: bolt
+            - generic [ref=e34]:
+              - heading "VALUEGPT" [level=2] [ref=e35]
+              - paragraph [ref=e36]: Terminal Edge
+          - navigation [ref=e37]:
+            - button "dashboard Terminal" [ref=e38] [cursor=pointer]:
+              - generic [ref=e39]: dashboard
+              - generic [ref=e40]: Terminal
+            - button "analytics Market Intel" [ref=e41] [cursor=pointer]:
+              - generic [ref=e42]: analytics
+              - generic [ref=e43]: Market Intel
+            - button "science Research Lab" [ref=e44] [cursor=pointer]:
+              - generic [ref=e45]: science
+              - generic [ref=e46]: Research Lab
+            - button "account_balance_wallet Portfolio" [active] [ref=e47] [cursor=pointer]:
+              - generic [ref=e48]: account_balance_wallet
+              - generic [ref=e49]: Portfolio
+            - button "auto_awesome New Analysis" [ref=e51] [cursor=pointer]:
+              - generic [ref=e52]: auto_awesome
+              - generic [ref=e53]: New Analysis
+        - generic [ref=e54]:
+          - button "description Docs" [ref=e55] [cursor=pointer]:
+            - generic [ref=e56]: description
+            - generic [ref=e57]: Docs
+          - button "support_agent Support" [ref=e58] [cursor=pointer]:
+            - generic [ref=e59]: support_agent
+            - generic [ref=e60]: Support
+      - main [ref=e61]:
+        - generic [ref=e403]:
+          - generic [ref=e405]:
+            - generic [ref=e406]:
+              - generic [ref=e407]:
+                - paragraph [ref=e408]: The Book
+                - generic [ref=e409]: Demo · Paper
+              - heading "Portfolio" [level=2] [ref=e410]
+              - paragraph [ref=e411]: Per-holding Fair Value Delta · AI rebalance suggestions
+            - button "auto_awesome Rebalance with AI" [ref=e412] [cursor=pointer]:
+              - generic [ref=e413]: auto_awesome
+              - text: Rebalance with AI
+          - generic [ref=e414]:
+            - generic [ref=e415]:
+              - paragraph [ref=e416]: Total Value
+              - paragraph [ref=e417]: $688,763
+            - generic [ref=e418]:
+              - paragraph [ref=e419]: Fair Value Delta
+              - paragraph [ref=e420]: "-$22,041"
+              - paragraph [ref=e421]: Portfolio is 3.2% undervalued
+            - generic [ref=e422]:
+              - paragraph [ref=e423]: Holdings
+              - paragraph [ref=e424]: "4"
+              - paragraph [ref=e425]: 4 priced
+          - table [ref=e428]:
+            - rowgroup [ref=e429]:
+              - row "Asset Qty Price Value FV Δ Bull Action" [ref=e430]:
+                - columnheader "Asset" [ref=e431]
+                - columnheader "Qty" [ref=e432]
+                - columnheader "Price" [ref=e433]
+                - columnheader "Value" [ref=e434]
+                - columnheader "FV Δ" [ref=e435]
+                - columnheader "Bull" [ref=e436]
+                - columnheader "Action" [ref=e437]
+                - columnheader [ref=e438]
+            - rowgroup [ref=e439]:
+              - row "BTCcurrency 0.3360 $104.10k $34.98k -$1,119 62% Add close" [ref=e440]:
+                - cell "BTCcurrency" [ref=e441]
+                - cell "0.3360" [ref=e442]:
+                  - button "0.3360" [ref=e443]
+                - cell "$104.10k" [ref=e444]
+                - cell "$34.98k" [ref=e445]
+                - cell "-$1,119" [ref=e446]
+                - cell "62%" [ref=e447]
+                - cell "Add" [ref=e448]
+                - cell "close" [ref=e449]:
+                  - button "close" [ref=e450] [cursor=pointer]:
+                    - generic [ref=e451]: close
+              - row "MSTRstock 47.00 $421.50 $19.81k -$634 60% Add close" [ref=e452]:
+                - cell "MSTRstock" [ref=e453]
+                - cell "47.00" [ref=e454]:
+                  - button "47.00" [ref=e455]
+                - cell "$421.50" [ref=e456]
+                - cell "$19.81k" [ref=e457]
+                - cell "-$634" [ref=e458]
+                - cell "60%" [ref=e459]
+                - cell "Add" [ref=e460]
+                - cell "close" [ref=e461]:
+                  - button "close" [ref=e462] [cursor=pointer]:
+                    - generic [ref=e463]: close
+              - row "MAG7index 175 $142.80 $24.99k -$800 59% Add close" [ref=e464]:
+                - cell "MAG7index" [ref=e465]
+                - cell "175" [ref=e466]:
+                  - button "175" [ref=e467]
+                - cell "$142.80" [ref=e468]
+                - cell "$24.99k" [ref=e469]
+                - cell "-$800" [ref=e470]
+                - cell "59%" [ref=e471]
+                - cell "Add" [ref=e472]
+                - cell "close" [ref=e473]:
+                  - button "close" [ref=e474] [cursor=pointer]:
+                    - generic [ref=e475]: close
+              - row "ETHcurrency 5.85 $104.10k $608.99k -$19,488 62% Add close" [ref=e476]:
+                - cell "ETHcurrency" [ref=e477]
+                - cell "5.85" [ref=e478]:
+                  - button "5.85" [ref=e479]
+                - cell "$104.10k" [ref=e480]
+                - cell "$608.99k" [ref=e481]
+                - cell "-$19,488" [ref=e482]
+                - cell "62%" [ref=e483]
+                - cell "Add" [ref=e484]
+                - cell "close" [ref=e485]:
+                  - button "close" [ref=e486] [cursor=pointer]:
+                    - generic [ref=e487]: close
+          - button "add Add holding" [ref=e488]:
+            - generic [ref=e489]: add
+            - text: Add holding
+    - complementary [ref=e79]:
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e82]: auto_awesome
+          - generic [ref=e83]:
+            - paragraph [ref=e84]: ValueGPT
+            - paragraph [ref=e85]: "Context: BTC · $104,100"
+        - generic [ref=e86]:
+          - button "add_circle" [ref=e87]:
+            - generic [ref=e88]: add_circle
+          - button "close" [ref=e89]:
+            - generic [ref=e90]: close
+      - generic [ref=e92]:
+        - generic [ref=e93]: auto_awesome
+        - paragraph [ref=e94]: Ask ValueGPT anything
+        - paragraph [ref=e95]: I see what you see on the terminal — prices, news, ETF flows, macro events. Cite news with [news:N].
+        - generic [ref=e96]:
+          - button "Why did this asset move today?" [ref=e97]
+          - button "/summary — re-brief this asset" [ref=e98]
+          - button "/scenario bull — what's the upside trigger?" [ref=e99]
+      - generic [ref=e101]:
+        - textbox "Ask ValueGPT… (try /summary, /scenario, /rebalance)" [ref=e102]
+        - button "arrow_upward" [disabled] [ref=e103]:
+          - generic [ref=e104]: arrow_upward
+    - generic:
+      - img "Premium Terminal Grid Visual"
+  - generic [ref=e402]: "-450M"

@@ -1,0 +1,128 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - button "Collapse Sidebar" [ref=e6]: menu_open
+      - generic [ref=e7]: CRYPTODESK
+      - navigation [ref=e8]:
+        - button "BTC" [ref=e9] [cursor=pointer]
+        - button "ETH" [ref=e10] [cursor=pointer]
+        - button "SOL" [ref=e11] [cursor=pointer]
+        - button "CPI" [ref=e12] [cursor=pointer]
+        - button "MSTR" [ref=e13] [cursor=pointer]
+        - button "MAG7" [ref=e14] [cursor=pointer]
+    - generic [ref=e16]:
+      - generic [ref=e17]: /
+      - textbox "Search ValueGPT" [ref=e18]:
+        - /placeholder: Ask ValueGPT anything...
+      - generic [ref=e19]: ⌘K
+    - generic [ref=e20]:
+      - generic [ref=e21]: CRYPTO
+      - generic [ref=e24]: LIVE
+      - button "Notifications" [ref=e25] [cursor=pointer]: notifications
+      - button "Layout" [ref=e26] [cursor=pointer]: grid_view
+      - img "User Profile" [ref=e28] [cursor=pointer]
+  - generic [ref=e29]:
+    - complementary [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e34]: bolt
+          - generic [ref=e35]:
+            - heading "VALUEGPT" [level=2] [ref=e36]
+            - generic [ref=e37]: Terminal Edge
+        - navigation [ref=e38]:
+          - button "dashboard Terminal" [ref=e39] [cursor=pointer]:
+            - generic [ref=e40]: dashboard
+            - generic [ref=e41]: Terminal
+          - button "analytics Market Intel" [ref=e42] [cursor=pointer]:
+            - generic [ref=e43]: analytics
+            - generic [ref=e44]: Market Intel
+          - button "science Research Lab" [ref=e45] [cursor=pointer]:
+            - generic [ref=e46]: science
+            - generic [ref=e47]: Research Lab
+          - button "account_balance_wallet Portfolio" [ref=e48] [cursor=pointer]:
+            - generic [ref=e49]: account_balance_wallet
+            - generic [ref=e50]: Portfolio
+          - button "auto_awesome New Analysis" [ref=e52] [cursor=pointer]:
+            - generic [ref=e53]: auto_awesome
+            - generic [ref=e54]: New Analysis
+      - generic [ref=e55]:
+        - button "description Docs" [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: description
+          - generic [ref=e58]: Docs
+        - button "support_agent Support" [ref=e59] [cursor=pointer]:
+          - generic [ref=e60]: support_agent
+          - generic [ref=e61]: Support
+    - main [ref=e62]:
+      - generic [ref=e214]:
+        - generic [ref=e215]:
+          - generic [ref=e216]:
+            - paragraph [ref=e217]: The Desk
+            - heading "Market Intel" [level=2] [ref=e218]
+            - paragraph [ref=e219]: Cross-asset rotation · ETF flows · macro proximity
+          - button "auto_awesome Ask ValueGPT" [ref=e220]:
+            - generic [ref=e221]: auto_awesome
+            - text: Ask ValueGPT
+        - generic [ref=e222]:
+          - article [ref=e223]:
+            - generic [ref=e224]:
+              - generic [ref=e225]:
+                - generic [ref=e226]: Morning Brief
+                - generic [ref=e227]: ·
+                - generic [ref=e228]: THU, JUN 4
+              - generic [ref=e229]:
+                - generic [ref=e230]: auto_awesome
+                - generic [ref=e231]: by ValueGPT
+            - paragraph [ref=e232]: "\"BTC consolidates near ATH as institutional ETF demand holds the structural floor.\""
+            - generic [ref=e233]:
+              - generic [ref=e234]:
+                - generic [ref=e235]: BTC
+                - generic [ref=e236]: $—
+                - generic [ref=e237]: +0%
+              - generic [ref=e238]:
+                - generic [ref=e239]: ETF 7D
+                - generic [ref=e240]: —
+              - generic [ref=e241]:
+                - generic [ref=e242]: Dominance
+                - generic [ref=e243]: —%
+            - button "Read deeper with ValueGPT arrow_forward" [ref=e244]:
+              - text: Read deeper with ValueGPT
+              - generic [ref=e245]: arrow_forward
+          - complementary [ref=e246]:
+            - generic [ref=e247]:
+              - generic [ref=e248]: Macro Clock
+              - generic [ref=e249]: schedule
+            - generic [ref=e250]: Loading…
+        - generic [ref=e252]: No ETF flow data
+        - generic [ref=e253]:
+          - generic [ref=e254]:
+            - generic [ref=e255]:
+              - heading "Sector Rotation" [level=4] [ref=e256]
+              - paragraph [ref=e257]: SSI indices · ranked by 1M return
+            - generic [ref=e258]: 0 sectors
+          - generic [ref=e259]: No sector data available
+  - complementary [ref=e188]:
+    - generic [ref=e189]:
+      - generic [ref=e190]:
+        - generic [ref=e191]: auto_awesome
+        - generic [ref=e192]:
+          - paragraph [ref=e193]: ValueGPT
+          - paragraph [ref=e194]: "Context: BTC"
+      - generic [ref=e195]:
+        - button "add_circle" [ref=e196]:
+          - generic [ref=e197]: add_circle
+        - button "close" [ref=e198]:
+          - generic [ref=e199]: close
+    - generic [ref=e201]:
+      - generic [ref=e202]: auto_awesome
+      - paragraph [ref=e203]: Ask ValueGPT anything
+      - paragraph [ref=e204]: I see what you see on the terminal — prices, news, ETF flows, macro events. Cite news with [news:N].
+      - generic [ref=e205]:
+        - button "Why did this asset move today?" [ref=e206]
+        - button "/summary — re-brief this asset" [ref=e207]
+        - button "/scenario bull — what's the upside trigger?" [ref=e208]
+    - generic [ref=e210]:
+      - textbox "Ask ValueGPT… (try /summary, /scenario, /rebalance)" [ref=e211]
+      - button "arrow_upward" [disabled] [ref=e212]:
+        - generic [ref=e213]: arrow_upward
+  - generic:
+    - img "Premium Terminal Grid Visual"

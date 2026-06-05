@@ -30,15 +30,33 @@ async function loadContext(type, id) {
   }
 }
 
+// Helper: fetch AI brief AFTER main data is available, so the prompt has live numbers.
+async function fetchBrief(context, ticker, snapshot, news) {
+  try {
+    const r = await post('/api/ai/brief', {
+      context,
+      ticker,
+      data: {
+        snapshot,
+        news: (news || []).slice(0, 3).map((n) => ({ id: n.id, title: n.title })),
+      },
+    })
+    return r?.brief || ''
+  } catch {
+    return ''
+  }
+}
+
 async function loadCurrency(id) {
   const ticker = id.toUpperCase()
-  const [main, newsData, briefData] = await Promise.allSettled([
+  const [main, newsData] = await Promise.allSettled([
     get(`/api/currency/${id.toLowerCase()}`),
     get(`/api/news?currency_id=${id.toLowerCase()}`),
-    post('/api/ai/brief', { context: 'currency', ticker }),
   ])
-
   const m = main.value || {}
+  const news = newsData.value?.items || []
+  const aibrief = await fetchBrief('currency', ticker, m.snapshot, news)
+
   return {
     type: 'currency',
     id: id.toLowerCase(),
@@ -47,8 +65,8 @@ async function loadCurrency(id) {
     klines: m.klines || [],
     macroEvents: m.macroEvents || [],
     scenarios: m.scenarios || [],
-    news: newsData.value?.items || [],
-    aibrief: briefData.value?.brief || '',
+    news,
+    aibrief,
   }
 }
 
@@ -58,8 +76,10 @@ async function loadMacro(id) {
     get(`/api/macro?event=${encodeURIComponent(ticker)}`),
     get(`/api/news?keyword=${encodeURIComponent(ticker)}`),
   ])
-
   const m = main.value || {}
+  const news = newsData.value?.items || []
+  const aibrief = await fetchBrief('macro', ticker, m.snapshot, news)
+
   return {
     type: 'macro',
     id: id.toLowerCase(),
@@ -67,19 +87,21 @@ async function loadMacro(id) {
     snapshot: m.snapshot || {},
     history: m.history || [],
     btcKlines: m.btcKlines || [],
-    news: newsData.value?.items || [],
+    news,
+    aibrief,
   }
 }
 
 async function loadStock(id) {
   const ticker = id.toUpperCase()
-  const [main, newsData, briefData] = await Promise.allSettled([
+  const [main, newsData] = await Promise.allSettled([
     get(`/api/stock/${ticker}`),
     get(`/api/news?keyword=${encodeURIComponent(ticker)}`),
-    post('/api/ai/brief', { context: 'stock', ticker }),
   ])
-
   const m = main.value || {}
+  const news = newsData.value?.items || []
+  const aibrief = await fetchBrief('stock', ticker, m.snapshot, news)
+
   return {
     type: 'stock',
     id: id.toLowerCase(),
@@ -87,20 +109,21 @@ async function loadStock(id) {
     snapshot: m.snapshot || {},
     klines: m.klines || [],
     treasury: m.treasury || [],
-    news: newsData.value?.items || [],
-    aibrief: briefData.value?.brief || '',
+    news,
+    aibrief,
   }
 }
 
 async function loadIndex(id) {
   const ticker = id.toUpperCase()
-  const [main, newsData, briefData] = await Promise.allSettled([
+  const [main, newsData] = await Promise.allSettled([
     get(`/api/index/${ticker}`),
     get('/api/news'),
-    post('/api/ai/brief', { context: 'index', ticker }),
   ])
-
   const m = main.value || {}
+  const news = newsData.value?.items || []
+  const aibrief = await fetchBrief('index', ticker, m.snapshot, news)
+
   return {
     type: 'index',
     id: id.toLowerCase(),
@@ -108,10 +131,56 @@ async function loadIndex(id) {
     snapshot: m.snapshot || {},
     klines: m.klines || [],
     constituents: m.constituents || [],
-    news: newsData.value?.items || [],
-    aibrief: briefData.value?.brief || '',
+    news,
+    aibrief,
   }
 }
 
-const API = { search, loadContext }
+// Streaming chat — POSTs to /api/ai/chat (SSE), invokes onChunk(text) per delta.
+export async function chatStream(messages, context, onChunk) {
+  const res = await fetch('/api/ai/chat', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ messages, context }),
+  })
+
+  if (!res.ok || !res.body) {
+    const text = await res.text().catch(() => '')
+    throw new Error(`chat ${res.status}: ${text.slice(0, 200)}`)
+  }
+
+  const reader = res.body.getReader()
+  const decoder = new TextDecoder()
+  let buffer = ''
+
+  while (true) {
+    const { done, value } = await reader.read()
+    if (done) break
+
+    buffer += decoder.decode(value, { stream: true })
+    const events = buffer.split('\n\n')
+    buffer = events.pop() || ''
+
+    for (const block of events) {
+      const lines = block.split('\n')
+      let eventType = 'message'
+      let dataLine = ''
+      for (const ln of lines) {
+        if (ln.startsWith('event:')) eventType = ln.slice(6).trim()
+        else if (ln.startsWith('data:')) dataLine = ln.slice(5).trim()
+      }
+      if (!dataLine) continue
+
+      try {
+        const obj = JSON.parse(dataLine)
+        if (eventType === 'chunk' && obj.content) onChunk(obj.content)
+        else if (eventType === 'error') throw new Error(obj.message || 'stream error')
+      } catch (err) {
+        if (eventType === 'error') throw err
+      }
+    }
+  }
+}
+
+const API = { search, loadContext, chatStream }
 export default API

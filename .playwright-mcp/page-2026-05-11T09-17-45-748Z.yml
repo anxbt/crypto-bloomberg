@@ -1,0 +1,275 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: https://app.akindo.io/
+            - img [ref=e9]
+          - generic [ref=e18]:
+            - link "Buildathons" [ref=e20] [cursor=pointer]:
+              - /url: https://app.akindo.io/wave-hacks
+            - link "Hackathons" [ref=e22] [cursor=pointer]:
+              - /url: https://app.akindo.io/hackathons
+            - link "Products" [ref=e24] [cursor=pointer]:
+              - /url: https://app.akindo.io/products
+            - button "Showcase Product" [active] [ref=e98] [cursor=pointer]
+            - button "anxbrt" [ref=e100] [cursor=pointer]:
+              - img "anxbrt" [ref=e101]
+        - link "Build Your One-Person On-Chain Finance Business with SoSoValue 1Days 05:42 Left to Submit" [ref=e103] [cursor=pointer]:
+          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+          - generic [ref=e104]: Build Your One-Person On-Chain Finance Business with SoSoValue
+          - generic [ref=e105]:
+            - text: 1Days 05:42
+            - generic [ref=e106]: Left to Submit
+      - main [ref=e107]:
+        - generic [ref=e108]:
+          - heading "Create Product" [level=1] [ref=e109]
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e114]:
+                - generic [ref=e115]:
+                  - generic [ref=e116]: Product icon
+                  - generic [ref=e117]: "*"
+                  - generic [ref=e118]: Required
+                - generic [ref=e121] [cursor=pointer]: Upload
+              - generic [ref=e122]:
+                - generic [ref=e123]:
+                  - generic [ref=e124]: Product name
+                  - generic [ref=e125]: "*"
+                  - generic [ref=e126]: Required
+                - textbox [ref=e127]
+            - generic [ref=e128]:
+              - generic [ref=e129]:
+                - generic [ref=e130]: Tagline
+                - generic [ref=e131]: "*"
+                - generic [ref=e132]: Required
+              - generic [ref=e133]: Describe your product in 100 words or less.
+              - textbox [ref=e134]
+            - generic [ref=e135]:
+              - generic [ref=e136]:
+                - generic [ref=e137]: Product type
+                - generic [ref=e138]: "*"
+                - generic [ref=e139]: Required
+              - generic [ref=e140]: If ideas aren’t allowed, GitHub connect is required. Repo must be public for judging. Hiding the product page keeps it private from others.
+              - generic [ref=e141]:
+                - radio "Idea" [ref=e142]
+                - text: Idea
+              - generic [ref=e143]:
+                - radio "Prototype" [ref=e144]
+                - text: Prototype
+              - generic [ref=e145]:
+                - radio "Functional" [ref=e146]
+                - text: Functional
+            - generic [ref=e147]:
+              - generic [ref=e148]:
+                - generic [ref=e149]:
+                  - generic [ref=e150]: Image gallery
+                  - generic [ref=e151]: "*"
+                  - generic [ref=e152]: Required
+                - generic [ref=e153]: 0/5
+              - generic [ref=e157] [cursor=pointer]: Img upload
+            - generic [ref=e158]:
+              - generic [ref=e159]:
+                - generic [ref=e160]: About
+                - generic [ref=e161]: "*"
+                - generic [ref=e162]: Required
+              - generic [ref=e163]: Use Markdown to format your content.
+              - generic [ref=e164]:
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - button "Write" [ref=e167] [cursor=pointer]
+                    - button "Preview" [ref=e168] [cursor=pointer]
+                  - toolbar "Text formatting options" [ref=e170]:
+                    - button [ref=e171] [cursor=pointer]:
+                      - img [ref=e172]
+                    - button [ref=e174] [cursor=pointer]:
+                      - img [ref=e175]
+                    - button [ref=e177] [cursor=pointer]:
+                      - img [ref=e178]
+                    - button [ref=e180] [cursor=pointer]:
+                      - img [ref=e181]
+                    - button [ref=e183] [cursor=pointer]:
+                      - img [ref=e184]
+                    - button [ref=e186] [cursor=pointer]:
+                      - img [ref=e187]
+                    - button [ref=e189] [cursor=pointer]:
+                      - img [ref=e190]
+                - textbox "Markdown editor" [ref=e193]: "## What it does ## The problem it solves ## Challenges I ran into ## Technologies I used ## How we built it ## What we learned ## What's next for"
+              - button "Paste, drop, or click to add images" [ref=e194] [cursor=pointer]:
+                - img [ref=e195]
+                - generic [ref=e197]: Paste, drop, or click to add images
+            - generic [ref=e198]:
+              - generic [ref=e199]:
+                - generic [ref=e200]: Deliverable URL
+                - generic [ref=e201]: "*"
+                - generic [ref=e202]: Required
+              - generic [ref=e203]: Enter a URL to view the deliverable (e.g., a GitHub repository URL).
+              - textbox "https://github.com/org/repo" [ref=e204]
+            - generic [ref=e205]:
+              - generic [ref=e207]: Video
+              - generic [ref=e208]: Please post a demo video of your product with a public YouTube URL.
+              - textbox [ref=e209]
+            - generic [ref=e210]:
+              - generic [ref=e212]: Live demo
+              - generic [ref=e213]: If the URL of the product is publicly available, please let me know.
+              - textbox [ref=e214]
+            - generic [ref=e215]:
+              - generic [ref=e216]:
+                - generic [ref=e217]: Build with
+                - generic [ref=e218]: "*"
+                - generic [ref=e219]: Required
+              - generic [ref=e220]: Enter the infrastructure layer you used (mainly blockchain). Free input allowed, Enter to add each.
+              - generic [ref=e221]:
+                - alert [ref=e222]
+                - textbox [ref=e225]
+            - generic [ref=e226]:
+              - generic [ref=e227]:
+                - generic [ref=e228]: Product Category
+                - generic [ref=e229]: "*"
+                - generic [ref=e230]: Required
+              - generic [ref=e231]: Enter the category of your project (e.g. Prediction Market, Game, Market Infrastructure, Other) *max3).
+              - generic [ref=e232]:
+                - generic [ref=e234]:
+                  - alert [ref=e235]
+                  - textbox [ref=e238]
+                - button "Add" [disabled]:
+                  - img
+                  - text: Add
+            - generic [ref=e239]:
+              - generic [ref=e240]:
+                - generic [ref=e241]: Tags
+                - generic [ref=e242]: "*"
+                - generic [ref=e243]: Required
+              - generic [ref=e244]: Enter your tech stack (e.g. Solidity, Rust, Hardhat, Next.js, Privy, etc). Press Enter to add each(max 10).
+              - generic [ref=e245]:
+                - alert [ref=e246]
+                - textbox [ref=e249]
+            - generic [ref=e250]:
+              - generic [ref=e252]: Product detail visibility
+              - generic [ref=e253]:
+                - text: If set to Hide, detail will be visible only to members and the organizing of the submitted hackathon.
+                - text: The icon, title, and tagline will remain public.
+              - generic [ref=e254]:
+                - radio "Show" [checked] [ref=e255]
+                - text: Show
+              - generic [ref=e256]:
+                - radio "Hide" [ref=e257]
+                - text: Hide
+            - generic [ref=e258]:
+              - generic [ref=e259]: Connect
+              - generic [ref=e260]:
+                - generic [ref=e261]:
+                  - generic [ref=e262]:
+                    - img [ref=e264]
+                    - generic [ref=e267]: X
+                  - textbox "https://x.com/your_account" [ref=e268]
+                - generic [ref=e269]:
+                  - generic [ref=e270]:
+                    - img [ref=e271]
+                    - generic [ref=e274]: Discord
+                  - textbox "https://discord.gg/your_account" [ref=e275]
+                - generic [ref=e276]:
+                  - generic [ref=e277]:
+                    - img [ref=e278]
+                    - generic [ref=e281]: Telegram
+                  - textbox "https://t.me/your_account" [ref=e282]
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - img [ref=e285]
+                    - generic [ref=e288]: Email
+                  - textbox "sample@sample.com" [ref=e289]
+            - button "Save" [ref=e291] [cursor=pointer]
+      - contentinfo [ref=e30]:
+        - generic [ref=e31]:
+          - generic [ref=e34]:
+            - generic [ref=e35]:
+              - generic [ref=e36]:
+                - img [ref=e37]
+                - link "BOOK A STRATEGY CALL" [ref=e47] [cursor=pointer]:
+                  - /url: https://calendly.com/shinkinjo/30min
+              - generic [ref=e48]:
+                - list [ref=e49]:
+                  - listitem [ref=e50]:
+                    - link "Contact us" [ref=e51] [cursor=pointer]:
+                      - /url: https://app.deform.cc/form/d4def915-fae8-46a9-b66f-3bf623ff2a98/?page_number=0
+                  - listitem [ref=e52]:
+                    - link "Buildathons" [ref=e53] [cursor=pointer]:
+                      - /url: https://app.akindo.io/wave-hacks
+                  - listitem [ref=e54]:
+                    - link "Products" [ref=e55] [cursor=pointer]:
+                      - /url: https://app.akindo.io/products
+                  - listitem [ref=e56]:
+                    - link "The Builder Activation" [ref=e57] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@akindo_io
+                - list [ref=e58]:
+                  - listitem [ref=e59]:
+                    - link "About us" [ref=e60] [cursor=pointer]:
+                      - /url: https://akindo.io
+                  - listitem [ref=e61]:
+                    - link "Brand Assets" [ref=e62] [cursor=pointer]:
+                      - /url: https://drive.google.com/drive/folders/14xy6WPsUUSkoqn6nULor0WFrLjizscrs?usp=sharing
+                  - listitem [ref=e63]:
+                    - link "Terms" [ref=e64] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/Terms-4d86eec7d87c424e987ddb0dbc53af29
+                  - listitem [ref=e65]:
+                    - link "Privacy Policy" [ref=e66] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/PrivacyPolicy-db4b7aad0fe74d95a580665bb6d374a0
+            - generic [ref=e67]:
+              - list [ref=e68]:
+                - listitem [ref=e69]:
+                  - link [ref=e70] [cursor=pointer]:
+                    - /url: https://twitter.com/akindo_io
+                    - img [ref=e71]
+                - listitem [ref=e73]:
+                  - link [ref=e74] [cursor=pointer]:
+                    - /url: https://discord.gg/xAHPkSM9t7
+                    - img [ref=e75]
+                - listitem [ref=e77]:
+                  - link [ref=e78] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@akindo_io
+                    - img [ref=e79]
+                - listitem [ref=e81]:
+                  - link [ref=e82] [cursor=pointer]:
+                    - /url: https://t.me/akindo_io
+                    - img [ref=e83]
+                - listitem [ref=e85]:
+                  - link "Luma" [ref=e86] [cursor=pointer]:
+                    - /url: https://lu.ma/user/akindo
+                    - img "Luma" [ref=e88]
+                - listitem [ref=e89]:
+                  - link "Substack" [ref=e90] [cursor=pointer]:
+                    - /url: https://akindo.substack.com/
+                    - img "Substack" [ref=e92]
+              - generic [ref=e93]: ©AKINDO
+          - img "Build a Killer App" [ref=e95]
+    - region "Notifications Alt+T"
+    - generic [ref=e294]:
+      - generic [ref=e295]: Select a product to submit
+      - generic [ref=e297]:
+        - generic [ref=e298]:
+          - generic [ref=e299]:
+            - generic [ref=e300]: Product
+            - generic [ref=e301]: "*"
+            - generic [ref=e302]: Required
+          - generic [ref=e303]:
+            - log [ref=e305]
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - generic [ref=e308]: Select...
+                - combobox [ref=e310]
+              - img [ref=e314]
+          - textbox [ref=e316]
+        - generic [ref=e317]:
+          - generic [ref=e318]:
+            - generic [ref=e319]: Update details
+            - generic [ref=e320]: "*"
+            - generic [ref=e321]: Required
+          - textbox [ref=e322]
+          - generic [ref=e324]: 0 / 3,000
+        - button "Submit" [ref=e326] [cursor=pointer]
+  - alert [ref=e96]: AKINDO
+  - generic:
+    - alertdialog
+  - generic:
+    - alertdialog

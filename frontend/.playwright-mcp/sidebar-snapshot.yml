@@ -1,0 +1,16 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]
+      - generic [ref=e16]
+      - generic [ref=e20]
+    - generic [ref=e28]:
+      - complementary [ref=e29]
+      - main [ref=e61]
+    - complementary [ref=e79]:
+      - generic [ref=e80]
+      - generic [ref=e92]
+      - generic [ref=e101]
+    - generic:
+      - img "Premium Terminal Grid Visual"
+  - generic [ref=e402]: "-450M"

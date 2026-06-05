@@ -1,0 +1,288 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - button "Collapse Sidebar" [ref=e6]: menu_open
+        - generic [ref=e7]: CRYPTODESK
+        - navigation [ref=e8]:
+          - button "BTC" [ref=e9]
+          - button "ETH" [ref=e10]
+          - button "SOL" [ref=e11]
+          - button "CPI" [ref=e12]
+          - button "MSTR" [ref=e13]
+          - button "MAG7" [ref=e14]
+      - generic [ref=e16]:
+        - generic [ref=e17]: /
+        - textbox "Search ValueGPT" [ref=e18]:
+          - /placeholder: Ask ValueGPT anything...
+        - generic [ref=e19]: ⌘K
+      - generic [ref=e20]:
+        - 'generic "Next: CPI on May 15 (4 days)" [ref=e21]':
+          - generic [ref=e22]: schedule
+          - generic [ref=e23]: CPI
+          - generic [ref=e24]: ·
+          - generic [ref=e25]: 4D
+        - generic [ref=e26]: CRYPTO
+        - generic [ref=e29]: LIVE
+        - button "notifications" [ref=e30]
+        - button "grid_view" [ref=e31]
+        - img "User Profile" [ref=e33] [cursor=pointer]
+    - generic [ref=e34]:
+      - complementary [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - generic [ref=e39]: bolt
+            - generic [ref=e40]:
+              - heading "VALUEGPT" [level=2] [ref=e41]
+              - generic [ref=e42]: Terminal Edge
+          - navigation [ref=e43]:
+            - button "dashboard Terminal" [ref=e44]:
+              - generic [ref=e45]: dashboard
+              - generic [ref=e46]: Terminal
+            - button "analytics Market Intel" [ref=e47]:
+              - generic [ref=e48]: analytics
+              - generic [ref=e49]: Market Intel
+            - button "science Research Lab" [ref=e50]:
+              - generic [ref=e51]: science
+              - generic [ref=e52]: Research Lab
+            - button "account_balance_wallet Portfolio" [ref=e53]:
+              - generic [ref=e54]: account_balance_wallet
+              - generic [ref=e55]: Portfolio
+            - button "auto_awesome New Analysis" [ref=e57]:
+              - generic [ref=e58]: auto_awesome
+              - generic [ref=e59]: New Analysis
+        - generic [ref=e60]:
+          - button "description Docs" [ref=e61]:
+            - generic [ref=e62]: description
+            - generic [ref=e63]: Docs
+          - button "support_agent Support" [ref=e64]:
+            - generic [ref=e65]: support_agent
+            - generic [ref=e66]: Support
+      - main [ref=e67]:
+        - generic [ref=e68]:
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - heading "Signal Feed" [level=3] [ref=e72]
+              - generic [ref=e73]: 8 LIVE
+            - generic [ref=e74]:
+              - button "All" [ref=e75]
+              - button "News" [ref=e76]
+              - button "KOL" [ref=e77]
+              - button "Alerts" [ref=e78]
+            - generic [ref=e79]:
+              - article [ref=e80] [cursor=pointer]:
+                - generic [ref=e81]:
+                  - generic [ref=e82]: ETF Inflow
+                  - generic [ref=e83]: 2h ago
+                - heading "BlackRock IBIT sees $620M single-day ETF inflow — largest in 30 days" [level=4] [ref=e84]
+                - paragraph [ref=e85]: SoSoValue
+              - article [ref=e86] [cursor=pointer]:
+                - generic [ref=e87]:
+                  - generic [ref=e88]: Macro Signal
+                  - generic [ref=e89]: 4h ago
+                - heading "CPI came in at 3.4% YoY — 10bps below forecast, BTC surges 4% in 1h" [level=4] [ref=e90]
+                - paragraph [ref=e91]: CoinDesk
+              - article [ref=e92] [cursor=pointer]:
+                - generic [ref=e93]:
+                  - generic [ref=e94]: Whale Activity
+                  - generic [ref=e95]: 6h ago
+                - heading "MicroStrategy acquires 3,000 more BTC at $98,200 average — total 217K BTC" [level=4] [ref=e96]
+                - paragraph [ref=e97]: Reuters
+              - article [ref=e98] [cursor=pointer]:
+                - generic [ref=e99]:
+                  - generic [ref=e100]: Market Update
+                  - generic [ref=e101]: 8h ago
+                - heading "Fed holds rates at 5.25–5.50% — markets price 2 cuts in H2 2025" [level=4] [ref=e102]
+                - paragraph [ref=e103]: Bloomberg
+              - article [ref=e104] [cursor=pointer]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Research Note
+                  - generic [ref=e107]: 10h ago
+                - heading "Spot BTC ETF AUM crosses $127B — on pace for $150B by Q3" [level=4] [ref=e108]
+                - paragraph [ref=e109]: SoSoValue
+              - article [ref=e110] [cursor=pointer]:
+                - generic [ref=e111]:
+                  - generic [ref=e112]: ETF Inflow
+                  - generic [ref=e113]: 12h ago
+                - heading "Ethereum ETFs record first positive 7-day net inflow streak since launch" [level=4] [ref=e114]
+                - paragraph [ref=e115]: TheBlock
+              - article [ref=e116] [cursor=pointer]:
+                - generic [ref=e117]:
+                  - generic [ref=e118]: Research Note
+                  - generic [ref=e119]: 14h ago
+                - heading "BTC ATH distance narrows to 3.8% — analysts target $112K by June" [level=4] [ref=e120]
+                - paragraph [ref=e121]: CryptoSlate
+              - article [ref=e122] [cursor=pointer]:
+                - generic [ref=e123]:
+                  - generic [ref=e124]: Bullish Signal
+                  - generic [ref=e125]: 16h ago
+                - heading "COIN reports record Q1 revenue of $2.3B — crypto equities rally" [level=4] [ref=e126]
+                - paragraph [ref=e127]: CNBC
+          - generic [ref=e128]:
+            - generic [ref=e130]:
+              - generic [ref=e131]:
+                - generic [ref=e132]:
+                  - heading "Market Context" [level=3] [ref=e133]
+                  - generic [ref=e134]:
+                    - generic [ref=e135]: BTC / USD
+                    - generic [ref=e138]: Fair Value Active
+                - generic [ref=e139]:
+                  - button "7D" [ref=e140]
+                  - button "30D" [ref=e141]
+                  - button "90D" [ref=e142]
+                  - button "1Y" [ref=e143]
+              - generic [ref=e144]:
+                - paragraph [ref=e145]: BTC / USD · Price + ETF Net Flow
+                - generic [ref=e146]:
+                  - generic [ref=e149]: Spot Price
+                  - generic [ref=e152]: AI Fair Value
+                  - generic [ref=e155]: ETF Net Flow
+              - generic [ref=e156]:
+                - application [ref=e161]:
+                  - generic [ref=e172]:
+                    - generic [ref=e173]:
+                      - generic [ref=e175]: Apr 25
+                      - generic [ref=e177]: Apr 29
+                      - generic [ref=e179]: May 03
+                      - generic [ref=e181]: May 07
+                      - generic [ref=e183]: May 11
+                    - generic [ref=e184]:
+                      - generic [ref=e186]: $0k
+                      - generic [ref=e188]: $30k
+                      - generic [ref=e190]: $60k
+                      - generic [ref=e192]: $90k
+                      - generic [ref=e194]: $120k
+                    - generic [ref=e195]:
+                      - generic [ref=e197]: "-450M"
+                      - generic [ref=e199]: 0M
+                      - generic [ref=e201]: 450M
+                      - generic [ref=e203]: 900M
+                      - generic [ref=e205]: 1350M
+                    - generic [ref=e206]: FOMC
+                    - generic [ref=e207]: NFP
+                - button "auto_awesome Premium Signal arrow_outward Bitcoin (BTC) is currently priced at $104,100, reflecting a 2.34% increase over the past 24 hours, with a market cap of $2.06 trillion. Recent developments include a $620 million single-day inflow into BlackRock's ETF and MicroStrategy's acquisition of 3,000 BTC at an average price of $98,200. Click to ask ValueGPT →" [ref=e208] [cursor=pointer]:
+                  - generic [ref=e209]:
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: auto_awesome
+                      - paragraph [ref=e212]: Premium Signal
+                    - generic [ref=e213]: arrow_outward
+                  - paragraph [ref=e214]: Bitcoin (BTC) is currently priced at $104,100, reflecting a 2.34% increase over the past 24 hours, with a market cap of $2.06 trillion. Recent developments include a $620 million single-day inflow into BlackRock's ETF and MicroStrategy's acquisition of 3,000 BTC at an average price of $98,200.
+                  - paragraph [ref=e215]: Click to ask ValueGPT →
+            - generic [ref=e217]:
+              - generic [ref=e218]:
+                - heading "Institutional X-Ray" [level=4] [ref=e219]
+                - generic [ref=e222]: LIVE HUD
+              - table [ref=e224]:
+                - rowgroup [ref=e225]:
+                  - row "Entity Holdings (BTC) 7D Delta Avg. Cost Sentiment" [ref=e226]:
+                    - columnheader "Entity" [ref=e227]
+                    - columnheader "Holdings (BTC)" [ref=e228]
+                    - columnheader "7D Delta" [ref=e229]
+                    - columnheader "Avg. Cost" [ref=e230]
+                    - columnheader "Sentiment" [ref=e231]
+                - rowgroup [ref=e232]:
+                  - row "BlackRock IBIT 287,412 +12,410 $64,210 Accumulating" [ref=e233]:
+                    - cell "BlackRock IBIT" [ref=e234]
+                    - cell "287,412" [ref=e235]
+                    - cell "+12,410" [ref=e236]
+                    - cell "$64,210" [ref=e237]
+                    - cell "Accumulating" [ref=e238]
+                  - row "Fidelity FBTC 158,202 +4,115 $62,840 Accumulating" [ref=e239]:
+                    - cell "Fidelity FBTC" [ref=e240]
+                    - cell "158,202" [ref=e241]
+                    - cell "+4,115" [ref=e242]
+                    - cell "$62,840" [ref=e243]
+                    - cell "Accumulating" [ref=e244]
+                  - row "Grayscale GBTC 298,110 -8,211 $24,100 Distributing" [ref=e245]:
+                    - cell "Grayscale GBTC" [ref=e246]
+                    - cell "298,110" [ref=e247]
+                    - cell "-8,211" [ref=e248]
+                    - cell "$24,100" [ref=e249]
+                    - cell "Distributing" [ref=e250]
+          - generic [ref=e252]:
+            - generic [ref=e253]:
+              - generic [ref=e254]:
+                - heading "Action Layer" [level=3] [ref=e255]
+                - generic [ref=e256]: BTC
+              - generic [ref=e257]:
+                - paragraph [ref=e258]: BTC / USD · Real-time
+                - generic [ref=e259]:
+                  - generic [ref=e260]: $104,100
+                  - generic [ref=e261]: +2.34%
+              - generic [ref=e262]:
+                - generic [ref=e263]:
+                  - paragraph [ref=e264]: 24h High
+                  - paragraph [ref=e265]: $106,200
+                - generic [ref=e266]:
+                  - paragraph [ref=e267]: 24h Low
+                  - paragraph [ref=e268]: $101,800
+                - generic [ref=e269]:
+                  - paragraph [ref=e270]: Market Cap
+                  - paragraph [ref=e271]: $2.06T
+                - generic [ref=e272]:
+                  - paragraph [ref=e273]: Dominance
+                  - paragraph [ref=e274]: 61.4%
+                - generic [ref=e275]:
+                  - paragraph [ref=e276]: ATH Dist.
+                  - paragraph [ref=e277]: "-3.8%"
+                - generic [ref=e278]:
+                  - paragraph [ref=e279]: ETF 7d Flow
+                  - paragraph [ref=e280]: +$1.2B
+              - generic [ref=e281]:
+                - generic:
+                  - generic: auto_awesome
+                - paragraph [ref=e282]: Fair Value Delta
+                - generic [ref=e283]:
+                  - generic [ref=e284]: "-$3,331"
+                  - generic [ref=e285]: Undervalued
+                - paragraph [ref=e286]:
+                  - text: Asset is trading
+                  - generic [ref=e287]: 3.2%
+                  - text: below AI intrinsic target based on global liquidity and on-chain supply delta.
+            - generic [ref=e288]:
+              - generic [ref=e289]:
+                - generic [ref=e290]: psychology
+                - heading "Editorial Brief" [level=4] [ref=e291]
+              - paragraph [ref=e292]: "\"Bitcoin (BTC) is currently priced at $104,100, reflecting a 2.34% increase over the past 24 hours, with a market cap of $2.06 trillion. Recent developments include a $620 million single-day inflow into BlackRock's ETF and MicroStrategy's acquisition of 3,000 BTC at an average price of $98,200.\""
+              - generic [ref=e293]:
+                - generic [ref=e294]:
+                  - generic [ref=e295]:
+                    - generic [ref=e296]: Bull Probability
+                    - generic [ref=e297]: 62%
+                  - paragraph [ref=e300]: ETF acceleration + structural re-rating.
+                - generic [ref=e301]:
+                  - generic [ref=e302]:
+                    - generic [ref=e303]: Bear Probability
+                    - generic [ref=e304]: 38%
+                  - paragraph [ref=e307]: Macro liquidity squeeze or regulatory pivot.
+              - link "Trade on SoDEX arrow_outward" [ref=e308] [cursor=pointer]:
+                - /url: https://sodex.org/trade?pair=BTC-USDT&side=buy
+                - text: Trade on SoDEX
+                - generic [ref=e309]: arrow_outward
+    - complementary [ref=e310]:
+      - generic [ref=e311]:
+        - generic [ref=e312]:
+          - generic [ref=e313]: auto_awesome
+          - generic [ref=e314]:
+            - paragraph [ref=e315]: ValueGPT
+            - paragraph [ref=e316]: "Context: BTC · $104,100"
+        - generic [ref=e317]:
+          - button "add_circle" [ref=e318]:
+            - generic [ref=e319]: add_circle
+          - button "close" [ref=e320]:
+            - generic [ref=e321]: close
+      - generic [ref=e323]:
+        - generic [ref=e324]: auto_awesome
+        - paragraph [ref=e325]: Ask ValueGPT anything
+        - paragraph [ref=e326]: I see what you see on the terminal — prices, news, ETF flows, macro events. Cite news with [news:N].
+        - generic [ref=e327]:
+          - button "Why did this asset move today?" [ref=e328]
+          - button "/summary — re-brief this asset" [ref=e329]
+          - button "/scenario bull — what's the upside trigger?" [ref=e330]
+      - generic [ref=e332]:
+        - textbox "Ask ValueGPT… (try /summary, /scenario, /rebalance)" [ref=e333]
+        - button "arrow_upward" [disabled] [ref=e334]:
+          - generic [ref=e335]: arrow_upward
+    - generic:
+      - img "Premium Terminal Grid Visual"
+  - generic [ref=e336]: "-450M"

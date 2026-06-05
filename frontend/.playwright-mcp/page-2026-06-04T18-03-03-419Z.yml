@@ -1,0 +1,184 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - button "Collapse Sidebar" [ref=e6]: menu_open
+      - generic [ref=e7]: CRYPTODESK
+      - navigation [ref=e8]:
+        - button "BTC" [ref=e9] [cursor=pointer]
+        - button "ETH" [ref=e10] [cursor=pointer]
+        - button "SOL" [ref=e11] [cursor=pointer]
+        - button "CPI" [ref=e12] [cursor=pointer]
+        - button "MSTR" [ref=e13] [cursor=pointer]
+        - button "MAG7" [ref=e14] [cursor=pointer]
+    - generic [ref=e16]:
+      - generic [ref=e17]: /
+      - textbox "Search ValueGPT" [ref=e18]:
+        - /placeholder: Ask ValueGPT anything...
+      - generic [ref=e19]: ⌘K
+    - generic [ref=e20]:
+      - generic [ref=e21]: CRYPTO
+      - generic [ref=e24]: LIVE
+      - button "Notifications" [ref=e25] [cursor=pointer]: notifications
+      - button "Layout" [ref=e26] [cursor=pointer]: grid_view
+      - img "User Profile" [ref=e28] [cursor=pointer]
+  - generic [ref=e29]:
+    - complementary [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e34]: bolt
+          - generic [ref=e35]:
+            - heading "VALUEGPT" [level=2] [ref=e36]
+            - generic [ref=e37]: Terminal Edge
+        - navigation [ref=e38]:
+          - button "dashboard Terminal" [ref=e39] [cursor=pointer]:
+            - generic [ref=e40]: dashboard
+            - generic [ref=e41]: Terminal
+          - button "analytics Market Intel" [ref=e42] [cursor=pointer]:
+            - generic [ref=e43]: analytics
+            - generic [ref=e44]: Market Intel
+          - button "science Research Lab" [ref=e45] [cursor=pointer]:
+            - generic [ref=e46]: science
+            - generic [ref=e47]: Research Lab
+          - button "account_balance_wallet Portfolio" [ref=e48] [cursor=pointer]:
+            - generic [ref=e49]: account_balance_wallet
+            - generic [ref=e50]: Portfolio
+          - button "auto_awesome New Analysis" [ref=e52] [cursor=pointer]:
+            - generic [ref=e53]: auto_awesome
+            - generic [ref=e54]: New Analysis
+      - generic [ref=e55]:
+        - button "description Docs" [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: description
+          - generic [ref=e58]: Docs
+        - button "support_agent Support" [ref=e59] [cursor=pointer]:
+          - generic [ref=e60]: support_agent
+          - generic [ref=e61]: Support
+    - main [ref=e62]:
+      - generic [ref=e63]:
+        - generic [ref=e65]:
+          - generic [ref=e66]:
+            - heading "Signal Feed" [level=3] [ref=e67]
+            - generic [ref=e68]: 0 LIVE
+          - generic [ref=e69]:
+            - button "All" [ref=e70]
+            - button "News" [ref=e71]
+            - button "KOL" [ref=e72]
+            - button "Alerts" [ref=e73]
+          - generic [ref=e76]: No items in this category
+        - generic [ref=e77]:
+          - generic [ref=e79]:
+            - generic [ref=e80]:
+              - generic [ref=e81]:
+                - heading "Market Context" [level=3] [ref=e82]
+                - generic [ref=e83]:
+                  - generic [ref=e84]: BTC / USD
+                  - generic [ref=e87]: Fair Value Active
+              - generic [ref=e88]:
+                - button "7D" [ref=e89]
+                - button "30D" [ref=e90]
+                - button "90D" [ref=e91]
+                - button "1Y" [ref=e92]
+            - generic [ref=e93]:
+              - paragraph [ref=e94]: BTC / USD · Price + ETF Net Flow
+              - generic [ref=e95]:
+                - generic [ref=e98]: Spot Price
+                - generic [ref=e101]: AI Fair Value
+                - generic [ref=e104]: ETF Net Flow
+            - application [ref=e110]
+          - generic [ref=e115]:
+            - generic [ref=e116]:
+              - heading "Institutional X-Ray" [level=4] [ref=e117]
+              - generic [ref=e120]: LIVE HUD
+            - table [ref=e122]:
+              - rowgroup [ref=e123]:
+                - row "Entity Holdings (BTC) 7D Delta Avg. Cost Sentiment" [ref=e124]:
+                  - columnheader "Entity" [ref=e125]
+                  - columnheader "Holdings (BTC)" [ref=e126]
+                  - columnheader "7D Delta" [ref=e127]
+                  - columnheader "Avg. Cost" [ref=e128]
+                  - columnheader "Sentiment" [ref=e129]
+              - rowgroup [ref=e130]:
+                - row "BlackRock IBIT 287,412 +12,410 $64,210 Accumulating" [ref=e131]:
+                  - cell "BlackRock IBIT" [ref=e132]
+                  - cell "287,412" [ref=e133]
+                  - cell "+12,410" [ref=e134]
+                  - cell "$64,210" [ref=e135]
+                  - cell "Accumulating" [ref=e136]
+                - row "Fidelity FBTC 158,202 +4,115 $62,840 Accumulating" [ref=e137]:
+                  - cell "Fidelity FBTC" [ref=e138]
+                  - cell "158,202" [ref=e139]
+                  - cell "+4,115" [ref=e140]
+                  - cell "$62,840" [ref=e141]
+                  - cell "Accumulating" [ref=e142]
+                - row "Grayscale GBTC 298,110 -8,211 $24,100 Distributing" [ref=e143]:
+                  - cell "Grayscale GBTC" [ref=e144]
+                  - cell "298,110" [ref=e145]
+                  - cell "-8,211" [ref=e146]
+                  - cell "$24,100" [ref=e147]
+                  - cell "Distributing" [ref=e148]
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - heading "Action Layer" [level=3] [ref=e153]
+            - generic [ref=e154]: BTC
+          - generic [ref=e155]:
+            - paragraph [ref=e156]: BTC / USD · Real-time
+            - generic [ref=e157]:
+              - generic [ref=e158]: $0
+              - button "+0%" [ref=e159] [cursor=pointer]:
+                - generic [ref=e160]: +0%
+                - generic [ref=e161]: auto_awesome
+          - generic [ref=e162]:
+            - generic [ref=e163]:
+              - paragraph [ref=e164]: 24h High
+              - paragraph [ref=e165]: —
+            - generic [ref=e166]:
+              - paragraph [ref=e167]: 24h Low
+              - paragraph [ref=e168]: —
+            - generic [ref=e169]:
+              - paragraph [ref=e170]: Market Cap
+              - paragraph [ref=e171]: —
+            - generic [ref=e172]:
+              - paragraph [ref=e173]: Dominance
+              - paragraph [ref=e174]: —
+            - generic [ref=e175]:
+              - paragraph [ref=e176]: ATH Dist.
+              - paragraph [ref=e177]: —
+            - generic [ref=e178]:
+              - paragraph [ref=e179]: ETF 7d Flow
+              - paragraph [ref=e180]: —
+          - generic [ref=e181]:
+            - generic:
+              - generic: auto_awesome
+            - paragraph [ref=e182]: Fair Value Delta
+            - generic [ref=e183]:
+              - generic [ref=e184]: —
+              - generic [ref=e185]: Undervalued
+            - paragraph [ref=e186]:
+              - text: Asset is trading
+              - generic [ref=e187]: 3.2%
+              - text: below AI intrinsic target based on global liquidity and on-chain supply delta.
+  - complementary [ref=e188]:
+    - generic [ref=e189]:
+      - generic [ref=e190]:
+        - generic [ref=e191]: auto_awesome
+        - generic [ref=e192]:
+          - paragraph [ref=e193]: ValueGPT
+          - paragraph [ref=e194]: "Context: BTC"
+      - generic [ref=e195]:
+        - button "add_circle" [ref=e196]:
+          - generic [ref=e197]: add_circle
+        - button "close" [ref=e198]:
+          - generic [ref=e199]: close
+    - generic [ref=e201]:
+      - generic [ref=e202]: auto_awesome
+      - paragraph [ref=e203]: Ask ValueGPT anything
+      - paragraph [ref=e204]: I see what you see on the terminal — prices, news, ETF flows, macro events. Cite news with [news:N].
+      - generic [ref=e205]:
+        - button "Why did this asset move today?" [ref=e206]
+        - button "/summary — re-brief this asset" [ref=e207]
+        - button "/scenario bull — what's the upside trigger?" [ref=e208]
+    - generic [ref=e210]:
+      - textbox "Ask ValueGPT… (try /summary, /scenario, /rebalance)" [ref=e211]
+      - button "arrow_upward" [disabled] [ref=e212]:
+        - generic [ref=e213]: arrow_upward
+  - generic:
+    - img "Premium Terminal Grid Visual"

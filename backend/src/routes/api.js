@@ -35,10 +35,37 @@ function extractItems(value) {
   if (!value) return []
   if (Array.isArray(value.data?.items)) return value.data.items
   if (Array.isArray(value.data?.list))  return value.data.list
+  if (Array.isArray(value.data?.data))  return value.data.data
   if (Array.isArray(value.data))        return value.data
-  if (Array.isArray(value.items))       return value.items
-  if (Array.isArray(value.list))        return value.list
+  if (Array.isArray(value.result?.data)) return value.result.data
+  if (Array.isArray(value.result?.list)) return value.result.list
+  if (Array.isArray(value.result))       return value.result
+  if (Array.isArray(value.items))        return value.items
+  if (Array.isArray(value.list))         return value.list
   return []
+}
+
+// Maps any SoSoValue news item shape to the frontend's expected fields.
+// category is forced to one of: news | research | kol | announcement
+function normalizeNewsItem(item, idx) {
+  const cat = String(item.category ?? item.categoryId ?? item.type ?? '').toLowerCase()
+  let category = 'news'
+  if (['research', 'analysis', 'report', '2', 'insight'].includes(cat)) category = 'research'
+  else if (['kol', 'opinion', 'twitter', '3', 'social'].includes(cat)) category = 'kol'
+  else if (['announcement', 'alert', 'project', '4', 'notice'].includes(cat)) category = 'announcement'
+
+  const raw = String(item.sentiment ?? item.sentimentLabel ?? '').toLowerCase()
+  const sentiment = ['positive', 'negative', 'neutral'].includes(raw) ? raw : 'neutral'
+
+  return {
+    id: item.id ?? item.newsId ?? item.news_id ?? idx,
+    title: item.title ?? item.headline ?? item.content ?? '',
+    source: item.source ?? item.sourceName ?? item.source_name ?? item.mediaName ?? '',
+    time: item.time ?? item.publishTime ?? item.publish_time ?? item.createTime ?? item.date ?? '',
+    sentiment,
+    category,
+    tags: item.tags ?? item.keywords ?? item.coins ?? [],
+  }
 }
 
 // Normalizes a raw SoSoValue market-snapshot to expected frontend field names.
@@ -92,16 +119,22 @@ router.get('/news', async (req, res) => {
       if (category) calls.push(soso.call('/news', { category }))
 
       const results = await Promise.allSettled(calls)
-      const items = results
+      const raw = results
         .filter((r) => r.status === 'fulfilled')
         .flatMap((r) => extractItems(r.value))
 
-      // Dedup by title (id may be absent in SoSoValue responses)
+      // Dedup by title, then normalize field names and category
       const seen = new Set()
-      return { items: items.filter((n) => {
-        const key = n.id ?? n.title ?? Math.random()
-        return seen.has(key) ? false : seen.add(key)
-      }) }
+      const items = raw
+        .filter((n) => {
+          const key = n.id ?? n.title ?? Math.random()
+          return seen.has(key) ? false : seen.add(key)
+        })
+        .map(normalizeNewsItem)
+
+      // If live API returned nothing parseable, fall back to mock so feed is never empty
+      if (items.length === 0) return fallbackNews(keyword, category)
+      return { items }
     })
     res.json(data)
   } catch {
@@ -195,6 +228,60 @@ router.get('/etf', async (req, res) => {
   }
 })
 
+// ─── /api/etf/multi ──────────────────────────────────────────────────────────
+// Fans out to per-ticker history endpoints (BlackRock IBIT, Fidelity FBTC, Grayscale GBTC).
+// Returns: { tickers: [{ ticker, days: [{date, flow}] }], source }
+router.get('/etf/multi', async (req, res) => {
+  const tickers = (req.query.tickers || 'IBIT,FBTC,GBTC').split(',').map((t) => t.trim().toUpperCase()).slice(0, 6)
+  const days = Math.min(Number(req.query.days) || 30, 90)
+  const cacheKey = `etf:multi:${tickers.join(',')}:${days}`
+
+  try {
+    const data = await cached(cacheKey, TTL.ETF, async () => {
+      if (!soso.hasKey()) return { tickers: tickers.map((t) => syntheticEtfRow(t, days)), source: 'mock' }
+
+      const results = await Promise.allSettled(
+        tickers.map((t) => soso.call(`/etfs/${t}/history`).catch(() => null))
+      )
+      const rows = results.map((r, i) => {
+        const ticker = tickers[i]
+        const raw = r.status === 'fulfilled' ? extractItems(r.value) : []
+        const live = (raw || [])
+          .slice(0, days)
+          .map((item) => ({
+            date: item.date ?? item.statisticDate ?? item.day ?? '',
+            flow: Number(item.netInflow ?? item.netFlow ?? item.value ?? 0),
+          }))
+          .filter((d) => d.date)
+        return live.length > 0 ? { ticker, days: live } : syntheticEtfRow(ticker, days)
+      })
+      const anyLive = rows.some((r) => r.days.length > 0 && !r.synthetic)
+      return { tickers: rows, source: anyLive ? 'live' : 'mock' }
+    })
+    res.json(data)
+  } catch {
+    res.json({ tickers: tickers.map((t) => syntheticEtfRow(t, days)), source: 'mock' })
+  }
+})
+
+function syntheticEtfRow(ticker, days) {
+  // Deterministic synthetic flows based on ticker name + day index — varied but stable
+  const seed = ticker.split('').reduce((a, c) => a + c.charCodeAt(0), 0)
+  const base = ticker === 'GBTC' ? -150 : ticker === 'IBIT' ? 380 : 180
+  const variance = ticker === 'GBTC' ? 220 : ticker === 'IBIT' ? 320 : 200
+  const today = new Date()
+  const entries = []
+  for (let i = days - 1; i >= 0; i--) {
+    const d = new Date(today)
+    d.setDate(d.getDate() - i)
+    const date = d.toLocaleDateString('en-US', { month: 'short', day: '2-digit' })
+    const noise = Math.sin((seed + i) * 0.7) * variance
+    const flow = Math.round(base + noise + Math.sin(i * 0.3) * 80)
+    entries.push({ date, flow })
+  }
+  return { ticker, days: entries, synthetic: true }
+}
+
 // ─── /api/macro ──────────────────────────────────────────────────────────────
 router.get('/macro', async (req, res) => {
   const event = (req.query.event || 'CPI').toUpperCase()
@@ -257,12 +344,20 @@ router.get('/stock/:ticker', async (req, res) => {
         soso.call(`/btc-treasuries/${ticker}/purchase-history`),
       ])
 
+      const rawSnap = snapshot.value?.data || snapshot.value
+      const snap = normalizeSnap(rawSnap) ? {
+        ...fallbackStock(ticker).snapshot,  // base with all required fields
+        ...rawSnap,                          // overlay whatever live fields exist
+        price: rawSnap?.price ?? rawSnap?.currentPrice ?? rawSnap?.last_price ?? fallbackStock(ticker).snapshot.price,
+        change24h: rawSnap?.change24h ?? rawSnap?.change_24h ?? rawSnap?.changePercent24h ?? fallbackStock(ticker).snapshot.change24h,
+      } : fallbackStock(ticker).snapshot
+
       return {
-        snapshot: snapshot.value?.data || snapshot.value,
+        snapshot: snap,
         klines: klines.value?.data || klines.value || fb.MSTR_KLINES,
         treasury: treasury.value?.data || [],
         ticker,
-        source: 'live',
+        source: normalizeSnap(rawSnap) ? 'live' : 'mock',
       }
     })
     res.json(data)
@@ -307,12 +402,14 @@ router.get('/index/:ticker', async (req, res) => {
         soso.call(`/indices/${ticker}/constituents`),
       ])
 
+      const liveSnap = snapshot.value?.data || snapshot.value
+      const validSnap = liveSnap && liveSnap.price != null ? liveSnap : null
       return {
-        snapshot: snapshot.value?.data || snapshot.value,
+        snapshot: validSnap || (INDEX_SNAPSHOTS[ticker] || INDEX_SNAPSHOTS.MAG7),
         klines: klines.value?.data || klines.value || fb.MAG7_KLINES,
         constituents: constituents.value?.data || constituents.value || fb.MAG7_CONSTITUENTS,
         ticker,
-        source: 'live',
+        source: validSnap ? 'live' : 'mock',
       }
     })
     res.json(data)
@@ -321,9 +418,20 @@ router.get('/index/:ticker', async (req, res) => {
   }
 })
 
+// Per-ticker snapshots so Market Intel's Sector Rotation card has data for all 6 SSIs.
+const INDEX_SNAPSHOTS = {
+  MAG7:   { price: 142.8, change24h: 1.45, aum: '4.8B',  constituents: 7,  roi1m: 18.4, roi3m: 31.2, roi1y: 147.8 },
+  LAYER1: { price: 78.2,  change24h: 2.10, aum: '2.1B',  constituents: 8,  roi1m: 22.6, roi3m: 38.4, roi1y: 162.1 },
+  DEFI:   { price: 54.6,  change24h: 0.82, aum: '1.4B',  constituents: 12, roi1m: 9.8,  roi3m: 18.1, roi1y: 74.5  },
+  LAYER2: { price: 31.4,  change24h: -0.45,aum: '0.9B',  constituents: 6,  roi1m: -3.2, roi3m: 12.7, roi1y: 48.3  },
+  MEME:   { price: 18.7,  change24h: 4.12, aum: '0.6B',  constituents: 10, roi1m: 41.5, roi3m: 88.2, roi1y: 312.4 },
+  GAMERS: { price: 24.1,  change24h: -1.30,aum: '0.5B',  constituents: 9,  roi1m: -8.4, roi3m: -2.1, roi1y: 28.6  },
+  WEB3:   { price: 36.9,  change24h: 0.95, aum: '0.8B',  constituents: 11, roi1m: 6.2,  roi3m: 14.8, roi1y: 52.1  },
+}
+
 function fallbackIndex(ticker) {
   return {
-    snapshot: { price: 142.8, change24h: 1.45, aum: '4.8B', constituents: 7, roi1m: 18.4, roi3m: 31.2, roi1y: 147.8 },
+    snapshot: INDEX_SNAPSHOTS[ticker] || INDEX_SNAPSHOTS.MAG7,
     klines: fb.MAG7_KLINES,
     constituents: fb.MAG7_CONSTITUENTS,
     ticker,
@@ -331,12 +439,73 @@ function fallbackIndex(ticker) {
   }
 }
 
+// ─── /api/index/:ticker/rebalance ────────────────────────────────────────────
+// Returns: { ticker, amount, rows: [{ticker, name, weight, price, targetUsd, targetQty}], source }
+const FALLBACK_PRICES = {
+  BTC: 104100, ETH: 3420, SOL: 178.5, BNB: 620, XRP: 0.52, ADA: 0.45, AVAX: 28.3,
+  DOGE: 0.16, LINK: 14.2, MATIC: 0.71, DOT: 7.4, LTC: 92, TRX: 0.13,
+}
+
+router.get('/index/:ticker/rebalance', async (req, res) => {
+  const ticker = req.params.ticker.toUpperCase()
+  const amount = Math.max(0, Number(req.query.amount) || 0)
+  if (amount === 0) return res.status(400).json({ error: 'amount must be > 0' })
+
+  try {
+    let constituents = []
+    if (soso.hasKey()) {
+      try {
+        const r = await cached(`index:constituents:${ticker}`, TTL.INDEX, () =>
+          soso.call(`/indices/${ticker}/constituents`)
+        )
+        constituents = extractItems(r) || []
+      } catch {
+        constituents = []
+      }
+    }
+    if (constituents.length === 0) constituents = fb.MAG7_CONSTITUENTS
+
+    const rows = await Promise.all(constituents.map(async (c) => {
+      const tk = (c.ticker || c.symbol || '').toUpperCase()
+      const weight = Number(c.weight) || 0
+      let price = FALLBACK_PRICES[tk] ?? null
+
+      if (soso.hasKey() && tk) {
+        try {
+          const snap = await cached(`price:${tk}`, TTL.CURRENCY, () =>
+            soso.call(`/currencies/${tk.toLowerCase()}/market-snapshot`)
+          )
+          const livePrice = snap?.data?.price ?? snap?.price ?? snap?.data?.currentPrice
+          if (livePrice) price = Number(livePrice)
+        } catch {
+          // keep fallback
+        }
+      }
+
+      const targetUsd = (amount * weight) / 100
+      const targetQty = price ? targetUsd / price : null
+      return { ticker: tk, name: c.name || tk, weight, price, targetUsd, targetQty }
+    }))
+
+    res.json({
+      ticker,
+      amount,
+      rows: rows.filter((r) => r.weight > 0).sort((a, b) => b.weight - a.weight),
+      source: soso.hasKey() ? 'live' : 'mock',
+    })
+  } catch (err) {
+    res.status(500).json({ error: String(err.message || err).slice(0, 200) })
+  }
+})
+
 // ─── /api/ai/brief ───────────────────────────────────────────────────────────
 router.post('/ai/brief', async (req, res) => {
   const { context, ticker, data } = req.body || {}
   if (!context || !ticker) return res.status(400).json({ error: 'context and ticker required' })
 
-  const promptHash = crypto.createHash('md5').update(JSON.stringify({ context, ticker })).digest('hex')
+  // Cache by ticker + rounded price so we regenerate when price moves materially.
+  const priceBucket = Math.round((data?.snapshot?.price ?? 0) / 100)
+  const promptHash = crypto.createHash('md5').update(JSON.stringify({ context, ticker, priceBucket })).digest('hex')
   const cacheKey = `ai:${promptHash}`
 
   try {
@@ -353,13 +522,35 @@ router.post('/ai/brief', async (req, res) => {
 })
 
 function buildPrompt(context, ticker, data) {
-  const PROMPTS = {
-    currency: `You are a professional crypto analyst. Write a 2-sentence market brief for ${ticker} for a Bloomberg-style terminal. Be direct and data-driven. Max 60 words.`,
-    macro: `You are a macro analyst. Write a 2-sentence brief about ${ticker} macro event impact on Bitcoin. Include historical pattern and likely BTC reaction. Max 60 words.`,
-    stock: `You are a crypto equity analyst. Write a 2-sentence brief on ${ticker} BTC treasury strategy. Mention treasury size and mNAV premium. Max 60 words.`,
-    index: `You are a quant analyst. Write a 2-sentence brief on the ${ticker} SSI index rebalancing signal. Mention top performers and weight shifts. Max 60 words.`,
+  const snap = data?.snapshot || {}
+  const newsLines = (data?.news || [])
+    .slice(0, 3)
+    .map((n) => `  - ${n.title}`)
+    .join('\n')
+  const priceLine = snap.price != null
+    ? `Current price: $${Number(snap.price).toLocaleString()} (${snap.change24h != null ? (snap.change24h >= 0 ? '+' : '') + snap.change24h + '%' : '—'} 24h)`
+    : ''
+
+  const dataBlock = [
+    priceLine,
+    snap.marketCap ? `Market Cap: ${snap.marketCap}` : '',
+    snap.etfNetInflow7d ? `ETF 7d Net Flow: ${snap.etfNetInflow7d}` : '',
+    newsLines ? `Recent news:\n${newsLines}` : '',
+  ].filter(Boolean).join('\n')
+
+  const ROLES = {
+    currency: 'You are a professional crypto analyst writing for a Bloomberg-style terminal.',
+    macro:    'You are a macro analyst writing about how this event impacts Bitcoin.',
+    stock:    'You are a crypto equity analyst writing about BTC treasury strategy.',
+    index:    'You are a quant analyst writing about SSI index rebalancing signals.',
   }
-  return PROMPTS[context] || `Write a 2-sentence financial brief for ${ticker}.`
+
+  return `${ROLES[context] || 'You are a financial analyst.'}
+
+Write a tight 2-sentence brief for ${ticker}. Use ONLY the numbers in the DATA block below — do not invent prices, percentages, or flows. If a number isn't in DATA, do not state it. Max 60 words.
+
+DATA:
+${dataBlock || '(no live data — write a generic 1-sentence note)'}`
 }
 
 function fallbackBrief(context, ticker) {
@@ -370,6 +561,80 @@ function fallbackBrief(context, ticker) {
     index: `${ticker} April performance +18.4% — BTC and SOL led with constituent weights shifting toward Layer 1 assets. Rebalancing signal: reduce BNB 0.8pp, add SOL 0.5pp to match current market cap weights.`,
   }
   return BRIEFS[context] || `${ticker} showing strong momentum. Monitor for key level breaks.`
+}
+
+// ─── /api/ai/chat (SSE) ──────────────────────────────────────────────────────
+router.post('/ai/chat', async (req, res) => {
+  const { messages, context } = req.body || {}
+  if (!Array.isArray(messages) || messages.length === 0) {
+    return res.status(400).json({ error: 'messages array required' })
+  }
+
+  res.setHeader('Content-Type', 'text/event-stream')
+  res.setHeader('Cache-Control', 'no-cache, no-transform')
+  res.setHeader('Connection', 'keep-alive')
+  res.setHeader('X-Accel-Buffering', 'no')
+  res.flushHeaders?.()
+
+  const send = (event, data) => {
+    res.write(`event: ${event}\ndata: ${JSON.stringify(data)}\n\n`)
+  }
+
+  const fullMessages = [
+    { role: 'system', content: buildChatSystemPrompt(context) },
+    ...messages.filter((m) => m && m.role !== 'system' && typeof m.content === 'string'),
+  ]
+
+  if (!openrouter.hasKey()) {
+    send('chunk', { content: fallbackChat(context) })
+    send('done', { source: 'mock' })
+    return res.end()
+  }
+
+  try {
+    await openrouter.briefStream(fullMessages, (chunk) => send('chunk', { content: chunk }))
+    send('done', { source: 'live' })
+  } catch (err) {
+    send('chunk', { content: '\n\n_[connection lost — try again]_' })
+    send('error', { message: String(err.message || err).slice(0, 200) })
+  } finally {
+    res.end()
+  }
+})
+
+function buildChatSystemPrompt(context = {}) {
+  const ctx = context || {}
+  const snap = ctx.snapshot || {}
+  const newsLines = (ctx.news || [])
+    .slice(0, 5)
+    .map((n, i) => `  [news:${n.id ?? i + 1}] ${n.title}`)
+    .join('\n')
+
+  const priceLine = snap.price != null
+    ? `$${typeof snap.price === 'number' ? snap.price.toLocaleString() : snap.price} (${snap.change24h != null ? (snap.change24h >= 0 ? '+' : '') + snap.change24h + '%' : '—'} 24h)`
+    : '—'
+
+  return `You are ValueGPT, a sharp, data-driven crypto analyst embedded in CryptoDesk — a Bloomberg-style terminal for institutional crypto research.
+
+CURRENT CONTEXT (the user is looking at this asset — use these numbers, do not fabricate):
+- Asset: ${ctx.ticker || 'BTC'} (${ctx.type || 'currency'})
+- Price: ${priceLine}
+- 24h High/Low: ${snap.high24h != null ? '$' + snap.high24h : '—'} / ${snap.low24h != null ? '$' + snap.low24h : '—'}
+- Market Cap: ${snap.marketCap ?? '—'}
+- ETF 7d Net Flow: ${snap.etfNetInflow7d ?? '—'}
+- Dominance: ${snap.dominance != null ? snap.dominance + '%' : '—'}
+${newsLines ? '\nRecent news in the feed:\n' + newsLines : ''}
+
+RULES:
+- Keep responses tight: 2–4 sentences unless the user asks for depth.
+- When you reference a news item, cite it inline as [news:N] using the exact ID from the list above — do NOT invent IDs.
+- Never fabricate prices, percentages, or flow numbers — use only the context above, or say "I don't have that data in view."
+- Frame tactical commentary as observation + implication. This is research, not financial advice.`
+}
+
+function fallbackChat(context = {}) {
+  const ticker = context?.ticker || 'BTC'
+  return `${ticker} is consolidating with ETF inflows continuing to support spot demand [news:1]. AI Fair Value sits ~3% above current, suggesting the institutional floor is firming. (Streaming AI unavailable — showing canned fallback.)`
 }
 
 // ─── /api/sodex/ticker ───────────────────────────────────────────────────────

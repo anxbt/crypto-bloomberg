@@ -1,0 +1,34 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e8]: CRYPTODESK
+        - generic [ref=e9]: The Crypto Bloomberg Terminal · Built on SoSoValue
+      - generic [ref=e10]:
+        - generic [ref=e12]: LIVE
+        - generic [ref=e14]: 09:33:28 UTC
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic: ">_"
+        - textbox "Search CryptoDesk" [ref=e17]:
+          - /placeholder: "Search: BTC · CPI · MSTR · MAG7 · FOMC · SOL → press Enter"
+      - button "Search" [ref=e18]
+      - generic [ref=e19]:
+        - button "BTC" [ref=e20]
+        - button "ETH" [ref=e21]
+        - button "SOL" [ref=e22]
+        - button "CPI" [ref=e23]
+        - button "FOMC" [ref=e24]
+        - button "MSTR" [ref=e25]
+        - button "COIN" [ref=e26]
+        - button "MAG7" [ref=e27]
+  - generic [ref=e28]:
+    - generic [ref=e30]:
+      - generic [ref=e31]: SIGNAL FEED
+      - generic [ref=e32]: Search to load feed
+    - generic [ref=e34]:
+      - generic [ref=e35]: CHART & CONTEXT
+      - generic [ref=e36]: Search to load chart
+    - generic [ref=e38]:
+      - generic [ref=e39]: ACTION LAYER
+      - generic [ref=e40]: Search to load signals
