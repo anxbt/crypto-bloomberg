@@ -1,0 +1,119 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: https://app.akindo.io/
+            - img [ref=e9]
+          - generic [ref=e18]:
+            - link "Buildathons" [ref=e20] [cursor=pointer]:
+              - /url: https://app.akindo.io/wave-hacks
+            - link "Hackathons" [ref=e22] [cursor=pointer]:
+              - /url: https://app.akindo.io/hackathons
+            - link "Products" [ref=e24] [cursor=pointer]:
+              - /url: https://app.akindo.io/products
+            - link "Sign in" [ref=e25] [cursor=pointer]:
+              - /url: https://app.akindo.io/login
+        - link "Build Your One-Person On-Chain Finance Business with SoSoValue 1Days 13:57 Left to Submit" [ref=e27] [cursor=pointer]:
+          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+          - generic [ref=e28]: Build Your One-Person On-Chain Finance Business with SoSoValue
+          - generic [ref=e29]:
+            - text: 1Days 13:57
+            - generic [ref=e30]: Left to Submit
+      - main [ref=e32]:
+        - generic [ref=e33]:
+          - link "NFTrader" [ref=e35] [cursor=pointer]:
+            - /url: https://app.akindo.io/communities/o6aE82a6ziG3v76L
+            - img [ref=e36]
+            - generic [ref=e39]: NFTrader
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - img "Edgework" [ref=e43]
+              - generic [ref=e44]:
+                - heading "Edgework" [level=1] [ref=e45]
+                - generic [ref=e46]:
+                  - generic [ref=e47]: Trade analytics for pro traders. See where your edge is — and where your PNL quietly bleeds out.
+                  - link "NFTrader NFTrader" [ref=e49] [cursor=pointer]:
+                    - /url: https://app.akindo.io/communities/o6aE82a6ziG3v76L
+                    - generic [ref=e50]:
+                      - img "NFTrader" [ref=e51]
+                      - generic [ref=e52]: NFTrader
+            - generic [ref=e53]:
+              - button "Overview" [ref=e54] [cursor=pointer]:
+                - generic [ref=e56]: Overview
+              - button "Submission Comments" [ref=e57] [cursor=pointer]:
+                - generic [ref=e59]: Submission Comments
+              - button "Voter Reviews" [ref=e60] [cursor=pointer]:
+                - generic [ref=e62]: Voter Reviews
+              - button "Vote Comments" [ref=e63] [cursor=pointer]:
+                - generic [ref=e65]: Vote Comments
+      - contentinfo [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - generic [ref=e72]:
+                - img [ref=e73]
+                - link "BOOK A STRATEGY CALL" [ref=e83] [cursor=pointer]:
+                  - /url: https://calendly.com/shinkinjo/30min
+              - generic [ref=e84]:
+                - list [ref=e85]:
+                  - listitem [ref=e86]:
+                    - link "Contact us" [ref=e87] [cursor=pointer]:
+                      - /url: https://app.deform.cc/form/d4def915-fae8-46a9-b66f-3bf623ff2a98/?page_number=0
+                  - listitem [ref=e88]:
+                    - link "Buildathons" [ref=e89] [cursor=pointer]:
+                      - /url: https://app.akindo.io/wave-hacks
+                  - listitem [ref=e90]:
+                    - link "Products" [ref=e91] [cursor=pointer]:
+                      - /url: https://app.akindo.io/products
+                  - listitem [ref=e92]:
+                    - link "The Builder Activation" [ref=e93] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@akindo_io
+                - list [ref=e94]:
+                  - listitem [ref=e95]:
+                    - link "About us" [ref=e96] [cursor=pointer]:
+                      - /url: https://akindo.io
+                  - listitem [ref=e97]:
+                    - link "Brand Assets" [ref=e98] [cursor=pointer]:
+                      - /url: https://drive.google.com/drive/folders/14xy6WPsUUSkoqn6nULor0WFrLjizscrs?usp=sharing
+                  - listitem [ref=e99]:
+                    - link "Terms" [ref=e100] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/Terms-4d86eec7d87c424e987ddb0dbc53af29
+                  - listitem [ref=e101]:
+                    - link "Privacy Policy" [ref=e102] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/PrivacyPolicy-db4b7aad0fe74d95a580665bb6d374a0
+            - generic [ref=e103]:
+              - list [ref=e104]:
+                - listitem [ref=e105]:
+                  - link [ref=e106] [cursor=pointer]:
+                    - /url: https://twitter.com/akindo_io
+                    - img [ref=e107]
+                - listitem [ref=e109]:
+                  - link [ref=e110] [cursor=pointer]:
+                    - /url: https://discord.gg/xAHPkSM9t7
+                    - img [ref=e111]
+                - listitem [ref=e113]:
+                  - link [ref=e114] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@akindo_io
+                    - img [ref=e115]
+                - listitem [ref=e117]:
+                  - link [ref=e118] [cursor=pointer]:
+                    - /url: https://t.me/akindo_io
+                    - img [ref=e119]
+                - listitem [ref=e121]:
+                  - link "Luma" [ref=e122] [cursor=pointer]:
+                    - /url: https://lu.ma/user/akindo
+                    - img "Luma" [ref=e124]
+                - listitem [ref=e125]:
+                  - link "Substack" [ref=e126] [cursor=pointer]:
+                    - /url: https://akindo.substack.com/
+                    - img "Substack" [ref=e128]
+              - generic [ref=e129]: ©AKINDO
+          - img "Build a Killer App" [ref=e131]
+    - region "Notifications Alt+T"
+  - alert [ref=e132]: AKINDO
+  - generic:
+    - alertdialog
+  - generic:
+    - alertdialog

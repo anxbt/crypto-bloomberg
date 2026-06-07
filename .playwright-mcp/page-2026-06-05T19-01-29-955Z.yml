@@ -1,0 +1,319 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: https://app.akindo.io/
+            - img [ref=e9]
+          - generic [ref=e18]:
+            - link "Buildathons" [ref=e20] [cursor=pointer]:
+              - /url: https://app.akindo.io/wave-hacks
+            - link "Hackathons" [ref=e22] [cursor=pointer]:
+              - /url: https://app.akindo.io/hackathons
+            - link "Products" [ref=e24] [cursor=pointer]:
+              - /url: https://app.akindo.io/products
+            - button "Showcase Product" [ref=e26] [cursor=pointer]
+            - button "anxbrt" [ref=e28] [cursor=pointer]:
+              - img "anxbrt" [ref=e29]
+        - link "Build Your One-Person On-Chain Finance Business with SoSoValue 1Days 13:58 Left to Submit" [ref=e31] [cursor=pointer]:
+          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+          - generic [ref=e32]: Build Your One-Person On-Chain Finance Business with SoSoValue
+          - generic [ref=e33]:
+            - text: 1Days 13:58
+            - generic [ref=e34]: Left to Submit
+      - main [ref=e36]:
+        - generic [ref=e37]:
+          - link "NFTrader" [ref=e39] [cursor=pointer]:
+            - /url: https://app.akindo.io/communities/o6aE82a6ziG3v76L
+            - img [ref=e40]
+            - generic [ref=e43]: NFTrader
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - img "Edgework" [ref=e47]
+              - generic [ref=e48]:
+                - heading "Edgework" [level=1] [ref=e49]
+                - generic [ref=e50]:
+                  - generic [ref=e51]: Trade analytics for pro traders. See where your edge is — and where your PNL quietly bleeds out.
+                  - link "NFTrader NFTrader" [ref=e53] [cursor=pointer]:
+                    - /url: https://app.akindo.io/communities/o6aE82a6ziG3v76L
+                    - generic [ref=e54]:
+                      - img "NFTrader" [ref=e55]
+                      - generic [ref=e56]: NFTrader
+            - generic [ref=e57]:
+              - button "Overview" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: Overview
+              - button "Submission Comments" [ref=e61] [cursor=pointer]:
+                - generic [ref=e63]: Submission Comments
+              - button "Voter Reviews" [ref=e64] [cursor=pointer]:
+                - generic [ref=e66]: Voter Reviews
+              - button "Vote Comments" [ref=e67] [cursor=pointer]:
+                - generic [ref=e69]: Vote Comments
+            - generic [ref=e71]:
+              - generic [ref=e72]:
+                - generic [ref=e74]:
+                  - iframe [ref=e77]:
+                    - generic [active] [ref=f3e1]:
+                      - generic "YouTube Video Player" [ref=f3e3]
+                      - generic [ref=f3e5]:
+                        - generic:
+                          - generic:
+                            - button "Play video" [ref=f3e10] [cursor=pointer]:
+                              - generic [ref=f3e13]:
+                                - img
+                            - button "Hide player controls" [ref=f3e14] [cursor=pointer]
+                            - generic [ref=f3e16]:
+                              - generic [ref=f3e21]:
+                                - generic [ref=f3e22]:
+                                  - link "Edgework - wave01" [ref=f3e23] [cursor=pointer]:
+                                    - /url: https://www.youtube.com/watch?v=pF3LPGdcwnE
+                                  - link "NftraderCrypto" [ref=f3e24] [cursor=pointer]:
+                                    - /url: /channel/UCrSzvF6GCV4aUwM2vv__6_Q
+                                    - generic [ref=f3e25]: NftraderCrypto
+                                - generic [ref=f3e26]:
+                                  - button "thumbnail-image" [ref=f3e27] [cursor=pointer]:
+                                    - img "thumbnail-image" [ref=f3e28]
+                                  - generic [ref=f3e29]:
+                                    - generic [ref=f3e30]:
+                                      - generic: NftraderCrypto
+                                      - generic: 3 subscribers
+                                    - generic [ref=f3e38]:
+                                      - generic [ref=f3e39]:
+                                        - generic:
+                                          - generic:
+                                            - img
+                                        - button "Subscribe" [ref=f3e42] [cursor=pointer]:
+                                          - generic [ref=f3e43]: Subscribe
+                                      - generic:
+                                        - generic:
+                                          - img
+                              - generic [ref=f3e47]:
+                                - button "Copy link" [ref=f3e50] [cursor=pointer]:
+                                  - generic [ref=f3e54]:
+                                    - img
+                                - link "Watch on YouTube" [ref=f3e61] [cursor=pointer]:
+                                  - /url: https://www.youtube.com/watch?v=pF3LPGdcwnE
+                                  - generic [ref=f3e64]:
+                                    - text: Watch on
+                                    - img [ref=f3e66]:
+                                      - generic [ref=f3e68]:
+                                        - img
+                  - generic: prev
+                  - generic [ref=e88] [cursor=pointer]: next
+                - generic [ref=e96]:
+                  - heading "What it does" [level=2] [ref=e97]
+                  - paragraph [ref=e98]: Edgework is performance intelligence for serious traders on SoDEX. It pulls every closed position from the public SoDEX API and slices winrate, expectancy, and total PNL across seven dimensions — hour of day, day of week, side, symbol, consecutive losses, position size quartile, and hold duration.
+                  - paragraph [ref=e99]: "The output: traders see exactly where their edge is positive, where it's negative, and which setups quietly bleed PNL despite high win rates. Most traders discover that 60–80% of their losses come from 10–20% of their setups."
+                  - heading "The problem it solves" [level=2] [ref=e100]
+                  - paragraph [ref=e101]: "Most retail traders on perpetual DEXs lose money even when they have edge in market reading. The bottleneck isn't analysis — it's execution behavior. Every active trader has a personal anti-pattern: a setup, a time of day, an emotional state, or a market regime where their winrate collapses. Most never identify it because they look at PNL, not at conditional performance."
+                  - paragraph [ref=e102]: PNL alone is the wrong abstraction. It compresses a thousand decisions into a single number. Edgework decompresses it.
+                  - heading "Challenges I ran into" [level=2] [ref=e103]
+                  - paragraph [ref=e104]: The biggest unlock was discovering — through reading the SoDEX docs carefully — that all read endpoints are public and require no signing. The first cut of the codebase had a full HMAC auth pipeline; once I understood the signing model is only for write actions (orders, transfers, leverage), I deleted 180 lines of auth code and the architecture got dramatically simpler.
+                  - paragraph [ref=e105]:
+                    - text: "Another challenge was the position schema: closed positions have"
+                    - code [ref=e106]: size = 0
+                    - text: because there's no open exposure left. The slicer initially showed all trades as
+                    - code [ref=e107]: long
+                    - text: and zero size. Switching to
+                    - code [ref=e108]: positionSide
+                    - text: and
+                    - code [ref=e109]: cumClosedSize
+                    - text: fixed it.
+                  - heading "Technologies I used" [level=2] [ref=e110]
+                  - list [ref=e111]:
+                    - listitem [ref=e112]:
+                      - strong [ref=e113]: Python 3.11
+                      - text: — analytics core
+                    - listitem [ref=e114]:
+                      - strong [ref=e115]: Streamlit
+                      - text: — live demo UI on Streamlit Cloud
+                    - listitem [ref=e116]:
+                      - strong [ref=e117]: Pandas + NumPy
+                      - text: — slicer and normalization
+                    - listitem [ref=e118]:
+                      - strong [ref=e119]: Plotly
+                      - text: — interactive PNL waterfall charts
+                    - listitem [ref=e120]:
+                      - strong [ref=e121]: Anthropic Claude (Sonnet 4)
+                      - text: — AI Briefing layer
+                    - listitem [ref=e122]:
+                      - strong [ref=e123]: httpx + Pydantic Settings
+                      - text: — typed clients with env-based config
+                    - listitem [ref=e124]:
+                      - strong [ref=e125]: SoDEX REST API
+                      - text: — closed positions, account state, market data
+                    - listitem [ref=e126]:
+                      - strong [ref=e127]: SoSoValue API
+                      - text: — news sentiment, ETF flows, SSI indexes, sector rotation
+                    - listitem [ref=e128]:
+                      - strong [ref=e129]: pytest
+                      - text: — 6 unit tests covering normalization edge cases
+                  - heading "How I built it" [level=2] [ref=e130]
+                  - paragraph [ref=e131]:
+                    - text: The core abstraction is the slicer module. It takes a normalized DataFrame of closed positions and produces seven slice DataFrames in parallel — each with
+                    - code [ref=e132]: n_trades
+                    - text: ","
+                    - code [ref=e133]: winrate
+                    - text: ","
+                    - code [ref=e134]: avg_pnl
+                    - text: ","
+                    - code [ref=e135]: expectancy
+                    - text: ","
+                    - code [ref=e136]: total_pnl
+                    - text: ","
+                    - code [ref=e137]: avg_hold_minutes
+                    - text: . Every dimension uses the same SliceStats output shape, which means the UI and the AI Briefing both consume them through one interface.
+                  - paragraph [ref=e138]: The Streamlit app has a stat-card-plus-waterfall pattern per tab. The cards highlight the extremes (worst and best slices, with deduplication so the same slice never appears on both sides). The waterfall chart shows total PNL contribution per slice, color-coded by sign — so the trader sees not just where edge is negative but how much PNL each negative slice cost in absolute dollars.
+                  - paragraph [ref=e139]:
+                    - text: The AI Briefing module distills the slicer output into a
+                    - code [ref=e140]: TraderEdge
+                    - text: dataclass, combines it with a
+                    - code [ref=e141]: MarketContext
+                    - text: from SoSoValue (news sentiment, ETF flows, sector regime), and feeds both into a Claude prompt that returns a single 90–140 word paragraph. The prompt is engineered to refuse to invent stats — if a field is missing, the model omits it.
+                  - heading "What I learned" [level=2] [ref=e142]
+                  - paragraph [ref=e143]: Reading the docs carefully matters more than coding speed. I shipped a working analytics layer in about 6 hours of focused work because the first day I spent understanding the actual API contract, not guessing at it.
+                  - paragraph [ref=e144]: "For SoDEX specifically: the public read endpoints are extraordinary for solo builders. Anyone can paste any wallet address and get the full closed position history. That single design decision is what makes Edgework trivially shareable — no login, no signature, no key management."
+                  - heading "What's next for Edgework" [level=2] [ref=e145]
+                  - paragraph [ref=e146]:
+                    - strong [ref=e147]: Wave 2 — Leaderboard Benchmarking.
+                    - text: The product becomes "find your edge" + "compare your edge to top-50 traders on the same pair, same regime." This benchmark is only defensible against builders who don't trade the platform — it's the moat.
+                  - paragraph [ref=e148]:
+                    - strong [ref=e149]: Wave 3 — Closing the loop.
+                    - text: "EIP-712 signing for limit orders, so the AI Briefing's recommendations can be acted on directly from the same surface. Risk-control hooks: cooldowns triggered by Edgework's own anti-pattern detector, only when the trader explicitly opts in."
+              - complementary [ref=e150]:
+                - generic [ref=e151]:
+                  - generic [ref=e152]:
+                    - heading "GitHub repo" [level=2] [ref=e153]
+                    - link "nftradercrypto/edgework" [ref=e155] [cursor=pointer]:
+                      - /url: https://github.com/nftradercrypto/edgework
+                      - generic [ref=e156]:
+                        - img [ref=e158]
+                        - generic [ref=e160]: nftradercrypto/edgework
+                  - generic [ref=e161]:
+                    - heading "Live demo" [level=2] [ref=e162]
+                    - link "https://edgework.streamlit.app/" [ref=e164] [cursor=pointer]:
+                      - /url: https://edgework.streamlit.app/
+                      - generic [ref=e165]: https://edgework.streamlit.app/
+                  - generic [ref=e166]:
+                    - heading "Build with" [level=3] [ref=e167]
+                    - generic [ref=e169]: ValueChain
+                  - generic [ref=e170]:
+                    - heading "Product Category" [level=3] [ref=e171]
+                    - list [ref=e173]:
+                      - listitem [ref=e174]: trading tools
+                      - listitem [ref=e175]: Analytics
+                      - listitem [ref=e176]: agentic finance
+                  - generic [ref=e177]:
+                    - heading "Tags" [level=3] [ref=e178]
+                    - list [ref=e180]:
+                      - listitem [ref=e181]: "#Python"
+                      - listitem [ref=e182]: "#streamlit"
+                      - listitem [ref=e183]: "#pandas"
+                      - listitem [ref=e184]: "#ploty"
+                      - listitem [ref=e185]: "#anthropic claude"
+                      - listitem [ref=e186]: "#SoDEX"
+                      - listitem [ref=e187]: "#sodex api"
+                      - listitem [ref=e188]: "#sosovalue api"
+                      - listitem [ref=e189]: "#AI"
+                  - generic [ref=e190]:
+                    - heading "Submitted to" [level=2] [ref=e191]
+                    - generic [ref=e192]:
+                      - link "Build Your One-Person On-Chain Finance Business with SoSoValue Build Your One-Person On-Chain Finance Business with SoSoValue [2nd Wave]" [ref=e194] [cursor=pointer]:
+                        - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+                        - img "Build Your One-Person On-Chain Finance Business with SoSoValue" [ref=e196]
+                        - generic [ref=e197]: Build Your One-Person On-Chain Finance Business with SoSoValue [2nd Wave]
+                      - generic [ref=e198]:
+                        - link "Build Your One-Person On-Chain Finance Business with SoSoValue Build Your One-Person On-Chain Finance Business with SoSoValue [1st Wave]" [ref=e199] [cursor=pointer]:
+                          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+                          - img "Build Your One-Person On-Chain Finance Business with SoSoValue" [ref=e201]
+                          - generic [ref=e202]: Build Your One-Person On-Chain Finance Business with SoSoValue [1st Wave]
+                        - generic [ref=e203]:
+                          - generic [ref=e204]: 1st Wave
+                          - text: 90.909 USDC
+                  - generic [ref=e205]:
+                    - heading "Connect" [level=2] [ref=e206]
+                    - generic [ref=e207]:
+                      - link [ref=e208] [cursor=pointer]:
+                        - /url: https://x.com/nftradercrypto
+                        - img [ref=e209]
+                      - link "Discord" [ref=e211] [cursor=pointer]:
+                        - /url: https://discord.gg/cryptonftrader
+                        - img [ref=e212]
+                        - generic [ref=e214]: Discord
+                      - link "Telegram" [ref=e215] [cursor=pointer]:
+                        - /url: https://t.me/@NFTraderCrypto1
+                        - img [ref=e216]
+                        - generic [ref=e218]: Telegram
+                      - link "Email" [ref=e219] [cursor=pointer]:
+                        - /url: mailto:nftradercrypto@gmail.com
+                        - img [ref=e220]
+                        - generic [ref=e222]: Email
+      - contentinfo [ref=e223]:
+        - generic [ref=e224]:
+          - generic [ref=e227]:
+            - generic [ref=e228]:
+              - generic [ref=e229]:
+                - img [ref=e230]
+                - link "BOOK A STRATEGY CALL" [ref=e240] [cursor=pointer]:
+                  - /url: https://calendly.com/shinkinjo/30min
+              - generic [ref=e241]:
+                - list [ref=e242]:
+                  - listitem [ref=e243]:
+                    - link "Contact us" [ref=e244] [cursor=pointer]:
+                      - /url: https://app.deform.cc/form/d4def915-fae8-46a9-b66f-3bf623ff2a98/?page_number=0
+                  - listitem [ref=e245]:
+                    - link "Buildathons" [ref=e246] [cursor=pointer]:
+                      - /url: https://app.akindo.io/wave-hacks
+                  - listitem [ref=e247]:
+                    - link "Products" [ref=e248] [cursor=pointer]:
+                      - /url: https://app.akindo.io/products
+                  - listitem [ref=e249]:
+                    - link "The Builder Activation" [ref=e250] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@akindo_io
+                - list [ref=e251]:
+                  - listitem [ref=e252]:
+                    - link "About us" [ref=e253] [cursor=pointer]:
+                      - /url: https://akindo.io
+                  - listitem [ref=e254]:
+                    - link "Brand Assets" [ref=e255] [cursor=pointer]:
+                      - /url: https://drive.google.com/drive/folders/14xy6WPsUUSkoqn6nULor0WFrLjizscrs?usp=sharing
+                  - listitem [ref=e256]:
+                    - link "Terms" [ref=e257] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/Terms-4d86eec7d87c424e987ddb0dbc53af29
+                  - listitem [ref=e258]:
+                    - link "Privacy Policy" [ref=e259] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/PrivacyPolicy-db4b7aad0fe74d95a580665bb6d374a0
+            - generic [ref=e260]:
+              - list [ref=e261]:
+                - listitem [ref=e262]:
+                  - link [ref=e263] [cursor=pointer]:
+                    - /url: https://twitter.com/akindo_io
+                    - img [ref=e264]
+                - listitem [ref=e266]:
+                  - link [ref=e267] [cursor=pointer]:
+                    - /url: https://discord.gg/xAHPkSM9t7
+                    - img [ref=e268]
+                - listitem [ref=e270]:
+                  - link [ref=e271] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@akindo_io
+                    - img [ref=e272]
+                - listitem [ref=e274]:
+                  - link [ref=e275] [cursor=pointer]:
+                    - /url: https://t.me/akindo_io
+                    - img [ref=e276]
+                - listitem [ref=e278]:
+                  - link "Luma" [ref=e279] [cursor=pointer]:
+                    - /url: https://lu.ma/user/akindo
+                    - img "Luma" [ref=e281]
+                - listitem [ref=e282]:
+                  - link "Substack" [ref=e283] [cursor=pointer]:
+                    - /url: https://akindo.substack.com/
+                    - img "Substack" [ref=e285]
+              - generic [ref=e286]: ©AKINDO
+          - img "Build a Killer App" [ref=e288]
+    - region "Notifications Alt+T"
+  - alert [ref=e289]: AKINDO
+  - generic:
+    - alertdialog
+  - generic:
+    - alertdialog

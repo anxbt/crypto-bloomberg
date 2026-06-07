@@ -1,0 +1,1509 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: https://app.akindo.io/
+            - img [ref=e9]
+          - generic [ref=e18]:
+            - link "Buildathons" [ref=e20] [cursor=pointer]:
+              - /url: https://app.akindo.io/wave-hacks
+            - link "Hackathons" [ref=e22] [cursor=pointer]:
+              - /url: https://app.akindo.io/hackathons
+            - link "Products" [ref=e24] [cursor=pointer]:
+              - /url: https://app.akindo.io/products
+            - button "Showcase Product" [ref=e200] [cursor=pointer]
+            - button "anxbrt" [ref=e202] [cursor=pointer]:
+              - img "anxbrt" [ref=e203]
+        - link "Build Your One-Person On-Chain Finance Business with SoSoValue 1Days 13:57 Left to Submit" [ref=e27] [cursor=pointer]:
+          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+          - generic [ref=e28]: Build Your One-Person On-Chain Finance Business with SoSoValue
+          - generic [ref=e29]:
+            - text: 1Days 13:57
+            - generic [ref=e30]: Left to Submit
+      - main [ref=e32]:
+        - generic [ref=e33]:
+          - link "Buildathons" [ref=e34] [cursor=pointer]:
+            - /url: https://app.akindo.io/wave-hacks
+            - img [ref=e35]
+            - generic [ref=e38]: Buildathons
+          - generic [ref=e39]:
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - img "WaveHack" [ref=e43]
+                - link "What is WaveHack?" [ref=e44] [cursor=pointer]:
+                  - /url: https://buildathon-akindo.notion.site/Buildathon-Powered-by-WaveHack-Protocol-2f30a394059980828c09fce119956e2d
+              - link "Post" [ref=e204] [cursor=pointer]:
+                - /url: https://twitter.com/intent/tweet?text=Check%20this%20out!%20Build%20Your%20One-Person%20On-Chain%20Finance%20Business%20with%20SoSoValue%20https%3A%2F%2Fapp.akindo.io%2Fwave-hacks%2FJBEQXgN4Zi2jA3wA%20on%20%40akindo_io
+                - img [ref=e205]
+                - generic [ref=e207]: Post
+            - generic [ref=e49]:
+              - heading "Build Your One-Person On-Chain Finance Business with SoSoValue" [level=1] [ref=e50]
+              - generic [ref=e51]: Powered by SoSoValue's data,news feeds,index tools,trading APIs,and high-performance L1 ValueChain
+              - link "SoSoValue SoSoValue" [ref=e52] [cursor=pointer]:
+                - /url: https://app.akindo.io/communities/wKg3A9xVlu8ZpwqPL
+                - generic [ref=e53]:
+                  - img "SoSoValue" [ref=e55]
+                  - generic [ref=e56]: SoSoValue
+            - generic [ref=e57]:
+              - button "Overview" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: Overview
+              - button "Judges" [ref=e61] [cursor=pointer]:
+                - generic [ref=e63]: Judges
+              - button "Submissions 149" [ref=e64] [cursor=pointer]:
+                - generic [ref=e65]:
+                  - generic [ref=e66]: Submissions
+                  - generic [ref=e67]: "149"
+              - button "Comments 321" [ref=e208] [cursor=pointer]:
+                - generic [ref=e69]:
+                  - generic [ref=e70]: Comments
+                  - generic [ref=e71]: "321"
+              - button "Join a team 53" [ref=e72] [cursor=pointer]:
+                - generic [ref=e73]:
+                  - generic [ref=e74]: Join a team
+                  - generic [ref=e75]: "53"
+            - generic [ref=e76]:
+              - generic [ref=e209]:
+                - list [ref=e211]:
+                  - listitem [ref=e212]:
+                    - button "All Waves 149" [ref=e213] [cursor=pointer]:
+                      - generic [ref=e214]:
+                        - generic [ref=e215]: All Waves
+                        - generic [ref=e216]: "149"
+                  - listitem [ref=e217]:
+                    - button "2nd Wave 56" [ref=e218] [cursor=pointer]:
+                      - generic [ref=e219]:
+                        - generic [ref=e220]: 2nd Wave
+                        - generic [ref=e221]: "56"
+                  - listitem [ref=e222]:
+                    - button "1st Wave 121" [active] [ref=e223] [cursor=pointer]:
+                      - generic [ref=e224]:
+                        - generic [ref=e225]: 1st Wave
+                        - generic [ref=e226]: "121"
+                - generic [ref=e914]:
+                  - textbox "Search submissions" [ref=e916]
+                  - button "Search" [ref=e917] [cursor=pointer]:
+                    - generic [ref=e918]: Search
+                    - img [ref=e919]
+                - generic [ref=e922]: 121 products found.
+                - generic [ref=e923]:
+                  - generic [ref=e924]:
+                    - generic [ref=e925]:
+                      - generic [ref=e926]:
+                        - generic [ref=e927]:
+                          - img "Edgework" [ref=e930]
+                          - generic [ref=e931]:
+                            - link "Edgework" [ref=e932] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/o6aE82a6ziG3v76L/products/83Zr3D68mHqOmm2a
+                              - generic [ref=e933]: Edgework
+                              - img [ref=e935]
+                            - generic [ref=e937]: Trade analytics for pro traders. See where your edge is — and where your PNL quietly bleeds out.
+                            - list [ref=e939]:
+                              - listitem [ref=e940]: trading tools
+                              - listitem [ref=e941]: Analytics
+                              - listitem [ref=e942]: agentic finance
+                            - link "GitHub" [ref=e944] [cursor=pointer]:
+                              - /url: https://github.com/nftradercrypto/edgework
+                              - img [ref=e945]
+                              - generic [ref=e947]: GitHub
+                        - generic [ref=e948]:
+                          - generic [ref=e949]: Updates in this Wave
+                          - paragraph [ref=e951]:
+                            - text: Wave 1 – Concept / Early Prototype delivered as a fully functional product, not just an idea. **Live demo (try it now):**
+                            - link "https://edgework-tokenbar.streamlit.app" [ref=e952] [cursor=pointer]:
+                              - /url: https://edgework-tokenbar.streamlit.app
+                            - text: "**Public repo:**"
+                            - link "https://github.com/nftradercrypto/edgework" [ref=e953] [cursor=pointer]:
+                              - /url: https://github.com/nftradercrypto/edgework
+                            - text: "**Demo video (1:42):**"
+                            - link "https://youtu.be/pF3LPGdcwnE" [ref=e954] [cursor=pointer]:
+                              - /url: https://youtu.be/pF3LPGdcwnE
+                            - text: "What ships in Wave 1: ✅ SoDEX read-only API client — 8 endpoints, validated end-to-end against mainnet ✅ SoSoValue API client — news, ETF flows, SSI indexes, sectors ✅ Slicer module with 7 conditional performance dimensions (hour, day, side, symbol, consecutive losses, size quartile, hold duration) ✅ AI Briefing module powered by Anthropic Claude — combines trader edge with live market regime ✅ Streamlit live demo with stat cards + waterfall PNL charts ✅ Wallet-address fetch — paste any SoDEX wallet, no login or signature required ✅ TokenBar dark theme, brand-consistent UI ✅ 6 unit tests passing, 9+ commits showing iterative refinement ✅ Public deploy on Streamlit Cloud Validated against real SoDEX mainnet data: 500+ closed positions normalized correctly, 7 slicing dimensions producing meaningful conditional intelligence. Architecture decision worth highlighting: SoDEX read endpoints are public (no auth, no signing). Discovered this by reading the official docs carefully, which let me delete 180 lines of HMAC auth code and ship a much simpler architecture. EIP-712 signing for write actions is scoped to Wave 2+."
+                        - button "Milestone" [ref=e956] [cursor=pointer]:
+                          - generic [ref=e957]: Milestone
+                          - img [ref=e959]
+                      - generic [ref=e961]:
+                        - generic [ref=e963]:
+                          - generic [ref=e964]: 10points
+                          - button [ref=e965] [cursor=pointer]:
+                            - img [ref=e966]
+                        - generic [ref=e970]:
+                          - list [ref=e971]:
+                            - listitem [ref=e972]:
+                              - generic [ref=e973]:
+                                - generic [ref=e974]: User Value & Practical Impact
+                                - generic [ref=e975]:
+                                  - img [ref=e976]
+                                  - text: "89"
+                            - listitem [ref=e978]:
+                              - generic [ref=e979]:
+                                - generic [ref=e980]: Functionality & Working Demo
+                                - generic [ref=e981]:
+                                  - img [ref=e982]
+                                  - text: "92"
+                            - listitem [ref=e984]:
+                              - generic [ref=e985]:
+                                - generic [ref=e986]: Logic, Workflow & Product Design
+                                - generic [ref=e987]:
+                                  - img [ref=e988]
+                                  - text: "92"
+                            - listitem [ref=e990]:
+                              - generic [ref=e991]:
+                                - generic [ref=e992]: Data / API Integration
+                                - generic [ref=e993]:
+                                  - img [ref=e994]
+                                  - text: "90"
+                            - listitem [ref=e996]:
+                              - generic [ref=e997]:
+                                - generic [ref=e998]: UX & Clarity
+                                - generic [ref=e999]:
+                                  - img [ref=e1000]
+                                  - text: "88"
+                          - generic [ref=e1002]:
+                            - generic [ref=e1003]:
+                              - generic [ref=e1004]:
+                                - link "SoDEX 4" [ref=e1005] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e1006]:
+                                    - img "SoDEX" [ref=e1007]
+                                    - generic [ref=e1008]: "4"
+                                - link "SoSoValue 3" [ref=e1009] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e1010]:
+                                    - img "SoSoValue" [ref=e1011]
+                                    - generic [ref=e1012]: "3"
+                                - link "SoSoValueIndexes 3" [ref=e1013] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e1014]:
+                                    - img "SoSoValueIndexes" [ref=e1015]
+                                    - generic [ref=e1016]: "3"
+                                - link "crypto4chun 0" [ref=e1017] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e1018]:
+                                    - img "crypto4chun" [ref=e1019]
+                                    - generic [ref=e1020]: "0"
+                                - link "takimi 0" [ref=e1021] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e1022]:
+                                    - img "takimi" [ref=e1023]
+                                    - generic [ref=e1024]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e1025] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e1026]:
+                                    - img "MuhammadBa_2024" [ref=e1027]
+                                    - generic [ref=e1028]: "0"
+                                - link "jzddd 0" [ref=e1029] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e1030]:
+                                    - img "jzddd" [ref=e1031]
+                                    - generic [ref=e1032]: "0"
+                                - link "Davislambo 0" [ref=e1033] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e1034]:
+                                    - img "Davislambo" [ref=e1035]
+                                    - generic [ref=e1036]: "0"
+                                - link "SmartCoded 0" [ref=e1037] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e1038]:
+                                    - img "SmartCoded" [ref=e1039]
+                                    - generic [ref=e1040]: "0"
+                                - link "0xmiharbi 0" [ref=e1041] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e1042]:
+                                    - img "0xmiharbi" [ref=e1043]
+                                    - generic [ref=e1044]: "0"
+                              - button "Voting Details" [ref=e1046] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e1047]
+                            - generic [ref=e1049]:
+                              - generic [ref=e1050]: Grant
+                              - generic [ref=e1051]: 90.90909 USDC
+                    - button "12" [ref=e1052] [cursor=pointer]:
+                      - generic [ref=e1053]:
+                        - img [ref=e1054]
+                        - generic [ref=e1056]: "12"
+                      - img [ref=e1058]
+                  - generic [ref=e1060]:
+                    - generic [ref=e1061]:
+                      - generic [ref=e1062]:
+                        - generic [ref=e1063]:
+                          - generic [ref=e1064]:
+                            - img "TradeFirewall" [ref=e1066]
+                            - generic [ref=e1067]: Hidden
+                          - generic [ref=e1068]:
+                            - link "TradeFirewall" [ref=e1069] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/LavZG8X3Rt49K68N/products/jaMJmo4XDuOleOZL
+                              - generic [ref=e1070]: TradeFirewall
+                              - img [ref=e1072]
+                            - generic [ref=e1074]: Avoid bad crypto trades before execution with real-time risk scoring.
+                            - list [ref=e1076]:
+                              - listitem [ref=e1077]: DeFi
+                              - listitem [ref=e1078]: Crypto
+                              - listitem [ref=e1079]: trading
+                        - generic [ref=e1080]:
+                          - generic [ref=e1081]: Updates in this Wave
+                          - paragraph [ref=e1083]:
+                            - text: "**TradeFirewall** is a pre-trade crypto risk engine that helps users avoid dangerous trades before execution. Instead of building another crypto signal bot that tells users what to buy, TradeFirewall focuses on risk prevention. A user enters a proposed trade, and the app analyzes market conditions, liquidity, volatility, position size, holding period, and execution risk to generate a clear risk score, explanation, and safer action recommendation. The goal is to create a safety layer between trade idea and execution for crypto traders, signal groups, DeFi users, wallets, and trading communities. ### Updates completed in this wave In this wave, we built the first working version of TradeFirewall and focused on turning the idea into a usable product MVP. We completed the **Home / Landing Page** with a professional crypto analytics design inspired by platforms like Token Terminal. The landing page explains the problem, the solution, the product flow, and the business model. We built the main **Trade Risk Engine** page where users can enter a proposed trade, including asset, buy/sell direction, trade amount, holding period, risk profile, and optional notes. This page is the core of the product. We added a structured risk workflow that validates user input, analyzes trade risk conditions, calculates a risk score, and returns a decision: **Approve, Caution, Reduce/Wait, or Block**. We also added a **Risk Intelligence Explanation** section that explains the result in simple language using rule-based logic. This helps users understand why a trade may be risky instead of only showing numbers. The risk report includes a **Risk Breakdown Table** covering factors such as volatility, liquidity, market momentum, position size, holding period risk, and execution risk. We added a **Recommended Action** section that tells users whether to proceed carefully, reduce position size, wait, cancel, or add the asset to a watchlist. For safety, we added a **Confirmation Gate** for high-risk trades. Users must acknowledge the risk before moving toward any execution-preview step. We built the **Trading Dashboard** to show saved risk reports, recent trade checks, watchlist assets, high-risk alerts, and overall risk history. We also built an **API / Docs page** explaining how TradeFirewall can later be used by wallets, trading bots, signal groups, and DeFi applications. We planned the SoSoValue integration as the main market intelligence layer and SoDEX as the market microstructure/execution-preview layer for ticker, orderbook, liquidity, klines, recent trades, and slippage estimation. ### Deliverable Live Demo:"
+                            - link "https://trade-firewall.vercel.app/" [ref=e1084] [cursor=pointer]:
+                              - /url: https://trade-firewall.vercel.app/
+                            - text: "GitHub Repository:"
+                            - link "https://github.com/Emmy123222/TradeFirewall" [ref=e1085] [cursor=pointer]:
+                              - /url: https://github.com/Emmy123222/TradeFirewall
+                        - button "Milestone" [ref=e1087] [cursor=pointer]:
+                          - generic [ref=e1088]: Milestone
+                          - img [ref=e1090]
+                      - generic [ref=e1092]:
+                        - generic [ref=e1094]:
+                          - generic [ref=e1095]: 10points
+                          - button [ref=e1096] [cursor=pointer]:
+                            - img [ref=e1097]
+                        - generic [ref=e1101]:
+                          - list [ref=e1102]:
+                            - listitem [ref=e1103]:
+                              - generic [ref=e1104]:
+                                - generic [ref=e1105]: User Value & Practical Impact
+                                - generic [ref=e1106]:
+                                  - img [ref=e1107]
+                                  - text: "85"
+                            - listitem [ref=e1109]:
+                              - generic [ref=e1110]:
+                                - generic [ref=e1111]: Functionality & Working Demo
+                                - generic [ref=e1112]:
+                                  - img [ref=e1113]
+                                  - text: "79"
+                            - listitem [ref=e1115]:
+                              - generic [ref=e1116]:
+                                - generic [ref=e1117]: Logic, Workflow & Product Design
+                                - generic [ref=e1118]:
+                                  - img [ref=e1119]
+                                  - text: "88"
+                            - listitem [ref=e1121]:
+                              - generic [ref=e1122]:
+                                - generic [ref=e1123]: Data / API Integration
+                                - generic [ref=e1124]:
+                                  - img [ref=e1125]
+                                  - text: "76"
+                            - listitem [ref=e1127]:
+                              - generic [ref=e1128]:
+                                - generic [ref=e1129]: UX & Clarity
+                                - generic [ref=e1130]:
+                                  - img [ref=e1131]
+                                  - text: "82"
+                          - generic [ref=e1133]:
+                            - generic [ref=e1134]:
+                              - generic [ref=e1135]:
+                                - link "SoDEX 5" [ref=e1136] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e1137]:
+                                    - img "SoDEX" [ref=e1138]
+                                    - generic [ref=e1139]: "5"
+                                - link "SoSoValue 4" [ref=e1140] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e1141]:
+                                    - img "SoSoValue" [ref=e1142]
+                                    - generic [ref=e1143]: "4"
+                                - link "SoSoValueIndexes 1" [ref=e1144] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e1145]:
+                                    - img "SoSoValueIndexes" [ref=e1146]
+                                    - generic [ref=e1147]: "1"
+                                - link "crypto4chun 0" [ref=e1148] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e1149]:
+                                    - img "crypto4chun" [ref=e1150]
+                                    - generic [ref=e1151]: "0"
+                                - link "takimi 0" [ref=e1152] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e1153]:
+                                    - img "takimi" [ref=e1154]
+                                    - generic [ref=e1155]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e1156] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e1157]:
+                                    - img "MuhammadBa_2024" [ref=e1158]
+                                    - generic [ref=e1159]: "0"
+                                - link "jzddd 0" [ref=e1160] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e1161]:
+                                    - img "jzddd" [ref=e1162]
+                                    - generic [ref=e1163]: "0"
+                                - link "Davislambo 0" [ref=e1164] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e1165]:
+                                    - img "Davislambo" [ref=e1166]
+                                    - generic [ref=e1167]: "0"
+                                - link "SmartCoded 0" [ref=e1168] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e1169]:
+                                    - img "SmartCoded" [ref=e1170]
+                                    - generic [ref=e1171]: "0"
+                                - link "0xmiharbi 0" [ref=e1172] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e1173]:
+                                    - img "0xmiharbi" [ref=e1174]
+                                    - generic [ref=e1175]: "0"
+                              - button "Voting Details" [ref=e1177] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e1178]
+                            - generic [ref=e1180]:
+                              - generic [ref=e1181]: Grant
+                              - generic [ref=e1182]: 90.90909 USDC
+                    - button "11" [ref=e1183] [cursor=pointer]:
+                      - generic [ref=e1184]:
+                        - img [ref=e1185]
+                        - generic [ref=e1187]: "11"
+                      - img [ref=e1189]
+                  - generic [ref=e1191]:
+                    - generic [ref=e1192]:
+                      - generic [ref=e1193]:
+                        - generic [ref=e1194]:
+                          - generic [ref=e1195]:
+                            - img "sosomind" [ref=e1197]
+                            - generic [ref=e1198]: Hidden
+                          - generic [ref=e1199]:
+                            - link "sosomind" [ref=e1200] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/Z4ZAB4pRWuMaNRzo/products/nPMd7o12eiVA49L2
+                              - generic [ref=e1201]: sosomind
+                              - img [ref=e1203]
+                            - generic [ref=e1205]: The Agentic Finance OS for Serious Crypto Traders
+                            - list [ref=e1207]:
+                              - listitem [ref=e1208]: Market Infrastructure
+                              - listitem [ref=e1209]: DeFi
+                              - listitem [ref=e1210]: AI / Data & Analytics
+                        - generic [ref=e1211]:
+                          - generic [ref=e1212]: Updates in this Wave
+                          - paragraph [ref=e1214]:
+                            - text: "SoSoMind · Agentic Finance OS for Crypto Traders 🧠 SoSoMind is a production-deployed AI trading intelligence platform — specialist agents making real decisions from live data, enforcing risk rules, and executing trades non-custodially on SoDEX Testnet across 32 live spot pairs. 🌐 Live:"
+                            - link "https://sosomind.vercel.app/" [ref=e1215] [cursor=pointer]:
+                              - /url: https://sosomind.vercel.app/
+                            - text: "📚 Docs:"
+                            - link "https://sosomind.vercel.app/docs" [ref=e1216] [cursor=pointer]:
+                              - /url: https://sosomind.vercel.app/docs
+                            - text: "🎥 Demo videos in comments. ⚙️ Five Specialist AI Agents Research Agent — 13+ live sources in parallel: SoSoValue sector indexes, ETF flows, macro calendars, fundraising rounds, BTC treasuries, news, SoDEX orderbook. Generates direction, confidence, entry, TP, SL, cited reasoning via 6-provider chain: Cerebras → SambaNova → Together → OpenRouter → Groq → Gemini. Risk Agent enforces: • 3 trades/asset daily cap • 30% concentration limit • ATR volatility filter (>15% blocked) • -5% drawdown halt • Circuit breaker after 3 consecutive losses • Kelly Criterion position sizing Execution Agent — EIP-712 LIMIT + IOC orders. AES-256-GCM encrypted keys decrypted only in-memory. MEV protection on every order. Macro Overlay Agent — integrates Fed, CPI, yield curve, and employment data into real-time signal bias. Sector Rotation Agent — reallocates portfolio weights across 13 SSI sectors by momentum score. 📊 Sector Intelligence System (SSI) 13 sectors scored 0–100: • Fundraising Velocity 30% • Institutional Momentum 35% • 30-day Trend 35% 🖥️ Dashboard — Next.js 14 · React 19 · TypeScript · Framer Motion v12 Signals · Sectors · Research · Portfolio · Macro · Newsletter · Rebalance · Methodology · Docs · Roadmap 🤖 Telegram Bot — @SosoMindbot 17 features: non-custodial EVM wallets · AI research · live trade execution · sector baskets · whale alerts · arbitrage scanner · paper trading · voice briefs (ElevenLabs) · A2A protocol 📡 Infrastructure • SoSoValue: 35 endpoints / 9 modules • mcp-sodex: 25 tools (live) • mcp-sosovalue (live) • 5 WebSocket channels · Supabase · Upstash Redis • Express · Node 20 · ethers.js v6 · grammY · Next.js 14 🛣️ Next Waves • SoDEX Mainnet · Signal Marketplace · Mobile App · Strategy Builder • OpenClaw Skills: Market Research · Risk Monitor · Portfolio Briefing · Trade Execution · Content Studio • MCP: Claude Desktop · Cursor · VS Code Copilot"
+                        - button "Milestone" [ref=e1218] [cursor=pointer]:
+                          - generic [ref=e1219]: Milestone
+                          - img [ref=e1221]
+                      - generic [ref=e1223]:
+                        - generic [ref=e1225]:
+                          - generic [ref=e1226]: 10points
+                          - button [ref=e1227] [cursor=pointer]:
+                            - img [ref=e1228]
+                        - generic [ref=e1232]:
+                          - list [ref=e1233]:
+                            - listitem [ref=e1234]:
+                              - generic [ref=e1235]:
+                                - generic [ref=e1236]: User Value & Practical Impact
+                                - generic [ref=e1237]:
+                                  - img [ref=e1238]
+                                  - text: "91"
+                            - listitem [ref=e1240]:
+                              - generic [ref=e1241]:
+                                - generic [ref=e1242]: Functionality & Working Demo
+                                - generic [ref=e1243]:
+                                  - img [ref=e1244]
+                                  - text: "94"
+                            - listitem [ref=e1246]:
+                              - generic [ref=e1247]:
+                                - generic [ref=e1248]: Logic, Workflow & Product Design
+                                - generic [ref=e1249]:
+                                  - img [ref=e1250]
+                                  - text: "96"
+                            - listitem [ref=e1252]:
+                              - generic [ref=e1253]:
+                                - generic [ref=e1254]: Data / API Integration
+                                - generic [ref=e1255]:
+                                  - img [ref=e1256]
+                                  - text: "95"
+                            - listitem [ref=e1258]:
+                              - generic [ref=e1259]:
+                                - generic [ref=e1260]: UX & Clarity
+                                - generic [ref=e1261]:
+                                  - img [ref=e1262]
+                                  - text: "91"
+                          - generic [ref=e1264]:
+                            - generic [ref=e1265]:
+                              - generic [ref=e1266]:
+                                - link "SoDEX 4" [ref=e1267] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e1268]:
+                                    - img "SoDEX" [ref=e1269]
+                                    - generic [ref=e1270]: "4"
+                                - link "SoSoValue 3" [ref=e1271] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e1272]:
+                                    - img "SoSoValue" [ref=e1273]
+                                    - generic [ref=e1274]: "3"
+                                - link "SoSoValueIndexes 3" [ref=e1275] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e1276]:
+                                    - img "SoSoValueIndexes" [ref=e1277]
+                                    - generic [ref=e1278]: "3"
+                                - link "crypto4chun 0" [ref=e1279] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e1280]:
+                                    - img "crypto4chun" [ref=e1281]
+                                    - generic [ref=e1282]: "0"
+                                - link "takimi 0" [ref=e1283] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e1284]:
+                                    - img "takimi" [ref=e1285]
+                                    - generic [ref=e1286]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e1287] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e1288]:
+                                    - img "MuhammadBa_2024" [ref=e1289]
+                                    - generic [ref=e1290]: "0"
+                                - link "jzddd 0" [ref=e1291] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e1292]:
+                                    - img "jzddd" [ref=e1293]
+                                    - generic [ref=e1294]: "0"
+                                - link "Davislambo 0" [ref=e1295] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e1296]:
+                                    - img "Davislambo" [ref=e1297]
+                                    - generic [ref=e1298]: "0"
+                                - link "SmartCoded 0" [ref=e1299] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e1300]:
+                                    - img "SmartCoded" [ref=e1301]
+                                    - generic [ref=e1302]: "0"
+                                - link "0xmiharbi 0" [ref=e1303] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e1304]:
+                                    - img "0xmiharbi" [ref=e1305]
+                                    - generic [ref=e1306]: "0"
+                              - button "Voting Details" [ref=e1308] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e1309]
+                            - generic [ref=e1311]:
+                              - generic [ref=e1312]: Grant
+                              - generic [ref=e1313]: 90.90909 USDC
+                    - button "13" [ref=e1314] [cursor=pointer]:
+                      - generic [ref=e1315]:
+                        - img [ref=e1316]
+                        - generic [ref=e1318]: "13"
+                      - img [ref=e1320]
+                  - generic [ref=e1322]:
+                    - generic [ref=e1323]:
+                      - generic [ref=e1324]:
+                        - generic [ref=e1325]:
+                          - img "sonar" [ref=e1328]
+                          - generic [ref=e1329]:
+                            - link "sonar" [ref=e1330] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/OVpl31QDoHmwQ9aD/products/nPM2EejL3C0oBnrDr
+                              - generic [ref=e1331]: sonar
+                              - img [ref=e1333]
+                            - generic [ref=e1335]: AI agent using SoSoValue data to write theses, rebalance SSI indices, and hedge on SoDEX.
+                            - list [ref=e1337]:
+                              - listitem [ref=e1338]: AI agent
+                              - listitem [ref=e1339]: DeFi
+                              - listitem [ref=e1340]: Asset Management
+                            - link "GitHub" [ref=e1342] [cursor=pointer]:
+                              - /url: https://github.com/OoJae/sonar
+                              - img [ref=e1343]
+                              - generic [ref=e1345]: GitHub
+                        - generic [ref=e1346]:
+                          - generic [ref=e1347]: Updates in this Wave
+                          - paragraph [ref=e1349]:
+                            - text: "Sonar is an ETF-flow-aware agentic hedge fund built end-to-end on the SoSoValue stack. Wave 1 ships paper execution; Wave 2 wires it live. Live demo:"
+                            - link "https://sonar.my.id/" [ref=e1350] [cursor=pointer]:
+                              - /url: https://sonar.my.id/
+                            - text: "Repo:"
+                            - link "https://github.com/OoJae/sonar" [ref=e1351] [cursor=pointer]:
+                              - /url: https://github.com/OoJae/sonar
+                            - text: "SoSoValue API. Live on the High Frequency tier (100 rpm). Five /openapi/v1 endpoints wired to actual wire format: currencies, ETF summary history, ETF list, featured news with title extraction. Rolling token bucket, per-endpoint TTL caching, fixture mode. Agent. Single-agent loop on mimo-v2.5-pro through the Anthropic-compatible relay. Seven typed tools (currency lookup, ETF flow series, ETF list, featured news, SSI single read, SSI all-index read, submit thesis). Tool loop bounded at 16 steps. Thesis schema. Every numeric token in the agent's prose must carry a [ref:signalId] tag resolving to a signal in the same thesis. Risk notes mandatory. Target weights sum to <=1.0. Validator rejects on failure; failed runs are persisted on /log as transparent history. Citation renderer. /signals walks the reasoning and replaces each [ref:id] token with a numbered superscript. News refs link to the source article; ETF-flow refs show an asset/direction/window tooltip. Sources footer lists every ref. Freshness rule. If the latest ETF flow is older than 36 hours the agent emits a no-trade thesis. Verified live: weekend cycles correctly hold instead of trading on Friday-close data. SSI Protocol reader on Base. viem multicall against MAG7.ssi, DEFI.ssi, MEME.ssi, USSI. Real getTokenset() returns 7/10/10/0 underlying tokens, verified against Base mainnet. Paper trading engine. Drizzle-backed, mirrors the live SoDEX OrderRequest shape so the Wave 2 swap is a one-file change. Sizing: target weight x book equity (with a $100k seed), $10 dust threshold. Verified live: one cycle placed three trades (MAG7 buy $35k, DEFI buy $20k, MEME buy $11.5k). SoDEX bonus integration. Thin live client hits /rest/v1/spot/pairs and /rest/v1/time for venue listing and health, displayed on the dashboard. MCP servers. Three stdio MCP servers wrapping SoSoValue, SSI, and the SoDEX paper engine. Dashboard. Three pages (Signals, Portfolio, Log) on a dark-navy + gold financial-terminal aesthetic. Pure-SVG ETF flow bars. Numbered superscript citations link to sources. Date+mode chips on /portfolio deep-link to /log#run-<id>. Operations. Self-hosted VPS. nginx reverse proxy. Postgres in Docker with restart=unless-stopped. Host crontab at 21:30 UTC weekdays. CRON_SECRET bearer guard on /api/cron/daily and /api/agent/run. Production boot guard refuses startup without CRON_SECRET in production. Verified end-to-end: the most recent live cycle (run 26d87125, thesis 44bb18b3) ingested signals from the live SoSoValue API, produced a fully cited trade thesis, and executed paper trades that rendered on all three dashboard pages with working citation links."
+                        - button "Milestone" [ref=e1353] [cursor=pointer]:
+                          - generic [ref=e1354]: Milestone
+                          - img [ref=e1356]
+                      - generic [ref=e1358]:
+                        - generic [ref=e1360]:
+                          - generic [ref=e1361]: 10points
+                          - button [ref=e1362] [cursor=pointer]:
+                            - img [ref=e1363]
+                        - generic [ref=e1367]:
+                          - list [ref=e1368]:
+                            - listitem [ref=e1369]:
+                              - generic [ref=e1370]:
+                                - generic [ref=e1371]: User Value & Practical Impact
+                                - generic [ref=e1372]:
+                                  - img [ref=e1373]
+                                  - text: "91"
+                            - listitem [ref=e1375]:
+                              - generic [ref=e1376]:
+                                - generic [ref=e1377]: Functionality & Working Demo
+                                - generic [ref=e1378]:
+                                  - img [ref=e1379]
+                                  - text: "90"
+                            - listitem [ref=e1381]:
+                              - generic [ref=e1382]:
+                                - generic [ref=e1383]: Logic, Workflow & Product Design
+                                - generic [ref=e1384]:
+                                  - img [ref=e1385]
+                                  - text: "90"
+                            - listitem [ref=e1387]:
+                              - generic [ref=e1388]:
+                                - generic [ref=e1389]: Data / API Integration
+                                - generic [ref=e1390]:
+                                  - img [ref=e1391]
+                                  - text: "84"
+                            - listitem [ref=e1393]:
+                              - generic [ref=e1394]:
+                                - generic [ref=e1395]: UX & Clarity
+                                - generic [ref=e1396]:
+                                  - img [ref=e1397]
+                                  - text: "87"
+                          - generic [ref=e1399]:
+                            - generic [ref=e1400]:
+                              - generic [ref=e1401]:
+                                - link "SoSoValueIndexes 4" [ref=e1402] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e1403]:
+                                    - img "SoSoValueIndexes" [ref=e1404]
+                                    - generic [ref=e1405]: "4"
+                                - link "SoSoValue 3" [ref=e1406] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e1407]:
+                                    - img "SoSoValue" [ref=e1408]
+                                    - generic [ref=e1409]: "3"
+                                - link "SoDEX 3" [ref=e1410] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e1411]:
+                                    - img "SoDEX" [ref=e1412]
+                                    - generic [ref=e1413]: "3"
+                                - link "crypto4chun 0" [ref=e1414] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e1415]:
+                                    - img "crypto4chun" [ref=e1416]
+                                    - generic [ref=e1417]: "0"
+                                - link "takimi 0" [ref=e1418] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e1419]:
+                                    - img "takimi" [ref=e1420]
+                                    - generic [ref=e1421]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e1422] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e1423]:
+                                    - img "MuhammadBa_2024" [ref=e1424]
+                                    - generic [ref=e1425]: "0"
+                                - link "jzddd 0" [ref=e1426] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e1427]:
+                                    - img "jzddd" [ref=e1428]
+                                    - generic [ref=e1429]: "0"
+                                - link "Davislambo 0" [ref=e1430] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e1431]:
+                                    - img "Davislambo" [ref=e1432]
+                                    - generic [ref=e1433]: "0"
+                                - link "SmartCoded 0" [ref=e1434] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e1435]:
+                                    - img "SmartCoded" [ref=e1436]
+                                    - generic [ref=e1437]: "0"
+                                - link "0xmiharbi 0" [ref=e1438] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e1439]:
+                                    - img "0xmiharbi" [ref=e1440]
+                                    - generic [ref=e1441]: "0"
+                              - button "Voting Details" [ref=e1443] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e1444]
+                            - generic [ref=e1446]:
+                              - generic [ref=e1447]: Grant
+                              - generic [ref=e1448]: 90.90909 USDC
+                    - button "10" [ref=e1449] [cursor=pointer]:
+                      - generic [ref=e1450]:
+                        - img [ref=e1451]
+                        - generic [ref=e1453]: "10"
+                      - img [ref=e1455]
+                  - generic [ref=e1457]:
+                    - generic [ref=e1458]:
+                      - generic [ref=e1459]:
+                        - generic [ref=e1460]:
+                          - generic [ref=e1461]:
+                            - img "LiqSentry" [ref=e1463]
+                            - generic [ref=e1464]: Hidden
+                          - generic [ref=e1465]:
+                            - link "LiqSentry" [ref=e1466] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/zKO8da7XjiaZwGJ/products/WjMeKDkxmi3rlMZZB
+                              - generic [ref=e1467]: LiqSentry
+                              - img [ref=e1469]
+                            - generic [ref=e1471]: Real-time liquidity health monitor for on-chain assets, powered by SoDEX and SoSoValue.
+                            - list [ref=e1473]:
+                              - listitem [ref=e1474]: sosovalue
+                        - generic [ref=e1475]:
+                          - generic [ref=e1476]: Updates in this Wave
+                          - paragraph [ref=e1478]: "Wave 1, Now Goal: prove the concept with real data. Completed: Project write-up and README Working SoSoValue API integration Working SoDEX testnet orderbook fetch Score formula implementation Dashboard page for live health bars and alerts /api/scores score endpoint CLI score demo Build, typecheck, audit, and browser smoke test"
+                        - button "Milestone" [ref=e1480] [cursor=pointer]:
+                          - generic [ref=e1481]: Milestone
+                          - img [ref=e1483]
+                      - generic [ref=e1485]:
+                        - generic [ref=e1487]:
+                          - generic [ref=e1488]: 10points
+                          - button [ref=e1489] [cursor=pointer]:
+                            - img [ref=e1490]
+                        - generic [ref=e1494]:
+                          - list [ref=e1495]:
+                            - listitem [ref=e1496]:
+                              - generic [ref=e1497]:
+                                - generic [ref=e1498]: User Value & Practical Impact
+                                - generic [ref=e1499]:
+                                  - img [ref=e1500]
+                                  - text: "62"
+                            - listitem [ref=e1502]:
+                              - generic [ref=e1503]:
+                                - generic [ref=e1504]: Functionality & Working Demo
+                                - generic [ref=e1505]:
+                                  - img [ref=e1506]
+                                  - text: "52"
+                            - listitem [ref=e1508]:
+                              - generic [ref=e1509]:
+                                - generic [ref=e1510]: Logic, Workflow & Product Design
+                                - generic [ref=e1511]:
+                                  - img [ref=e1512]
+                                  - text: "60"
+                            - listitem [ref=e1514]:
+                              - generic [ref=e1515]:
+                                - generic [ref=e1516]: Data / API Integration
+                                - generic [ref=e1517]:
+                                  - img [ref=e1518]
+                                  - text: "55"
+                            - listitem [ref=e1520]:
+                              - generic [ref=e1521]:
+                                - generic [ref=e1522]: UX & Clarity
+                                - generic [ref=e1523]:
+                                  - img [ref=e1524]
+                                  - text: "56"
+                          - generic [ref=e1526]:
+                            - generic [ref=e1527]:
+                              - generic [ref=e1528]:
+                                - link "SoDEX 6" [ref=e1529] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e1530]:
+                                    - img "SoDEX" [ref=e1531]
+                                    - generic [ref=e1532]: "6"
+                                - link "SoSoValue 4" [ref=e1533] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e1534]:
+                                    - img "SoSoValue" [ref=e1535]
+                                    - generic [ref=e1536]: "4"
+                                - link "crypto4chun 0" [ref=e1537] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e1538]:
+                                    - img "crypto4chun" [ref=e1539]
+                                    - generic [ref=e1540]: "0"
+                                - link "takimi 0" [ref=e1541] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e1542]:
+                                    - img "takimi" [ref=e1543]
+                                    - generic [ref=e1544]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e1545] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e1546]:
+                                    - img "MuhammadBa_2024" [ref=e1547]
+                                    - generic [ref=e1548]: "0"
+                                - link "jzddd 0" [ref=e1549] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e1550]:
+                                    - img "jzddd" [ref=e1551]
+                                    - generic [ref=e1552]: "0"
+                                - link "Davislambo 0" [ref=e1553] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e1554]:
+                                    - img "Davislambo" [ref=e1555]
+                                    - generic [ref=e1556]: "0"
+                                - link "SmartCoded 0" [ref=e1557] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e1558]:
+                                    - img "SmartCoded" [ref=e1559]
+                                    - generic [ref=e1560]: "0"
+                                - link "0xmiharbi 0" [ref=e1561] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e1562]:
+                                    - img "0xmiharbi" [ref=e1563]
+                                    - generic [ref=e1564]: "0"
+                              - button "Voting Details" [ref=e1566] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e1567]
+                            - generic [ref=e1569]:
+                              - generic [ref=e1570]: Grant
+                              - generic [ref=e1571]: 90.90909 USDC
+                    - button "9" [ref=e1572] [cursor=pointer]:
+                      - generic [ref=e1573]:
+                        - img [ref=e1574]
+                        - generic [ref=e1576]: "9"
+                      - img [ref=e1578]
+                  - generic [ref=e1580]:
+                    - generic [ref=e1581]:
+                      - generic [ref=e1582]:
+                        - generic [ref=e1583]:
+                          - generic [ref=e1584]:
+                            - img "StrategyOS" [ref=e1586]
+                            - generic [ref=e1587]: Hidden
+                          - generic [ref=e1588]:
+                            - link "StrategyOS" [ref=e1589] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/93O8rjo0qSQw8aEo0/products/kzMkRQdBptopq2wZ
+                              - generic [ref=e1590]: StrategyOS
+                              - img [ref=e1592]
+                            - generic [ref=e1594]: Decentralized marketplace for AI-powered investment strategies and verified expertise.
+                            - list [ref=e1596]:
+                              - listitem [ref=e1597]: DeFi
+                              - listitem [ref=e1598]: ethereum
+                              - listitem [ref=e1599]: Market Infrastructure
+                        - generic [ref=e1600]:
+                          - generic [ref=e1601]: Updates in this Wave
+                          - paragraph [ref=e1603]: "Updates in this Wave We've launched StrategyOS, a decentralized strategy marketplace connecting professional portfolio managers with retail investors seeking verified, high-performance investment strategies. Smart Contracts (Arbitrum & Optimism) StrategyVault – Holds subscriber funds in segregated strategy-specific pools. Manages deposits, withdrawals, and fee splits between managers and platform. Implements ReentrancyGuard for security and supports multi-chain deployment. StrategyRouter – Routes capital to active strategies and manages allocation rebalancing. Handles performance tracking and liquidation events when strategies underperform threshold metrics. FeeCollector – Automates fee distribution: managers earn 70–90% of collected fees, platform retains 10–30%, with optional affiliate rewards. Transparent fee splits logged on-chain. ReputationToken – ERC-20 token earned by managers based on performance history and subscriber satisfaction. Stake-based voting for reviews prevents Sybil attacks. Frontend (Next.js 14 + TypeScript) Wallet Authentication – Web3 login via ethers.js + wagmi. Multi-wallet support (MetaMask, WalletConnect, Safe). Manager Onboarding – Connect trading accounts (Binance, Deribit, custom APIs). Set fee structure, upload strategy documentation, publish strategy. Strategy Marketplace – Browse and filter by return %, risk level, Sharpe ratio, manager reputation, and fee tier. Advanced search and sorting. Strategy Details – Full performance metrics (30/90-day/all-time returns, Sharpe ratio, max drawdown, Sortino ratio). Historical price charts (recharts). Verified manager profile with reviews and stake-based voting. Subscription Flow – One-click subscribe with fund deposit, automatic fee calculation, and position management. Investor Dashboard – Active subscriptions with real-time P&L, cumulative fees paid, performance vs benchmark, and withdrawal management. Manager Dashboard – Strategy performance analytics, subscriber count and AUM, fee earnings, review moderation, and payout history. Review System – Investors can stake tokens to leave reviews after 30-day subscription lock. Bad reviews cost reviewer stake. Prevents spam and ensures quality feedback. Data Integrations: Multi-chain transaction aggregation (Moralis API) for performance verification Binance, Deribit, custom portfolio API adapters for manager account connections Chainlink oracle integration for off-chain price verification Real-time performance calculation engine (Sharpe, Sortino, max drawdown) Redis caching for metric computation (5-min refresh) Reputation & Trust System Manager Verification – Signed proof-of-history via smart contracts. Managers sign transactions confirming past performance data authenticity. Sybil-Resistant Reviews – Stake-based voting system. Investors lock tokens to post reviews (minimum 7-day lock)."
+                        - button "Milestone" [ref=e1605] [cursor=pointer]:
+                          - generic [ref=e1606]: Milestone
+                          - img [ref=e1608]
+                      - generic [ref=e1610]:
+                        - generic [ref=e1612]:
+                          - generic [ref=e1613]: 10points
+                          - button [ref=e1614] [cursor=pointer]:
+                            - img [ref=e1615]
+                        - generic [ref=e1619]:
+                          - list [ref=e1620]:
+                            - listitem [ref=e1621]:
+                              - generic [ref=e1622]:
+                                - generic [ref=e1623]: User Value & Practical Impact
+                                - generic [ref=e1624]:
+                                  - img [ref=e1625]
+                                  - text: "79"
+                            - listitem [ref=e1627]:
+                              - generic [ref=e1628]:
+                                - generic [ref=e1629]: Functionality & Working Demo
+                                - generic [ref=e1630]:
+                                  - img [ref=e1631]
+                                  - text: "70"
+                            - listitem [ref=e1633]:
+                              - generic [ref=e1634]:
+                                - generic [ref=e1635]: Logic, Workflow & Product Design
+                                - generic [ref=e1636]:
+                                  - img [ref=e1637]
+                                  - text: "79"
+                            - listitem [ref=e1639]:
+                              - generic [ref=e1640]:
+                                - generic [ref=e1641]: Data / API Integration
+                                - generic [ref=e1642]:
+                                  - img [ref=e1643]
+                                  - text: "64"
+                            - listitem [ref=e1645]:
+                              - generic [ref=e1646]:
+                                - generic [ref=e1647]: UX & Clarity
+                                - generic [ref=e1648]:
+                                  - img [ref=e1649]
+                                  - text: "74"
+                          - generic [ref=e1651]:
+                            - generic [ref=e1652]:
+                              - generic [ref=e1653]:
+                                - link "SoSoValueIndexes 4" [ref=e1654] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e1655]:
+                                    - img "SoSoValueIndexes" [ref=e1656]
+                                    - generic [ref=e1657]: "4"
+                                - link "SoSoValue 3" [ref=e1658] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e1659]:
+                                    - img "SoSoValue" [ref=e1660]
+                                    - generic [ref=e1661]: "3"
+                                - link "SoDEX 3" [ref=e1662] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e1663]:
+                                    - img "SoDEX" [ref=e1664]
+                                    - generic [ref=e1665]: "3"
+                                - link "crypto4chun 0" [ref=e1666] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e1667]:
+                                    - img "crypto4chun" [ref=e1668]
+                                    - generic [ref=e1669]: "0"
+                                - link "takimi 0" [ref=e1670] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e1671]:
+                                    - img "takimi" [ref=e1672]
+                                    - generic [ref=e1673]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e1674] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e1675]:
+                                    - img "MuhammadBa_2024" [ref=e1676]
+                                    - generic [ref=e1677]: "0"
+                                - link "jzddd 0" [ref=e1678] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e1679]:
+                                    - img "jzddd" [ref=e1680]
+                                    - generic [ref=e1681]: "0"
+                                - link "Davislambo 0" [ref=e1682] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e1683]:
+                                    - img "Davislambo" [ref=e1684]
+                                    - generic [ref=e1685]: "0"
+                                - link "SmartCoded 0" [ref=e1686] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e1687]:
+                                    - img "SmartCoded" [ref=e1688]
+                                    - generic [ref=e1689]: "0"
+                                - link "0xmiharbi 0" [ref=e1690] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e1691]:
+                                    - img "0xmiharbi" [ref=e1692]
+                                    - generic [ref=e1693]: "0"
+                              - button "Voting Details" [ref=e1695] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e1696]
+                            - generic [ref=e1698]:
+                              - generic [ref=e1699]: Grant
+                              - generic [ref=e1700]: 90.90909 USDC
+                    - button "11" [ref=e1701] [cursor=pointer]:
+                      - generic [ref=e1702]:
+                        - img [ref=e1703]
+                        - generic [ref=e1705]: "11"
+                      - img [ref=e1707]
+                  - generic [ref=e1709]:
+                    - generic [ref=e1710]:
+                      - generic [ref=e1711]:
+                        - generic [ref=e1712]:
+                          - generic [ref=e1713]:
+                            - img "CryptoDebate" [ref=e1715]
+                            - generic [ref=e1716]: Hidden
+                          - generic [ref=e1717]:
+                            - link "CryptoDebate" [ref=e1718] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/eaM4l0zLGij97eV1/products/o6XpezLERCq38pvaa
+                              - generic [ref=e1719]: CryptoDebate
+                              - img [ref=e1721]
+                            - generic [ref=e1723]: CryptoDebate is an AI debate layer for crypto decisions
+                            - list [ref=e1725]:
+                              - listitem [ref=e1726]: CryptoDebate
+                        - generic [ref=e1727]:
+                          - generic [ref=e1728]: Updates in this Wave
+                          - paragraph [ref=e1730]:
+                            - text: "In this Wave, we built the first fully functional prototype of CryptoDebate — an AI-powered crypto thesis debate platform grounded in live market evidence instead of speculative opinions. Core updates completed in this Wave include: * Built the complete Bull vs Bear AI debate engine where users can enter any crypto thesis and generate structured opposing arguments. * Integrated live SoSoValue market data including price snapshots, ETF flow data, token news, and historical market context. * Added evidence-backed AI generation so every debate argument references real fetched market evidence instead of hallucinated claims. * Implemented interactive evidence cards with summaries, timestamps, trend classifications, charts, and raw JSON inspection. * Added both Full Debate mode (opening, rebuttal, closing) and Quick Verdict mode for faster analysis workflows. * Built a lightweight community voting system allowing users to vote Bull Won, Bear Won, or Draw. * Added local archive and search functionality so debates can be revisited and explored later. * Integrated SoDEX public market data and created unsigned order intent generation for future execution workflows. * Designed and implemented a polished responsive UI optimized for hackathon demos and fast interaction. * Added graceful fallback handling for API failures and missing AI responses. * Prepared the project for production deployment on Vercel with environment-variable-based configuration and secure API handling. The project was built using: * Next.js 16 * React 19 * TypeScript * Tailwind CSS 4 * OpenAI Responses API * SoSoValue OpenAPI * SoDEX REST APIs * Recharts * Vercel deployment infrastructure GitHub Repository:"
+                            - link "https://github.com/sosovalue413/Crypto-Debate" [ref=e1731] [cursor=pointer]:
+                              - /url: https://github.com/sosovalue413/Crypto-Debate
+                            - text: live demo -
+                            - link "https://cryptodebate.vercel.app/" [ref=e1732] [cursor=pointer]:
+                              - /url: https://cryptodebate.vercel.app/
+                            - text: "The current Wave demonstrates the full end-to-end workflow: User thesis → live evidence aggregation → AI debate generation → evidence inspection → community voting → SoDEX action intent preparation. This establishes the foundation for future Waves involving wallet integration, persistent user systems, reputation-weighted voting, public debate feeds, prediction tracking, and SoDEX execution flows."
+                        - button "Milestone" [ref=e1734] [cursor=pointer]:
+                          - generic [ref=e1735]: Milestone
+                          - img [ref=e1737]
+                      - generic [ref=e1739]:
+                        - generic [ref=e1741]:
+                          - generic [ref=e1742]: 10points
+                          - button [ref=e1743] [cursor=pointer]:
+                            - img [ref=e1744]
+                        - generic [ref=e1748]:
+                          - list [ref=e1749]:
+                            - listitem [ref=e1750]:
+                              - generic [ref=e1751]:
+                                - generic [ref=e1752]: User Value & Practical Impact
+                                - generic [ref=e1753]:
+                                  - img [ref=e1754]
+                                  - text: "83"
+                            - listitem [ref=e1756]:
+                              - generic [ref=e1757]:
+                                - generic [ref=e1758]: Functionality & Working Demo
+                                - generic [ref=e1759]:
+                                  - img [ref=e1760]
+                                  - text: "87"
+                            - listitem [ref=e1762]:
+                              - generic [ref=e1763]:
+                                - generic [ref=e1764]: Logic, Workflow & Product Design
+                                - generic [ref=e1765]:
+                                  - img [ref=e1766]
+                                  - text: "86"
+                            - listitem [ref=e1768]:
+                              - generic [ref=e1769]:
+                                - generic [ref=e1770]: Data / API Integration
+                                - generic [ref=e1771]:
+                                  - img [ref=e1772]
+                                  - text: "83"
+                            - listitem [ref=e1774]:
+                              - generic [ref=e1775]:
+                                - generic [ref=e1776]: UX & Clarity
+                                - generic [ref=e1777]:
+                                  - img [ref=e1778]
+                                  - text: "85"
+                          - generic [ref=e1780]:
+                            - generic [ref=e1781]:
+                              - generic [ref=e1782]:
+                                - link "SoSoValueIndexes 4" [ref=e1783] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e1784]:
+                                    - img "SoSoValueIndexes" [ref=e1785]
+                                    - generic [ref=e1786]: "4"
+                                - link "SoSoValue 3" [ref=e1787] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e1788]:
+                                    - img "SoSoValue" [ref=e1789]
+                                    - generic [ref=e1790]: "3"
+                                - link "SoDEX 3" [ref=e1791] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e1792]:
+                                    - img "SoDEX" [ref=e1793]
+                                    - generic [ref=e1794]: "3"
+                                - link "crypto4chun 0" [ref=e1795] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e1796]:
+                                    - img "crypto4chun" [ref=e1797]
+                                    - generic [ref=e1798]: "0"
+                                - link "takimi 0" [ref=e1799] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e1800]:
+                                    - img "takimi" [ref=e1801]
+                                    - generic [ref=e1802]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e1803] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e1804]:
+                                    - img "MuhammadBa_2024" [ref=e1805]
+                                    - generic [ref=e1806]: "0"
+                                - link "jzddd 0" [ref=e1807] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e1808]:
+                                    - img "jzddd" [ref=e1809]
+                                    - generic [ref=e1810]: "0"
+                                - link "Davislambo 0" [ref=e1811] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e1812]:
+                                    - img "Davislambo" [ref=e1813]
+                                    - generic [ref=e1814]: "0"
+                                - link "SmartCoded 0" [ref=e1815] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e1816]:
+                                    - img "SmartCoded" [ref=e1817]
+                                    - generic [ref=e1818]: "0"
+                                - link "0xmiharbi 0" [ref=e1819] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e1820]:
+                                    - img "0xmiharbi" [ref=e1821]
+                                    - generic [ref=e1822]: "0"
+                              - button "Voting Details" [ref=e1824] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e1825]
+                            - generic [ref=e1827]:
+                              - generic [ref=e1828]: Grant
+                              - generic [ref=e1829]: 90.90909 USDC
+                    - button "11" [ref=e1830] [cursor=pointer]:
+                      - generic [ref=e1831]:
+                        - img [ref=e1832]
+                        - generic [ref=e1834]: "11"
+                      - img [ref=e1836]
+                  - generic [ref=e1838]:
+                    - generic [ref=e1839]:
+                      - generic [ref=e1840]:
+                        - generic [ref=e1841]:
+                          - generic [ref=e1842]:
+                            - img "Hype Node" [ref=e1844]
+                            - generic [ref=e1845]: Hidden
+                          - generic [ref=e1846]:
+                            - link "Hype Node" [ref=e1847] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/63dv68BletWx7Od7/products/zKgvRWnM1IOAGKoNq
+                              - generic [ref=e1848]: Hype Node
+                              - img [ref=e1850]
+                            - generic [ref=e1852]: "HypeNode is an autonomous crypto index platform: an AI agent researches market signals."
+                            - list [ref=e1854]:
+                              - listitem [ref=e1855]: Indexer
+                              - listitem [ref=e1856]: AI agent
+                              - listitem [ref=e1857]: Publisher
+                        - generic [ref=e1858]:
+                          - generic [ref=e1859]: Updates in this Wave
+                          - paragraph [ref=e1861]: "HypeNode 1st Wave ships a working Indexer MVP: a single trader can research → simulate → deploy → monitor a crypto index portfolio end-to-end on-chain, no manual market-watching. DELIVERED - Auth — SIWE + iron-session via Privy modal (email / Google / Twitter / wallet). Email + social create a Privy MPC embedded EOA so users without MetaMask can sign on-chain. WalletMismatchBanner blocks address-mismatch. - Dashboard — Sector momentum, SSI snapshots, trending news, smart-money widget (BTC treasuries), macro calendar — all live from SoSoValue Terminal. - Builder (5 steps) — Signal → Constituents → Weights → Simulate → Deploy. Real 90-day backtest replays SoSoValue klines; computes Sharpe / Max DD / Win rate vs BTC + ETH. Sign & Deploy via wagmi to SSIRegistry.registerIndex on Sepolia. Registry verified at 0xF775D9634bFCe4D0F1F56874873FE6cb35A28CA5. - Portfolio — Real positions via SSI Registry creator filter + SoDEX spot balances + reference benchmark, USD-priced at snapshot level. - LangGraph agent — Python FastAPI + 10-node state machine (signal → research → draft → backtest → review → execute → monitor → risk → hedge → settle). Reasoning persists to SQLite; /agent polls every 5s. Pause / Step / Reset / Halt controls. - Chat agent — Multi-provider (Claude or GPT-4o). 24 tools: 13 hit SoSoValue, plus SoDEX spot + perps trading + cross-product transfer (browser-signed EIP-712, server never holds keys), risk gates, real backtest, RootData, treasuries, macro. - SoDEX via chat — Spot (vSOL_vUSDC) + perps (SOL-USD with leverage) + cross-product transferAsset between spot and perps margin accounts. Auto-routes to perps when spot is cancel-only. Auto-switches MetaMask to ValueChain testnet 138565. Single-use envelopes block nonce replay; inner-code check catches silent rejects; transfer envelopes use the 999 virtual chain-aid pattern per SoDEX REST v1. - Risk page — Persistent drawdown + vol + sentiment + weight + outflow caps with per-rule toggles + manual override. Honored by the agent each cycle. - History — Decision log in SQLite, one row per cycle (sector, basket, risk verdict, breaches, SoDEX placed/errors, SSI tx hash). - SoSoValue transport — Token-bucket dispatcher (20-burst), per-path TTL (klines/news 30s, currencies 5min, default 15min), in-flight dedup, stale-on-failure, error-class backoffs. Browser proxy keeps the API key server-side. - Standalone MCP server — 8 tools for external Claude Desktop / MCP clients. SCALE: 30 pages · 56 API routes · 9 SoSoValue endpoint families · 23 endpoints · Sepolia deploy verified."
+                        - button "Milestone" [ref=e1863] [cursor=pointer]:
+                          - generic [ref=e1864]: Milestone
+                          - img [ref=e1866]
+                      - generic [ref=e1868]:
+                        - generic [ref=e1870]:
+                          - generic [ref=e1871]: 10points
+                          - button [ref=e1872] [cursor=pointer]:
+                            - img [ref=e1873]
+                        - generic [ref=e1877]:
+                          - list [ref=e1878]:
+                            - listitem [ref=e1879]:
+                              - generic [ref=e1880]:
+                                - generic [ref=e1881]: User Value & Practical Impact
+                                - generic [ref=e1882]:
+                                  - img [ref=e1883]
+                                  - text: "93"
+                            - listitem [ref=e1885]:
+                              - generic [ref=e1886]:
+                                - generic [ref=e1887]: Functionality & Working Demo
+                                - generic [ref=e1888]:
+                                  - img [ref=e1889]
+                                  - text: "94"
+                            - listitem [ref=e1891]:
+                              - generic [ref=e1892]:
+                                - generic [ref=e1893]: Logic, Workflow & Product Design
+                                - generic [ref=e1894]:
+                                  - img [ref=e1895]
+                                  - text: "94"
+                            - listitem [ref=e1897]:
+                              - generic [ref=e1898]:
+                                - generic [ref=e1899]: Data / API Integration
+                                - generic [ref=e1900]:
+                                  - img [ref=e1901]
+                                  - text: "92"
+                            - listitem [ref=e1903]:
+                              - generic [ref=e1904]:
+                                - generic [ref=e1905]: UX & Clarity
+                                - generic [ref=e1906]:
+                                  - img [ref=e1907]
+                                  - text: "89"
+                          - generic [ref=e1909]:
+                            - generic [ref=e1910]:
+                              - generic [ref=e1911]:
+                                - link "SoSoValueIndexes 4" [ref=e1912] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e1913]:
+                                    - img "SoSoValueIndexes" [ref=e1914]
+                                    - generic [ref=e1915]: "4"
+                                - link "SoSoValue 3" [ref=e1916] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e1917]:
+                                    - img "SoSoValue" [ref=e1918]
+                                    - generic [ref=e1919]: "3"
+                                - link "SoDEX 3" [ref=e1920] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e1921]:
+                                    - img "SoDEX" [ref=e1922]
+                                    - generic [ref=e1923]: "3"
+                                - link "crypto4chun 0" [ref=e1924] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e1925]:
+                                    - img "crypto4chun" [ref=e1926]
+                                    - generic [ref=e1927]: "0"
+                                - link "takimi 0" [ref=e1928] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e1929]:
+                                    - img "takimi" [ref=e1930]
+                                    - generic [ref=e1931]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e1932] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e1933]:
+                                    - img "MuhammadBa_2024" [ref=e1934]
+                                    - generic [ref=e1935]: "0"
+                                - link "jzddd 0" [ref=e1936] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e1937]:
+                                    - img "jzddd" [ref=e1938]
+                                    - generic [ref=e1939]: "0"
+                                - link "Davislambo 0" [ref=e1940] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e1941]:
+                                    - img "Davislambo" [ref=e1942]
+                                    - generic [ref=e1943]: "0"
+                                - link "SmartCoded 0" [ref=e1944] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e1945]:
+                                    - img "SmartCoded" [ref=e1946]
+                                    - generic [ref=e1947]: "0"
+                                - link "0xmiharbi 0" [ref=e1948] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e1949]:
+                                    - img "0xmiharbi" [ref=e1950]
+                                    - generic [ref=e1951]: "0"
+                              - button "Voting Details" [ref=e1953] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e1954]
+                            - generic [ref=e1956]:
+                              - generic [ref=e1957]: Grant
+                              - generic [ref=e1958]: 90.90909 USDC
+                    - button "10" [ref=e1959] [cursor=pointer]:
+                      - generic [ref=e1960]:
+                        - img [ref=e1961]
+                        - generic [ref=e1963]: "10"
+                      - img [ref=e1965]
+                  - generic [ref=e1967]:
+                    - generic [ref=e1968]:
+                      - generic [ref=e1969]:
+                        - generic [ref=e1970]:
+                          - generic [ref=e1971]:
+                            - img "Helix" [ref=e1973]
+                            - generic [ref=e1974]: Hidden
+                          - generic [ref=e1975]:
+                            - link "Helix" [ref=e1976] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/o6Xpno8wZIkLD8Dd/products/JB1g9O7AxCQvWvng
+                              - generic [ref=e1977]: Helix
+                              - img [ref=e1979]
+                            - generic [ref=e1981]: Event-driven alpha you can audit. Every signal traces back to the news.
+                            - list [ref=e1983]:
+                              - listitem [ref=e1984]: Market Infrastructure
+                              - listitem [ref=e1985]: trading tools
+                              - listitem [ref=e1986]: AI agent
+                        - generic [ref=e1987]:
+                          - generic [ref=e1988]: Updates in this Wave
+                          - paragraph [ref=e1990]:
+                            - text: "Wave 1 ships the full event-driven pipeline end-to-end: - News ingestion from SoSoValue OpenAPI with upstream dedup - AI classification (event type, sentiment, severity, affected assets, actionability) via Claude Sonnet 4.5 - Pre-classification corpus-similarity gate with signal-verb boost (rescues exploits, M&A, regulatory news on unfamiliar entities) - Significance scoring (magnitude × instance × novelty, drop gate at 0.25) - 7-axis weighted conviction scoring (classifier confidence, tradability, severity, source tier, polarity clarity, event-type weight, novelty) - Tier resolution (AUTO / REVIEW / INFO) with four downgrade caps: direction lock, history adjustment, base-rate cap, reliability cap - Vol-normalized risk derivation per (subtype × asset_class) - Lifecycle + event_chain_id binding signals on the same evolving story - Per-signal /signal/[id] audit page pulling six tables into one decision narrative - AlphaIndex: paper-traded AI-managed crypto index across BTC/ETH/L1s/RWA/sector baskets with AI-written rebalance rationale - 400+ Vitest specs covering critical invariants - Public deploy on Vercel with snapshot-hydrated SQLite - Landing page with three live evidence panels linking into the dashboard Live demo:"
+                            - link "https://helix-alpha-kappa.vercel.app" [ref=e1991] [cursor=pointer]:
+                              - /url: https://helix-alpha-kappa.vercel.app
+                            - text: "Repo:"
+                            - link "https://github.com/Daily-Up/helix-alpha" [ref=e1992] [cursor=pointer]:
+                              - /url: https://github.com/Daily-Up/helix-alpha
+                        - button "Milestone" [ref=e1994] [cursor=pointer]:
+                          - generic [ref=e1995]: Milestone
+                          - img [ref=e1997]
+                      - generic [ref=e1999]:
+                        - generic [ref=e2001]:
+                          - generic [ref=e2002]: 10points
+                          - button [ref=e2003] [cursor=pointer]:
+                            - img [ref=e2004]
+                        - generic [ref=e2008]:
+                          - list [ref=e2009]:
+                            - listitem [ref=e2010]:
+                              - generic [ref=e2011]:
+                                - generic [ref=e2012]: User Value & Practical Impact
+                                - generic [ref=e2013]:
+                                  - img [ref=e2014]
+                                  - text: "90"
+                            - listitem [ref=e2016]:
+                              - generic [ref=e2017]:
+                                - generic [ref=e2018]: Functionality & Working Demo
+                                - generic [ref=e2019]:
+                                  - img [ref=e2020]
+                                  - text: "92"
+                            - listitem [ref=e2022]:
+                              - generic [ref=e2023]:
+                                - generic [ref=e2024]: Logic, Workflow & Product Design
+                                - generic [ref=e2025]:
+                                  - img [ref=e2026]
+                                  - text: "92"
+                            - listitem [ref=e2028]:
+                              - generic [ref=e2029]:
+                                - generic [ref=e2030]: Data / API Integration
+                                - generic [ref=e2031]:
+                                  - img [ref=e2032]
+                                  - text: "87"
+                            - listitem [ref=e2034]:
+                              - generic [ref=e2035]:
+                                - generic [ref=e2036]: UX & Clarity
+                                - generic [ref=e2037]:
+                                  - img [ref=e2038]
+                                  - text: "85"
+                          - generic [ref=e2040]:
+                            - generic [ref=e2041]:
+                              - generic [ref=e2042]:
+                                - link "SoDEX 4" [ref=e2043] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e2044]:
+                                    - img "SoDEX" [ref=e2045]
+                                    - generic [ref=e2046]: "4"
+                                - link "SoSoValue 3" [ref=e2047] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e2048]:
+                                    - img "SoSoValue" [ref=e2049]
+                                    - generic [ref=e2050]: "3"
+                                - link "SoSoValueIndexes 3" [ref=e2051] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e2052]:
+                                    - img "SoSoValueIndexes" [ref=e2053]
+                                    - generic [ref=e2054]: "3"
+                                - link "crypto4chun 0" [ref=e2055] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e2056]:
+                                    - img "crypto4chun" [ref=e2057]
+                                    - generic [ref=e2058]: "0"
+                                - link "takimi 0" [ref=e2059] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e2060]:
+                                    - img "takimi" [ref=e2061]
+                                    - generic [ref=e2062]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e2063] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e2064]:
+                                    - img "MuhammadBa_2024" [ref=e2065]
+                                    - generic [ref=e2066]: "0"
+                                - link "jzddd 0" [ref=e2067] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e2068]:
+                                    - img "jzddd" [ref=e2069]
+                                    - generic [ref=e2070]: "0"
+                                - link "Davislambo 0" [ref=e2071] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e2072]:
+                                    - img "Davislambo" [ref=e2073]
+                                    - generic [ref=e2074]: "0"
+                                - link "SmartCoded 0" [ref=e2075] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e2076]:
+                                    - img "SmartCoded" [ref=e2077]
+                                    - generic [ref=e2078]: "0"
+                                - link "0xmiharbi 0" [ref=e2079] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e2080]:
+                                    - img "0xmiharbi" [ref=e2081]
+                                    - generic [ref=e2082]: "0"
+                              - button "Voting Details" [ref=e2084] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e2085]
+                            - generic [ref=e2087]:
+                              - generic [ref=e2088]: Grant
+                              - generic [ref=e2089]: 90.90909 USDC
+                    - button "10" [ref=e2090] [cursor=pointer]:
+                      - generic [ref=e2091]:
+                        - img [ref=e2092]
+                        - generic [ref=e2094]: "10"
+                      - img [ref=e2096]
+                  - generic [ref=e2098]:
+                    - generic [ref=e2099]:
+                      - generic [ref=e2100]:
+                        - generic [ref=e2101]:
+                          - generic [ref=e2102]:
+                            - img "ETFSignal AI" [ref=e2104]
+                            - generic [ref=e2105]: Hidden
+                          - generic [ref=e2106]:
+                            - link "ETFSignal AI" [ref=e2107] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/jan7NaMR3hgV7EzP/products/0nZk8nGgjCQg2Q1K
+                              - generic [ref=e2108]: ETFSignal AI
+                              - img [ref=e2110]
+                            - generic [ref=e2112]: Live ETF flows → Claude AI signal → SoDEX trade. Connect wallet to start.
+                            - list [ref=e2114]:
+                              - listitem [ref=e2115]: Market Infrastructure
+                              - listitem [ref=e2116]: AI / Analytics
+                              - listitem [ref=e2117]: DeFi
+                        - generic [ref=e2118]:
+                          - generic [ref=e2119]: Updates in this Wave
+                          - paragraph [ref=e2121]:
+                            - text: Built and deployed ETFSignal AI — a full signal-to-execution platform live at
+                            - link "https://etfsignal.vercel.app" [ref=e2122] [cursor=pointer]:
+                              - /url: https://etfsignal.vercel.app
+                            - text: "What was delivered: • Full 5-page Bloomberg-style dashboard (Overview, Flows, Signals, Alerts, News) — all pages wallet-gated via Dynamic • SoSoValue API integration — live BTC/ETH spot ETF metrics (daily inflows, net assets, cumulative flows, per-fund breakdown) with automatic mock fallback when API key is absent • Claude AI signal layer (claude-sonnet-4-6) — synthesizes ETF flow data + news into structured BULLISH/BEARISH/NEUTRAL signal with confidence score, key factors, trade idea, and risk warning — proxied server-side via Vercel Edge Function so API key never reaches browser • AskAI follow-up chat — users can drill into signals with natural language questions • Binance WebSocket live price stream — BTC/ETH prices updating ~1s cadence with LIVE indicator • SoDEX testnet EIP712 order signing — Long/Short orders submitted via Dynamic wallet signer • Sentiment gauge — animated SVG half-circle (0–100) with zone colors (red/orange/yellow/green) and smooth CSS needle animation • Recharts interactive charts — price+flow ComposedChart, market-share donut, 14-day inflow bar chart • Density toggle — Mobile / Compact / Comfortable layouts • Bloomberg-style ticker strip with live prices • Smart alerts feed with 5 severity types • Signal archive with mock P&L badges • Wallet-gated access — lock screen with one-click Dynamic connect prompt • SPA routing fix — all /app/* routes reload correctly on Vercel GitHub:"
+                            - link "https://github.com/girume1/etfsignal" [ref=e2123] [cursor=pointer]:
+                              - /url: https://github.com/girume1/etfsignal
+                            - text: "Live:"
+                            - link "https://etfsignal.vercel.app" [ref=e2124] [cursor=pointer]:
+                              - /url: https://etfsignal.vercel.app
+                            - text: PDF -
+                            - link "https://drive.google.com/file/d/1gfBgxthZX48-TJbsyvhVuJfIU1gn7Nhy/view?usp=sharing" [ref=e2125] [cursor=pointer]:
+                              - /url: https://drive.google.com/file/d/1gfBgxthZX48-TJbsyvhVuJfIU1gn7Nhy/view?usp=sharing
+                        - button "Milestone" [ref=e2127] [cursor=pointer]:
+                          - generic [ref=e2128]: Milestone
+                          - img [ref=e2130]
+                      - generic [ref=e2132]:
+                        - generic [ref=e2134]:
+                          - generic [ref=e2135]: 5points
+                          - button [ref=e2136] [cursor=pointer]:
+                            - img [ref=e2137]
+                        - generic [ref=e2141]:
+                          - list [ref=e2142]:
+                            - listitem [ref=e2143]:
+                              - generic [ref=e2144]:
+                                - generic [ref=e2145]: User Value & Practical Impact
+                                - generic [ref=e2146]:
+                                  - img [ref=e2147]
+                                  - text: "81"
+                            - listitem [ref=e2149]:
+                              - generic [ref=e2150]:
+                                - generic [ref=e2151]: Functionality & Working Demo
+                                - generic [ref=e2152]:
+                                  - img [ref=e2153]
+                                  - text: "85"
+                            - listitem [ref=e2155]:
+                              - generic [ref=e2156]:
+                                - generic [ref=e2157]: Logic, Workflow & Product Design
+                                - generic [ref=e2158]:
+                                  - img [ref=e2159]
+                                  - text: "84"
+                            - listitem [ref=e2161]:
+                              - generic [ref=e2162]:
+                                - generic [ref=e2163]: Data / API Integration
+                                - generic [ref=e2164]:
+                                  - img [ref=e2165]
+                                  - text: "81"
+                            - listitem [ref=e2167]:
+                              - generic [ref=e2168]:
+                                - generic [ref=e2169]: UX & Clarity
+                                - generic [ref=e2170]:
+                                  - img [ref=e2171]
+                                  - text: "81"
+                          - generic [ref=e2173]:
+                            - generic [ref=e2174]:
+                              - generic [ref=e2175]:
+                                - link "SoDEX 2" [ref=e2176] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoDEX
+                                  - generic [ref=e2177]:
+                                    - img "SoDEX" [ref=e2178]
+                                    - generic [ref=e2179]: "2"
+                                - link "SoSoValueIndexes 2" [ref=e2180] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValueIndexes
+                                  - generic [ref=e2181]:
+                                    - img "SoSoValueIndexes" [ref=e2182]
+                                    - generic [ref=e2183]: "2"
+                                - link "SoSoValue 1" [ref=e2184] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SoSoValue
+                                  - generic [ref=e2185]:
+                                    - img "SoSoValue" [ref=e2186]
+                                    - generic [ref=e2187]: "1"
+                                - link "crypto4chun 0" [ref=e2188] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/crypto4chun
+                                  - generic [ref=e2189]:
+                                    - img "crypto4chun" [ref=e2190]
+                                    - generic [ref=e2191]: "0"
+                                - link "takimi 0" [ref=e2192] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/takimi
+                                  - generic [ref=e2193]:
+                                    - img "takimi" [ref=e2194]
+                                    - generic [ref=e2195]: "0"
+                                - link "MuhammadBa_2024 0" [ref=e2196] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/MuhammadBa_2024
+                                  - generic [ref=e2197]:
+                                    - img "MuhammadBa_2024" [ref=e2198]
+                                    - generic [ref=e2199]: "0"
+                                - link "jzddd 0" [ref=e2200] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/jzddd
+                                  - generic [ref=e2201]:
+                                    - img "jzddd" [ref=e2202]
+                                    - generic [ref=e2203]: "0"
+                                - link "Davislambo 0" [ref=e2204] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/Davislambo
+                                  - generic [ref=e2205]:
+                                    - img "Davislambo" [ref=e2206]
+                                    - generic [ref=e2207]: "0"
+                                - link "SmartCoded 0" [ref=e2208] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/SmartCoded
+                                  - generic [ref=e2209]:
+                                    - img "SmartCoded" [ref=e2210]
+                                    - generic [ref=e2211]: "0"
+                                - link "0xmiharbi 0" [ref=e2212] [cursor=pointer]:
+                                  - /url: https://app.akindo.io/users/0xmiharbi
+                                  - generic [ref=e2213]:
+                                    - img "0xmiharbi" [ref=e2214]
+                                    - generic [ref=e2215]: "0"
+                              - button "Voting Details" [ref=e2217] [cursor=pointer]:
+                                - text: Voting Details
+                                - img [ref=e2218]
+                            - generic [ref=e2220]:
+                              - generic [ref=e2221]: Grant
+                              - generic [ref=e2222]: 45.454545 USDC
+                    - button "12" [ref=e2223] [cursor=pointer]:
+                      - generic [ref=e2224]:
+                        - img [ref=e2225]
+                        - generic [ref=e2227]: "12"
+                      - img [ref=e2229]
+                - generic [ref=e2231]:
+                  - button "Previous" [disabled]
+                  - generic [ref=e2232]: 1 / 13
+                  - button "Next" [ref=e2233] [cursor=pointer]
+                - generic [ref=e2235]:
+                  - img [ref=e2237]
+                  - generic [ref=e2239]: Protocol fee is 10.0% of distribution.
+              - generic [ref=e860]:
+                - button "Submit" [ref=e861] [cursor=pointer]
+                - generic [ref=e862]:
+                  - generic [ref=e863]:
+                    - heading "Grant" [level=3] [ref=e864]
+                    - list [ref=e865]:
+                      - listitem [ref=e866]:
+                        - heading "Total" [level=4] [ref=e867]
+                        - generic [ref=e868]: 10,000 USDC
+                      - listitem [ref=e869]:
+                        - heading "Pool" [level=4] [ref=e870]
+                        - generic [ref=e871]: 7,000 USDC
+                      - listitem [ref=e872]:
+                        - heading "Distribution Network" [level=4] [ref=e873]
+                        - generic [ref=e874]: Ethereum
+                  - generic [ref=e875]:
+                    - heading "Build with" [level=3] [ref=e876]
+                    - generic [ref=e877]:
+                      - generic [ref=e878]:
+                        - img "SoSoValue" [ref=e879]
+                        - text: SoSoValue
+                      - generic [ref=e880]: SoDEX
+                      - generic [ref=e881]: ValueChain
+                      - generic [ref=e882]: AI
+                  - generic [ref=e883]:
+                    - heading "Judging Criteria" [level=3] [ref=e884]
+                    - list [ref=e885]:
+                      - listitem [ref=e886]: User Value & Practical Impact
+                      - listitem [ref=e887]: Functionality & Working Demo
+                      - listitem [ref=e888]: Logic, Workflow & Product Design
+                      - listitem [ref=e889]: Data / API Integration
+                      - listitem [ref=e890]: UX & Clarity
+                  - generic [ref=e891]:
+                    - heading "Category" [level=3] [ref=e892]
+                    - generic [ref=e893]: Tools
+                  - generic [ref=e894]:
+                    - heading "Tags" [level=3] [ref=e895]
+                    - list [ref=e897]:
+                      - listitem [ref=e898]: "#SoSoValue"
+                      - listitem [ref=e899]: "#SoDEX"
+                      - listitem [ref=e900]: "#ValueChain"
+                      - listitem [ref=e901]: "#Agentic"
+                      - listitem [ref=e902]: "#One-Person"
+                      - listitem [ref=e903]: "#On-Chain Finance"
+                      - listitem [ref=e904]: "#AI x Web3"
+                  - generic [ref=e905]:
+                    - heading "Github repo" [level=3] [ref=e906]
+                    - link "https://github.com/SoSoValueLabs/ssi-protocol" [ref=e907] [cursor=pointer]:
+                      - /url: https://github.com/SoSoValueLabs/ssi-protocol
+                  - generic [ref=e908]:
+                    - heading "Community" [level=3] [ref=e909]
+                    - link "https://discord.gg/HQuGhhkhUW" [ref=e911] [cursor=pointer]:
+                      - /url: https://discord.gg/HQuGhhkhUW
+      - contentinfo [ref=e132]:
+        - generic [ref=e133]:
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - img [ref=e139]
+                - link "BOOK A STRATEGY CALL" [ref=e149] [cursor=pointer]:
+                  - /url: https://calendly.com/shinkinjo/30min
+              - generic [ref=e150]:
+                - list [ref=e151]:
+                  - listitem [ref=e152]:
+                    - link "Contact us" [ref=e153] [cursor=pointer]:
+                      - /url: https://app.deform.cc/form/d4def915-fae8-46a9-b66f-3bf623ff2a98/?page_number=0
+                  - listitem [ref=e154]:
+                    - link "Buildathons" [ref=e155] [cursor=pointer]:
+                      - /url: https://app.akindo.io/wave-hacks
+                  - listitem [ref=e156]:
+                    - link "Products" [ref=e157] [cursor=pointer]:
+                      - /url: https://app.akindo.io/products
+                  - listitem [ref=e158]:
+                    - link "The Builder Activation" [ref=e159] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@akindo_io
+                - list [ref=e160]:
+                  - listitem [ref=e161]:
+                    - link "About us" [ref=e162] [cursor=pointer]:
+                      - /url: https://akindo.io
+                  - listitem [ref=e163]:
+                    - link "Brand Assets" [ref=e164] [cursor=pointer]:
+                      - /url: https://drive.google.com/drive/folders/14xy6WPsUUSkoqn6nULor0WFrLjizscrs?usp=sharing
+                  - listitem [ref=e165]:
+                    - link "Terms" [ref=e166] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/Terms-4d86eec7d87c424e987ddb0dbc53af29
+                  - listitem [ref=e167]:
+                    - link "Privacy Policy" [ref=e168] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/PrivacyPolicy-db4b7aad0fe74d95a580665bb6d374a0
+            - generic [ref=e169]:
+              - list [ref=e170]:
+                - listitem [ref=e171]:
+                  - link [ref=e172] [cursor=pointer]:
+                    - /url: https://twitter.com/akindo_io
+                    - img [ref=e173]
+                - listitem [ref=e175]:
+                  - link [ref=e176] [cursor=pointer]:
+                    - /url: https://discord.gg/xAHPkSM9t7
+                    - img [ref=e177]
+                - listitem [ref=e179]:
+                  - link [ref=e180] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@akindo_io
+                    - img [ref=e181]
+                - listitem [ref=e183]:
+                  - link [ref=e184] [cursor=pointer]:
+                    - /url: https://t.me/akindo_io
+                    - img [ref=e185]
+                - listitem [ref=e187]:
+                  - link "Luma" [ref=e188] [cursor=pointer]:
+                    - /url: https://lu.ma/user/akindo
+                    - img "Luma" [ref=e190]
+                - listitem [ref=e191]:
+                  - link "Substack" [ref=e192] [cursor=pointer]:
+                    - /url: https://akindo.substack.com/
+                    - img "Substack" [ref=e194]
+              - generic [ref=e195]: ©AKINDO
+          - img "Build a Killer App" [ref=e197]
+    - region "Notifications Alt+T"
+  - alert [ref=e198]: AKINDO
+  - generic:
+    - alertdialog
+  - generic:
+    - alertdialog

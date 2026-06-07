@@ -1,0 +1,187 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e7]: TradeFirewall Risk Engine is live
+    - navigation [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "tradefirewall_" [ref=e11] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e12]:
+            - link "Product" [ref=e13] [cursor=pointer]:
+              - /url: /product
+            - link "Risk Engine" [ref=e14] [cursor=pointer]:
+              - /url: /check-trade
+            - link "Pricing" [ref=e15] [cursor=pointer]:
+              - /url: /pricing
+            - link "Resources" [ref=e16] [cursor=pointer]:
+              - /url: /resources
+            - link "About" [ref=e17] [cursor=pointer]:
+              - /url: /about
+        - generic [ref=e18]:
+          - link "API" [ref=e19] [cursor=pointer]:
+            - /url: /api
+          - link "Go to App" [ref=e20] [cursor=pointer]:
+            - /url: /check-trade
+            - button "Go to App" [ref=e21]
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: Rule-based crypto risk intelligence
+          - heading "Pre-trade risk you can understand trust act on" [level=1] [ref=e28]:
+            - text: Pre-trade risk
+            - text: you can
+            - text: understand
+            - text: trust
+            - text: act on
+        - paragraph [ref=e29]: TradeFirewall transforms market data into institutional-grade risk intelligence. Analyze proposed trades, detect hidden danger, and add confirmation controls before execution.
+        - generic [ref=e30]:
+          - link "Go to Risk Engine" [ref=e31] [cursor=pointer]:
+            - /url: /check-trade
+            - button "Go to Risk Engine" [ref=e32]
+          - link "View Demo" [ref=e33] [cursor=pointer]:
+            - /url: /check-trade
+            - button "View Demo" [ref=e34]
+      - generic [ref=e36]:
+        - generic [ref=e39]: Risk Engine Preview
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - generic [ref=e45]: 1. Enter Trade Details
+              - generic [ref=e46]: Asset, action, amount, holding period, risk profile
+            - generic [ref=e47]:
+              - generic [ref=e48]: 2. Market Data Analysis
+              - generic [ref=e49]: Real-time volatility, sentiment, volume, liquidity data
+            - generic [ref=e50]:
+              - generic [ref=e51]: 3. Risk Intelligence Scoring
+              - generic [ref=e52]: Comprehensive risk score from 0-100 with explanations
+            - generic [ref=e53]:
+              - generic [ref=e54]: 4. Safety Controls
+              - generic [ref=e55]: Confirmation gates for high-risk trades
+          - generic [ref=e57]:
+            - generic [ref=e58]: Ready to analyze your trade?
+            - link "Try Risk Engine" [ref=e59] [cursor=pointer]:
+              - /url: /check-trade
+              - button "Try Risk Engine" [ref=e60]
+    - generic [ref=e63]:
+      - heading "Trusted by risk-aware traders and builders" [level=2] [ref=e64]
+      - generic [ref=e65]:
+        - generic [ref=e66]: Signal Groups
+        - generic [ref=e67]: DeFi Apps
+        - generic [ref=e68]: Wallets
+        - generic [ref=e69]: Trading Bots
+        - generic [ref=e70]: Fund Managers
+        - generic [ref=e71]: Research Teams
+        - generic [ref=e72]: DAO Treasuries
+        - generic [ref=e73]: Market Analysts
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - heading "A full stack pre-trade risk platform" [level=2] [ref=e77]
+        - paragraph [ref=e78]: TradeFirewall connects market data, rule-based risk scoring, and execution controls into one workflow so users can move from trade idea to safer decision.
+      - generic [ref=e79]:
+        - generic [ref=e81]:
+          - heading "Source of truth for trade risk" [level=3] [ref=e84]
+          - paragraph [ref=e85]: Every risk score is based on market data, volatility, sentiment, liquidity, and trade context.
+        - generic [ref=e87]:
+          - heading "Standardized risk scoring" [level=3] [ref=e90]
+          - paragraph [ref=e91]: Every proposed trade is converted into a comparable risk score from 0 to 100.
+        - generic [ref=e93]:
+          - heading "Data you can act on" [level=3] [ref=e96]
+          - paragraph [ref=e97]: "Users get a clear decision: Approve, Caution, Reduce, Wait, or Block."
+    - generic [ref=e99]:
+      - heading "Pre-trade intelligence you can understand" [level=2] [ref=e101]
+      - generic [ref=e102]:
+        - generic [ref=e104]:
+          - generic [ref=e105]: 📊
+          - heading "Risk Engine" [level=3] [ref=e106]
+          - paragraph [ref=e107]: Analyze proposed trades before execution.
+        - generic [ref=e109]:
+          - generic [ref=e110]: 📋
+          - heading "Trade Statement" [level=3] [ref=e111]
+          - paragraph [ref=e112]: Convert every trade into a financial-style risk statement.
+        - generic [ref=e114]:
+          - generic [ref=e115]: 🤖
+          - heading "Risk Intelligence Explanation" [level=3] [ref=e116]
+          - paragraph [ref=e117]: Explain the risk in simple language.
+        - generic [ref=e119]:
+          - generic [ref=e120]: 🛡️
+          - heading "Confirmation Gate" [level=3] [ref=e121]
+          - paragraph [ref=e122]: Require users to confirm high-risk trades before execution.
+        - generic [ref=e124]:
+          - generic [ref=e125]: 🔌
+          - heading "API" [level=3] [ref=e126]
+          - paragraph [ref=e127]: Let wallets, bots, and DeFi apps call TradeFirewall risk checks.
+        - generic [ref=e129]:
+          - generic [ref=e130]: 📈
+          - heading "Dashboard" [level=3] [ref=e131]
+          - paragraph [ref=e132]: Track recent checks, blocked trades, alerts, and simulated losses avoided.
+    - generic [ref=e134]:
+      - heading "Ready to add risk intelligence to your trades?" [level=2] [ref=e135]
+      - paragraph [ref=e136]: Join traders and builders using TradeFirewall to make safer decisions.
+      - generic [ref=e137]:
+        - link "Start Risk Analysis" [ref=e138] [cursor=pointer]:
+          - /url: /check-trade
+          - button "Start Risk Analysis" [ref=e139]
+        - link "Read Documentation" [ref=e140] [cursor=pointer]:
+          - /url: /api
+          - button "Read Documentation" [ref=e141]
+    - contentinfo [ref=e142]:
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - generic [ref=e145]:
+            - generic [ref=e146]: tradefirewall_
+            - paragraph [ref=e147]: Rule-based pre-trade risk intelligence for crypto traders and builders.
+          - generic [ref=e148]:
+            - heading "Company" [level=3] [ref=e149]
+            - list [ref=e150]:
+              - listitem [ref=e151]:
+                - link "About" [ref=e152] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e153]:
+                - link "Contact" [ref=e154] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e155]:
+                - link "Pricing" [ref=e156] [cursor=pointer]:
+                  - /url: /pricing
+              - listitem [ref=e157]:
+                - link "Privacy Policy" [ref=e158] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=e159]:
+            - heading "Product" [level=3] [ref=e160]
+            - list [ref=e161]:
+              - listitem [ref=e162]:
+                - link "Risk Engine" [ref=e163] [cursor=pointer]:
+                  - /url: /check-trade
+              - listitem [ref=e164]:
+                - link "Dashboard" [ref=e165] [cursor=pointer]:
+                  - /url: /dashboard
+              - listitem [ref=e166]:
+                - link "API" [ref=e167] [cursor=pointer]:
+                  - /url: /api
+              - listitem [ref=e168]:
+                - link "Confirmation Gate" [ref=e169] [cursor=pointer]:
+                  - /url: "#"
+          - generic [ref=e170]:
+            - heading "Resources" [level=3] [ref=e171]
+            - list [ref=e172]:
+              - listitem [ref=e173]:
+                - link "Docs" [ref=e174] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e175]:
+                - link "Blog" [ref=e176] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e177]:
+                - link "Demo" [ref=e178] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e179]:
+                - link "GitHub" [ref=e180] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=e181]:
+          - paragraph [ref=e182]: © 2026 TradeFirewall. Built for SoSoValue Buildathon.
+          - generic [ref=e183]:
+            - link "X" [ref=e184] [cursor=pointer]:
+              - /url: "#"
+            - link "Discord" [ref=e185] [cursor=pointer]:
+              - /url: "#"
+            - link "Telegram" [ref=e186] [cursor=pointer]:
+              - /url: "#"
+  - alert [ref=e187]

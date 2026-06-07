@@ -1,0 +1,145 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: https://app.akindo.io/
+            - img [ref=e9]
+          - generic [ref=e18]:
+            - link "Buildathons" [ref=e20] [cursor=pointer]:
+              - /url: https://app.akindo.io/wave-hacks
+            - link "Hackathons" [ref=e22] [cursor=pointer]:
+              - /url: https://app.akindo.io/hackathons
+            - link "Products" [ref=e24] [cursor=pointer]:
+              - /url: https://app.akindo.io/products
+            - button "Showcase Product" [ref=e26] [cursor=pointer]
+            - button "anxbrt" [ref=e28] [cursor=pointer]:
+              - img "anxbrt" [ref=e29]
+        - link "Build Your One-Person On-Chain Finance Business with SoSoValue 1Days 13:53 Left to Submit" [ref=e31] [cursor=pointer]:
+          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+          - generic [ref=e32]: Build Your One-Person On-Chain Finance Business with SoSoValue
+          - generic [ref=e33]:
+            - text: 1Days 13:53
+            - generic [ref=e34]: Left to Submit
+      - main [ref=e36]:
+        - generic [ref=e37]:
+          - link "team roh" [ref=e39] [cursor=pointer]:
+            - /url: https://app.akindo.io/communities/zKO8da7XjiaZwGJ
+            - img [ref=e40]
+            - generic [ref=e43]: team roh
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - img "LiqSentry" [ref=e47]
+              - generic [ref=e48]:
+                - heading "LiqSentry" [level=1] [ref=e49]
+                - generic [ref=e50]:
+                  - generic [ref=e51]: Real-time liquidity health monitor for on-chain assets, powered by SoDEX and SoSoValue.
+                  - link "team roh team roh" [ref=e53] [cursor=pointer]:
+                    - /url: https://app.akindo.io/communities/zKO8da7XjiaZwGJ
+                    - generic [ref=e54]:
+                      - img "team roh" [ref=e55]
+                      - generic [ref=e56]: team roh
+            - generic [ref=e57]:
+              - button "Overview" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: Overview
+              - button "Submission Comments" [ref=e61] [cursor=pointer]:
+                - generic [ref=e63]: Submission Comments
+              - button "Voter Reviews" [ref=e64] [cursor=pointer]:
+                - generic [ref=e66]: Voter Reviews
+              - button "Vote Comments" [ref=e67] [cursor=pointer]:
+                - generic [ref=e69]: Vote Comments
+            - generic [ref=e71]:
+              - generic [ref=e73]: This product is hidden.
+              - complementary [ref=e74]:
+                - generic [ref=e75]:
+                  - generic [ref=e76]:
+                    - heading "Build with" [level=3] [ref=e77]
+                    - generic [ref=e79]: sosovlaue
+                  - generic [ref=e80]:
+                    - heading "Product Category" [level=3] [ref=e81]
+                    - list [ref=e83]:
+                      - listitem [ref=e84]: sosovalue
+                  - generic [ref=e85]:
+                    - heading "Tags" [level=3] [ref=e86]
+                    - list [ref=e88]:
+                      - listitem [ref=e89]: "#Python"
+                  - generic [ref=e90]:
+                    - heading "Submitted to" [level=2] [ref=e91]
+                    - generic [ref=e93]:
+                      - link "Build Your One-Person On-Chain Finance Business with SoSoValue Build Your One-Person On-Chain Finance Business with SoSoValue [1st Wave]" [ref=e94] [cursor=pointer]:
+                        - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+                        - img "Build Your One-Person On-Chain Finance Business with SoSoValue" [ref=e96]
+                        - generic [ref=e97]: Build Your One-Person On-Chain Finance Business with SoSoValue [1st Wave]
+                      - generic [ref=e98]:
+                        - generic [ref=e99]: 1st Wave
+                        - text: 90.909 USDC
+      - contentinfo [ref=e100]:
+        - generic [ref=e101]:
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - img [ref=e107]
+                - link "BOOK A STRATEGY CALL" [ref=e117] [cursor=pointer]:
+                  - /url: https://calendly.com/shinkinjo/30min
+              - generic [ref=e118]:
+                - list [ref=e119]:
+                  - listitem [ref=e120]:
+                    - link "Contact us" [ref=e121] [cursor=pointer]:
+                      - /url: https://app.deform.cc/form/d4def915-fae8-46a9-b66f-3bf623ff2a98/?page_number=0
+                  - listitem [ref=e122]:
+                    - link "Buildathons" [ref=e123] [cursor=pointer]:
+                      - /url: https://app.akindo.io/wave-hacks
+                  - listitem [ref=e124]:
+                    - link "Products" [ref=e125] [cursor=pointer]:
+                      - /url: https://app.akindo.io/products
+                  - listitem [ref=e126]:
+                    - link "The Builder Activation" [ref=e127] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@akindo_io
+                - list [ref=e128]:
+                  - listitem [ref=e129]:
+                    - link "About us" [ref=e130] [cursor=pointer]:
+                      - /url: https://akindo.io
+                  - listitem [ref=e131]:
+                    - link "Brand Assets" [ref=e132] [cursor=pointer]:
+                      - /url: https://drive.google.com/drive/folders/14xy6WPsUUSkoqn6nULor0WFrLjizscrs?usp=sharing
+                  - listitem [ref=e133]:
+                    - link "Terms" [ref=e134] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/Terms-4d86eec7d87c424e987ddb0dbc53af29
+                  - listitem [ref=e135]:
+                    - link "Privacy Policy" [ref=e136] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/PrivacyPolicy-db4b7aad0fe74d95a580665bb6d374a0
+            - generic [ref=e137]:
+              - list [ref=e138]:
+                - listitem [ref=e139]:
+                  - link [ref=e140] [cursor=pointer]:
+                    - /url: https://twitter.com/akindo_io
+                    - img [ref=e141]
+                - listitem [ref=e143]:
+                  - link [ref=e144] [cursor=pointer]:
+                    - /url: https://discord.gg/xAHPkSM9t7
+                    - img [ref=e145]
+                - listitem [ref=e147]:
+                  - link [ref=e148] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@akindo_io
+                    - img [ref=e149]
+                - listitem [ref=e151]:
+                  - link [ref=e152] [cursor=pointer]:
+                    - /url: https://t.me/akindo_io
+                    - img [ref=e153]
+                - listitem [ref=e155]:
+                  - link "Luma" [ref=e156] [cursor=pointer]:
+                    - /url: https://lu.ma/user/akindo
+                    - img "Luma" [ref=e158]
+                - listitem [ref=e159]:
+                  - link "Substack" [ref=e160] [cursor=pointer]:
+                    - /url: https://akindo.substack.com/
+                    - img "Substack" [ref=e162]
+              - generic [ref=e163]: ©AKINDO
+          - img "Build a Killer App" [ref=e165]
+    - region "Notifications Alt+T"
+  - alert [ref=e166]: AKINDO
+  - generic:
+    - alertdialog
+  - generic:
+    - alertdialog

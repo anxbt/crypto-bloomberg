@@ -1,0 +1,689 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: https://app.akindo.io/
+            - img [ref=e9]
+          - generic [ref=e18]:
+            - link "Buildathons" [ref=e20] [cursor=pointer]:
+              - /url: https://app.akindo.io/wave-hacks
+            - link "Hackathons" [ref=e22] [cursor=pointer]:
+              - /url: https://app.akindo.io/hackathons
+            - link "Products" [ref=e24] [cursor=pointer]:
+              - /url: https://app.akindo.io/products
+            - button "Showcase Product" [ref=e94] [cursor=pointer]
+            - button "anxbrt" [ref=e96] [cursor=pointer]:
+              - img "anxbrt" [ref=e97]
+        - link "Build Your One-Person On-Chain Finance Business with SoSoValue 1Days 13:59 Left to Submit" [ref=e99] [cursor=pointer]:
+          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+          - generic [ref=e100]: Build Your One-Person On-Chain Finance Business with SoSoValue
+          - generic [ref=e101]:
+            - text: 1Days 13:59
+            - generic [ref=e102]: Left to Submit
+      - main [ref=e104]:
+        - generic [ref=e105]:
+          - link "Buildathons" [ref=e106] [cursor=pointer]:
+            - /url: https://app.akindo.io/wave-hacks
+            - img [ref=e107]
+            - generic [ref=e110]: Buildathons
+          - generic [ref=e111]:
+            - generic [ref=e112]:
+              - generic [ref=e113]:
+                - img "WaveHack" [ref=e115]
+                - link "What is WaveHack?" [ref=e116] [cursor=pointer]:
+                  - /url: https://buildathon-akindo.notion.site/Buildathon-Powered-by-WaveHack-Protocol-2f30a394059980828c09fce119956e2d
+              - link "Post" [ref=e202] [cursor=pointer]:
+                - /url: https://twitter.com/intent/tweet?text=Check%20this%20out!%20Build%20Your%20One-Person%20On-Chain%20Finance%20Business%20with%20SoSoValue%20https%3A%2F%2Fapp.akindo.io%2Fwave-hacks%2FJBEQXgN4Zi2jA3wA%20on%20%40akindo_io
+                - img [ref=e203]
+                - generic [ref=e205]: Post
+            - generic [ref=e121]:
+              - heading "Build Your One-Person On-Chain Finance Business with SoSoValue" [level=1] [ref=e122]
+              - generic [ref=e123]: Powered by SoSoValue's data,news feeds,index tools,trading APIs,and high-performance L1 ValueChain
+              - link "SoSoValue SoSoValue" [ref=e124] [cursor=pointer]:
+                - /url: https://app.akindo.io/communities/wKg3A9xVlu8ZpwqPL
+                - generic [ref=e125]:
+                  - img "SoSoValue" [ref=e127]
+                  - generic [ref=e128]: SoSoValue
+            - generic [ref=e129]:
+              - button "Overview" [ref=e130] [cursor=pointer]:
+                - generic [ref=e132]: Overview
+              - button "Judges" [ref=e133] [cursor=pointer]:
+                - generic [ref=e135]: Judges
+              - button "Submissions 149" [active] [ref=e136] [cursor=pointer]:
+                - generic [ref=e137]:
+                  - generic [ref=e138]: Submissions
+                  - generic [ref=e139]: "149"
+              - button "Comments 321" [ref=e140] [cursor=pointer]:
+                - generic [ref=e141]:
+                  - generic [ref=e142]: Comments
+                  - generic [ref=e143]: "321"
+              - button "Join a team 53" [ref=e144] [cursor=pointer]:
+                - generic [ref=e145]:
+                  - generic [ref=e146]: Join a team
+                  - generic [ref=e147]: "53"
+            - generic [ref=e148]:
+              - generic [ref=e206]:
+                - list [ref=e208]:
+                  - listitem [ref=e209]:
+                    - button "All Waves 149" [ref=e210] [cursor=pointer]:
+                      - generic [ref=e211]:
+                        - generic [ref=e212]: All Waves
+                        - generic [ref=e213]: "149"
+                  - listitem [ref=e214]:
+                    - button "2nd Wave 56" [ref=e215] [cursor=pointer]:
+                      - generic [ref=e216]:
+                        - generic [ref=e217]: 2nd Wave
+                        - generic [ref=e218]: "56"
+                  - listitem [ref=e219]:
+                    - button "1st Wave 121" [ref=e220] [cursor=pointer]:
+                      - generic [ref=e221]:
+                        - generic [ref=e222]: 1st Wave
+                        - generic [ref=e223]: "121"
+                - generic [ref=e226]:
+                  - textbox "Search submissions" [ref=e228]
+                  - button "Search" [ref=e229] [cursor=pointer]:
+                    - generic [ref=e230]: Search
+                    - img [ref=e231]
+                - generic [ref=e234]: 56 products found.
+                - generic [ref=e235]:
+                  - generic [ref=e236]:
+                    - generic [ref=e237]:
+                      - generic [ref=e238]:
+                        - generic [ref=e239]:
+                          - img "SOSO-SMRE (SMART MONEY RESARCH ENGINE)" [ref=e242]
+                          - generic [ref=e243]:
+                            - link "SOSO-SMRE (SMART MONEY RESARCH ENGINE)" [ref=e244] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/eaMPeBmRjHZq9gdj/products/o6X2Ko8PgUq3AxGlR
+                              - generic [ref=e245]: SOSO-SMRE (SMART MONEY RESARCH ENGINE)
+                              - img [ref=e247]
+                            - generic [ref=e249]: SoSo SMRE
+                            - list [ref=e251]:
+                              - listitem [ref=e252]: AI trading agent
+                              - listitem [ref=e253]: DeFi
+                              - listitem [ref=e254]: Market infrastruture
+                            - link "GitHub" [ref=e256] [cursor=pointer]:
+                              - /url: https://github.com/Cyptoboy777/soso-smre
+                              - img [ref=e257]
+                              - generic [ref=e259]: GitHub
+                        - generic [ref=e260]:
+                          - generic [ref=e261]: Updates in this Wave
+                          - paragraph [ref=e263]: SoDex realtime testnet trading with a SoDaggy Companion major 24/7 trading bot and major update in ui/ux and Realtime Market analysis by Soeva
+                        - button "Milestone" [ref=e265] [cursor=pointer]:
+                          - generic [ref=e266]: Milestone
+                          - img [ref=e268]
+                      - generic [ref=e270]:
+                        - generic [ref=e271]:
+                          - generic [ref=e272]:
+                            - generic [ref=e273]: 0points
+                            - button [ref=e274] [cursor=pointer]:
+                              - img [ref=e275]
+                          - generic [ref=e277]:
+                            - generic [ref=e278]: Previous Wave Points
+                            - list [ref=e279]:
+                              - listitem [ref=e280]:
+                                - generic [ref=e281]: 1st Wave
+                                - generic [ref=e282]: 0 pt
+                        - generic [ref=e287]:
+                          - generic [ref=e288]: Grant
+                          - generic [ref=e289]: 0 USDC
+                    - button "9" [ref=e290] [cursor=pointer]:
+                      - generic [ref=e291]:
+                        - img [ref=e292]
+                        - generic [ref=e294]: "9"
+                      - img [ref=e296]
+                  - generic [ref=e298]:
+                    - generic [ref=e299]:
+                      - generic [ref=e300]:
+                        - generic [ref=e301]:
+                          - img "Orbit dashboard" [ref=e304]
+                          - generic [ref=e305]:
+                            - link "Orbit dashboard" [ref=e306] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/peB0nkNO6sJNB6DE/products/aAM2o8DAAt8xj4O2a
+                              - generic [ref=e307]: Orbit dashboard
+                              - img [ref=e309]
+                            - generic [ref=e311]: "Orbit Dashboard: SoSoValue data + SoDEX execution for crypto tracking"
+                            - list [ref=e313]:
+                              - listitem [ref=e314]: Data& Analysis
+                              - listitem [ref=e315]: Market Infrastructure
+                            - link "GitHub" [ref=e317] [cursor=pointer]:
+                              - /url: https://github.com/buharimaming-eng/Orbit-dashboard-
+                              - img [ref=e318]
+                              - generic [ref=e320]: GitHub
+                        - generic [ref=e321]:
+                          - generic [ref=e322]: Updates in this Wave
+                          - paragraph [ref=e324]:
+                            - text: "Improved UI and added new dashboard features for Orbit. Fixed bugs and optimized performance. Demo video:"
+                            - link "https://youtube.com/shorts/255izhRlZdY?si=Y3q-q02ifdP7Byix" [ref=e325] [cursor=pointer]:
+                              - /url: https://youtube.com/shorts/255izhRlZdY?si=Y3q-q02ifdP7Byix
+                            - text: "Features: Live crypto prices for BTC, ETH, SOL, global market cap, 24h volume, and BTC dominance."
+                        - button "Milestone" [ref=e327] [cursor=pointer]:
+                          - generic [ref=e328]: Milestone
+                          - img [ref=e330]
+                      - generic [ref=e332]:
+                        - generic [ref=e333]:
+                          - generic [ref=e334]:
+                            - generic [ref=e335]: 0points
+                            - button [ref=e336] [cursor=pointer]:
+                              - img [ref=e337]
+                          - generic [ref=e339]:
+                            - generic [ref=e340]: Previous Wave Points
+                            - list [ref=e341]:
+                              - listitem [ref=e342]:
+                                - generic [ref=e343]: 1st Wave
+                                - generic [ref=e344]: 0 pt
+                        - generic [ref=e349]:
+                          - generic [ref=e350]: Grant
+                          - generic [ref=e351]: 0 USDC
+                    - button "12" [ref=e352] [cursor=pointer]:
+                      - generic [ref=e353]:
+                        - img [ref=e354]
+                        - generic [ref=e356]: "12"
+                      - img [ref=e358]
+                  - generic [ref=e360]:
+                    - generic [ref=e361]:
+                      - generic [ref=e362]:
+                        - generic [ref=e363]:
+                          - img "The Professional Sentinel" [ref=e366]
+                          - generic [ref=e367]:
+                            - link "The Professional Sentinel" [ref=e368] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/X4exorKA4UMP14BR8/products/RDnP1OOkGC8XLw31
+                              - generic [ref=e369]: The Professional Sentinel
+                              - img [ref=e371]
+                            - generic [ref=e373]: "Autonomous Sentinel: Turning SoSoValue sentiment into legendary action on ValueChain."
+                            - list [ref=e375]:
+                              - listitem [ref=e376]: prediction market
+                              - listitem [ref=e377]: Web3
+                              - listitem [ref=e378]: Tools
+                            - link "GitHub" [ref=e380] [cursor=pointer]:
+                              - /url: https://github.com/hogr151515-bit/Legendery-Happiness
+                              - img [ref=e381]
+                              - generic [ref=e383]: GitHub
+                        - generic [ref=e384]:
+                          - generic [ref=e385]: Updates in this Wave
+                          - paragraph [ref=e387]:
+                            - text: "❖ The Professional Sentinel — Wave 2 Architecture Implementation 🛡️ This update directly implements the crucial technical frameworks highlighted by our Wave 1 judging panel (SmartCoded, jzddd, and takimi) to move our project from a conceptual design to verified codebase execution. Key Technical Deliverables Deployed: 1. End-to-End Intelligence Layer: Constructed our Python data ingestion interface ('src/sentinel_"
+                            - link "core.py" [ref=e388] [cursor=pointer]:
+                              - /url: http://core.py
+                            - text: "') designed to simulate structured reads from SoSoValue endpoints (Macro Sentiment Index, Social FUD Volume, and Institutional ETF flows). 2. Advanced Risk & FUD Filter: Built an algorithmic 'Sentinel Shield' that evaluates 24h social spikes. If market panic hits anomaly thresholds, the agent handles automated defensive capital positioning to save retail users from high-leverage liquidations. 3. Strategy Metrics Integration: Initialized data logic to parse risk-adjusted criteria (targeting a high-performance Sharpe Ratio) before passing signals directly to automated trade routing blocks. Our core engine is now publicly tracking in our repository. Ready for live testnet pipeline steps! 🚀"
+                        - button "Milestone" [ref=e390] [cursor=pointer]:
+                          - generic [ref=e391]: Milestone
+                          - img [ref=e393]
+                      - generic [ref=e395]:
+                        - generic [ref=e396]:
+                          - generic [ref=e397]:
+                            - generic [ref=e398]: 0points
+                            - button [ref=e399] [cursor=pointer]:
+                              - img [ref=e400]
+                          - generic [ref=e402]:
+                            - generic [ref=e403]: Previous Wave Points
+                            - list [ref=e404]:
+                              - listitem [ref=e405]:
+                                - generic [ref=e406]: 1st Wave
+                                - generic [ref=e407]: 0 pt
+                        - generic [ref=e412]:
+                          - generic [ref=e413]: Grant
+                          - generic [ref=e414]: 0 USDC
+                    - button "10" [ref=e415] [cursor=pointer]:
+                      - generic [ref=e416]:
+                        - img [ref=e417]
+                        - generic [ref=e419]: "10"
+                      - img [ref=e421]
+                  - generic [ref=e423]:
+                    - generic [ref=e424]:
+                      - generic [ref=e425]:
+                        - generic [ref=e426]:
+                          - img "Alphapulse AI" [ref=e429]
+                          - generic [ref=e430]:
+                            - link "Alphapulse AI" [ref=e431] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/63o1JLppMcLxql21k/products/VwM4JX9omcne1dZD
+                              - generic [ref=e432]: Alphapulse AI
+                              - img [ref=e434]
+                            - generic [ref=e436]: AI-powered on-chain trading assistant analyzing volume and news via SoSoValue APIs
+                            - list [ref=e438]:
+                              - listitem [ref=e439]: AI Trading Assistant
+                              - listitem [ref=e440]: Market Infrastructure
+                              - listitem [ref=e441]: DeFi
+                            - link "Deliverable" [ref=e443] [cursor=pointer]:
+                              - /url: https://t.me/AtiulislamMunna
+                              - img [ref=e444]
+                              - generic [ref=e446]: Deliverable
+                        - generic [ref=e447]:
+                          - generic [ref=e448]: Updates in this Wave
+                          - paragraph [ref=e450]: "For this current Wave 2, we have conceptualized AlphaPulse AI to directly build on top of SoSoValue’s multi-layered infrastructure. Our main updates and focus for this wave include: 1. Designing the core architecture for the Omni-Sentiment Signal by blending traditional technical indicators with live news sentiment feeds via SoSoValue APIs. 2. Formulating the framework for a Macro-Aware Risk Manager that dynamically factors in global macroeconomic events (like upcoming FOMC interest rate decisions) into live trading strategies. 3. Structuring long-term portfolio automation metrics, specifically customized for long-term holding assets and automated DCA plans scaling through 2027"
+                        - button "Milestone" [ref=e452] [cursor=pointer]:
+                          - generic [ref=e453]: Milestone
+                          - img [ref=e455]
+                      - generic [ref=e457]:
+                        - generic [ref=e459]:
+                          - generic [ref=e460]: 0points
+                          - button [ref=e461] [cursor=pointer]:
+                            - img [ref=e462]
+                        - generic [ref=e468]:
+                          - generic [ref=e469]: Grant
+                          - generic [ref=e470]: 0 USDC
+                    - button "0" [ref=e471] [cursor=pointer]:
+                      - generic [ref=e472]:
+                        - img [ref=e473]
+                        - generic [ref=e475]: "0"
+                      - img [ref=e477]
+                  - generic [ref=e479]:
+                    - generic [ref=e480]:
+                      - generic [ref=e481]:
+                        - generic [ref=e482]:
+                          - img "SignalFlow Agent" [ref=e485]
+                          - generic [ref=e486]:
+                            - link "SignalFlow Agent" [ref=e487] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/mVBN1ZrdOhWrwkg4/products/0nZdWe9mahzzWW9JR
+                              - generic [ref=e488]: SignalFlow Agent
+                              - img [ref=e490]
+                            - generic [ref=e492]: AI-powered signal-to-execution agent built on SoSoValue API and SoDEX
+                            - list [ref=e494]:
+                              - listitem [ref=e495]: Market Signal
+                              - listitem [ref=e496]: Autonomous Agent
+                              - listitem [ref=e497]: Auto Execution Trade
+                            - link "GitHub" [ref=e499] [cursor=pointer]:
+                              - /url: https://github.com/nohypelabs/signalflow-agent
+                              - img [ref=e500]
+                              - generic [ref=e502]: GitHub
+                        - generic [ref=e503]:
+                          - generic [ref=e504]: Updates in this Wave
+                          - paragraph [ref=e506]:
+                            - text: "Wave 2 Update : In the past, wave 1 was a prototype — hardcoded signals, no real data, no execution. Wave 2 is where it becomes real: a full signal-to-execution trading platform with live wallet connectivity, live orders, AI-enhanced reasoning, and a command-center dashboard built for serious traders. Live :"
+                            - link "https://signalflowagent.vercel.app" [ref=e507] [cursor=pointer]:
+                              - /url: https://signalflowagent.vercel.app
+                            - text: "GitHub :"
+                            - link "https://github.com/nohypelabs/signalflow-agent" [ref=e508] [cursor=pointer]:
+                              - /url: https://github.com/nohypelabs/signalflow-agent
+                            - text: "https:"
+                            - link "https://signalflowagent.vercel.app/docs" [ref=e509] [cursor=pointer]:
+                              - /url: https://signalflowagent.vercel.app/docs
+                            - text: "Product Walkthrough :"
+                            - link "https://youtu.be/LcN7pJp1Ftc?si=JJtjsX8CdzPYN7nI" [ref=e510] [cursor=pointer]:
+                              - /url: https://youtu.be/LcN7pJp1Ftc?si=JJtjsX8CdzPYN7nI
+                            - text: "--- New Icon for Logo New Icon, New Spirit for building. Wallet & Trading MetaMask + WalletConnect v2 on ValueChain mainnet (chain ID 286623, SOSO). Smart connector detects window.ethereum on desktop and falls back to WalletConnect QR/deep links on mobile. EIP-712 typed-data signing for SoDEX spot orders — users sign directly through their wallet, no custody. Trade modal includes live ticker price, wallet balance, 25/50/75/100% quick-fill buttons, cost preview, and Sign & Submit flow. Order dashboard tracks open/filled/canceled status with cancel support. Requests proxied via /api/orders and /api/balance. AI Signal Enhancement Multi-provider AI selection: Deepseek, OpenAI, and OpenRouter. User-supplied API keys stored locally in the browser — never sent to SignalFlow servers. Per-dimension reasoning explains each signal: entry, stop-loss, take-profit, confidence, and position sizing. Decision Score syncs live with the signal engine on /signals. SoSoValue & Market Data ETF flow, news sentiment, macro indicators, BTC treasury, and index snapshots fully integrated. Quota-aware degraded states keep panels functional at API limits — degrades gracefully, never silently. Catalyst Monitor replaces the old news feed with a Bloomberg-style event tape: live signal events, market movers, liquidity leaders, and SoDEX status. Command Center Dashboard Redesigned /dashboard: pipeline rail → market canvas → Decision Score → Catalyst Monitor → evidence strip (Market Pressure, Signal Reliability, Macro Tape, Execution Readiness). Traffic-light LONG/SHORT/NO TRADE state pulled directly from the live signal engine. Mobile & PWA Full PWA: manifest.json, custom icons, service worker, Apple Web App metadata, standalone display mode. Responsive mobile layout: compact header, drawer sidebar, bottom navigation, scroll lock, safe-bottom padding for notched devices. UX & Validation Paper futures flow for pre-execution signal validation. Four trading modes: Scalping, Intraday, Swing, Position — each with distinct confidence thresholds, factor weights, TP/SL behavior, and leverage caps. Multi-timeframe confluence across 1H, 4H, 1D. Backtest page: win rate, profit factor, drawdown, equity curve, per-regime accuracy."
+                        - button "Milestone" [ref=e512] [cursor=pointer]:
+                          - generic [ref=e513]: Milestone
+                          - img [ref=e515]
+                      - generic [ref=e517]:
+                        - generic [ref=e518]:
+                          - generic [ref=e519]:
+                            - generic [ref=e520]: 0points
+                            - button [ref=e521] [cursor=pointer]:
+                              - img [ref=e522]
+                          - generic [ref=e524]:
+                            - generic [ref=e525]: Previous Wave Points
+                            - list [ref=e526]:
+                              - listitem [ref=e527]:
+                                - generic [ref=e528]: 1st Wave
+                                - generic [ref=e529]: 2 pt
+                        - generic [ref=e534]:
+                          - generic [ref=e535]: Grant
+                          - generic [ref=e536]: 0 USDC
+                    - button "13" [ref=e537] [cursor=pointer]:
+                      - generic [ref=e538]:
+                        - img [ref=e539]
+                        - generic [ref=e541]: "13"
+                      - img [ref=e543]
+                  - generic [ref=e545]:
+                    - generic [ref=e546]:
+                      - generic [ref=e547]:
+                        - generic [ref=e548]:
+                          - img "SoSo Signal Copilot" [ref=e551]
+                          - generic [ref=e552]:
+                            - link "SoSo Signal Copilot" [ref=e553] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/RDwMDw137UemvW29/products/o6Xr6oN88UGdXOoD
+                              - generic [ref=e554]: SoSo Signal Copilot
+                              - img [ref=e556]
+                            - generic [ref=e558]: AI crypto terminal turning live SoDEX data into signal cards.
+                            - list [ref=e560]:
+                              - listitem [ref=e561]: Market Infrastructure
+                              - listitem [ref=e562]: AI
+                              - listitem [ref=e563]: DeFi
+                            - link "GitHub" [ref=e565] [cursor=pointer]:
+                              - /url: https://github.com/nhanbin2024/SoSoSignalCopilot
+                              - img [ref=e566]
+                              - generic [ref=e568]: GitHub
+                        - generic [ref=e569]:
+                          - generic [ref=e570]: Updates in this Wave
+                          - paragraph [ref=e572]:
+                            - text: "For this wave, I built and deployed SoSo Signal Copilot as a live AI crypto research terminal. Main updates: - Built a modern multi-tab dashboard with Command Center, Market Intelligence, Narrative Radar, Signal Engine, SSI Builder, Portfolio Risk, and API Console. - Integrated live SoDEX public market data for spot/perps market records. - Added API Console to show real API status instead of hiding errors. - Added Narrative Radar to turn live records into theme heatmaps. - Added Signal Engine to create scored research cards from live market data. - Added Portfolio Risk Simulator for manual holdings. - Added Markdown export for research plans. - Deployed the product on Vercel. Live demo:"
+                            - link "https://sososignal-copilot.vercel.app/" [ref=e573] [cursor=pointer]:
+                              - /url: https://sososignal-copilot.vercel.app/
+                            - text: "GitHub:"
+                            - link "https://github.com/nhanbin2024/SoSoSignalCopilot" [ref=e574] [cursor=pointer]:
+                              - /url: https://github.com/nhanbin2024/SoSoSignalCopilot
+                        - button "Milestone" [ref=e576] [cursor=pointer]:
+                          - generic [ref=e577]: Milestone
+                          - img [ref=e579]
+                      - generic [ref=e581]:
+                        - generic [ref=e583]:
+                          - generic [ref=e584]: 0points
+                          - button [ref=e585] [cursor=pointer]:
+                            - img [ref=e586]
+                        - generic [ref=e592]:
+                          - generic [ref=e593]: Grant
+                          - generic [ref=e594]: 0 USDC
+                    - button "0" [ref=e595] [cursor=pointer]:
+                      - generic [ref=e596]:
+                        - img [ref=e597]
+                        - generic [ref=e599]: "0"
+                      - img [ref=e601]
+                  - generic [ref=e603]:
+                    - generic [ref=e604]:
+                      - generic [ref=e605]:
+                        - generic [ref=e606]:
+                          - img "Agentic Finance Studio (AFS)" [ref=e609]
+                          - generic [ref=e610]:
+                            - link "Agentic Finance Studio (AFS)" [ref=e611] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/OVpW1Xq39IWveQQn/products/Vw8X0QzNmFWlqPan
+                              - generic [ref=e612]: Agentic Finance Studio (AFS)
+                              - img [ref=e614]
+                            - generic [ref=e616]: Agentic Finance Studio Institutional Sentiment → Actionable Crypto Signals
+                            - list [ref=e618]:
+                              - listitem [ref=e619]: Market Infrastructure
+                              - listitem [ref=e620]: trading tools
+                            - link "GitHub" [ref=e622] [cursor=pointer]:
+                              - /url: https://github.com/fxscalpersignals/agentic-finance-studio
+                              - img [ref=e623]
+                              - generic [ref=e625]: GitHub
+                        - generic [ref=e626]:
+                          - generic [ref=e627]: Updates in this Wave
+                          - paragraph [ref=e629]:
+                            - text: "Agentic Finance Studio (AFS) Institutional Intelligence → Risk-Managed Crypto Signals This Wave 2 release transforms Agentic Finance Studio from a market-data viewer into an institutional intelligence platform that converts sentiment, sector rotation, ETF context, and price action into actionable crypto trading signals. SoSoValue Intelligence Layer - SoSoValue integrated as the primary institutional data source - CoinGecko and Binance added as intelligent fallback layers - Automatic failover architecture for improved reliability and uptime Advanced Signal Engine - ATR-based Take Profit and Stop Loss calculation - Intelligent pullback entry logic - Dynamic confidence scoring - RSI momentum analysis - EMA20/EMA50 trend confirmation - Automatic Risk:Reward ratio calculation - LONG / SHORT / NEUTRAL bias generation Institutional Intelligence Features - SSI (Sentiment Intelligence Score) integration - Sector Intelligence Map for AI, PayFi, RWA, and DeFi sectors - ETF Flow monitoring and market-bias detection - Whale Radar for identifying abnormal market movements - Unified framework combining sentiment, sector performance, ETF context, and technical confirmation Automation & Infrastructure - 24/7 autonomous market scanner - Real-time Telegram alert delivery - Async architecture with caching and rate limiting - Persistent paper-trading engine - Portfolio tracking across restarts - Mobile-first Telegram interface Response to Wave 1 Feedback Based on judge feedback, the platform now focuses on actionable intelligence rather than raw market data. New additions include confidence scoring, risk/reward analysis, pullback entries, ETF context, sector intelligence, sentiment integration, and automated signal delivery. Agentic Intelligence Layer Rather than requiring users to manually interpret multiple data sources, Agentic Finance Studio continuously processes SoSoValue sentiment, sector rotation, ETF context, whale activity, and technical indicators to generate structured trade plans with defined entries, take-profit targets, stop-loss levels, confidence scores, and risk-to-reward metrics. Current State Agentic Finance Studio combines: - SoSoValue sentiment intelligence - Sector rotation analysis - ETF flow awareness - Whale activity monitoring - Technical confirmation systems - Automated signal generation - Risk-managed trade planning - Real-time Telegram delivery Live Demo GitHub:"
+                            - link "https://github.com/fxscalpersignals/agentic-finance-studio" [ref=e630] [cursor=pointer]:
+                              - /url: https://github.com/fxscalpersignals/agentic-finance-studio
+                            - text: "Telegram Bot:"
+                            - link "https://t.me/AgenticFinanceBot" [ref=e631] [cursor=pointer]:
+                              - /url: https://t.me/AgenticFinanceBot
+                            - text: "YouTube Demo:"
+                            - link "https://www.youtube.com/watch?v=2WVZ96wgUTU" [ref=e632] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=2WVZ96wgUTU
+                        - button "Milestone" [ref=e634] [cursor=pointer]:
+                          - generic [ref=e635]: Milestone
+                          - img [ref=e637]
+                      - generic [ref=e639]:
+                        - generic [ref=e640]:
+                          - generic [ref=e641]:
+                            - generic [ref=e642]: 0points
+                            - button [ref=e643] [cursor=pointer]:
+                              - img [ref=e644]
+                          - generic [ref=e646]:
+                            - generic [ref=e647]: Previous Wave Points
+                            - list [ref=e648]:
+                              - listitem [ref=e649]:
+                                - generic [ref=e650]: 1st Wave
+                                - generic [ref=e651]: 2 pt
+                        - generic [ref=e656]:
+                          - generic [ref=e657]: Grant
+                          - generic [ref=e658]: 0 USDC
+                    - button "14" [ref=e659] [cursor=pointer]:
+                      - generic [ref=e660]:
+                        - img [ref=e661]
+                        - generic [ref=e663]: "14"
+                      - img [ref=e665]
+                  - generic [ref=e667]:
+                    - generic [ref=e668]:
+                      - generic [ref=e669]:
+                        - generic [ref=e670]:
+                          - img "IndexPilot" [ref=e673]
+                          - generic [ref=e674]:
+                            - link "IndexPilot" [ref=e675] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/GL9p0LBj3cOrv7zL/products/vjR10pPMWTZqM2vZB
+                              - generic [ref=e676]: IndexPilot
+                              - img [ref=e678]
+                            - generic [ref=e680]: Your personal on-chain index fund. Set weights, detect drift, rebalance with precision.
+                            - list [ref=e682]:
+                              - listitem [ref=e683]: Market Infrastructure
+                            - link "GitHub" [ref=e685] [cursor=pointer]:
+                              - /url: https://github.com/rudazy/IndexPilot
+                              - img [ref=e686]
+                              - generic [ref=e688]: GitHub
+                        - generic [ref=e689]:
+                          - generic [ref=e690]: Updates in this Wave
+                          - paragraph [ref=e692]:
+                            - text: "Wave 2 delivers all four declared goals plus additional polish. Real SoDEX execution: lib/sodex.ts now implements a full server-side spot client - quote, EIP-712 signing, batchNewOrder submission, and result handling. A real mainnet order (sell 0.0027 ETH → 5.59 USDC) was executed and filled to validate the signature pipeline end-to-end. Live URL:"
+                            - link "https://indexpilots.vercel.app" [ref=e693] [cursor=pointer]:
+                              - /url: https://indexpilots.vercel.app
+                            - text: "AI explanation layer: Every rebalance event now triggers a Claude Sonnet 4.6 briefing via /api/briefing. The response is structured JSON (headline, drift summary, trade rationale, risk note, confidence level) and streams progressively. The briefing explicitly describes cash deployment when USDC is present. Real onchain balance reads: useWalletBalances reads native ETH and ERC-20s (WBTC, WETH, WSOL, WBNB, WAVAX, USDC) via wagmi on Ethereum mainnet. On testnet, balances read from the SoDEX account B array directly. USDC is treated as deployable cash — counted in total value and spent by the rebalance plan. Testnet/Mainnet network switcher: Interactive toggle in the global header with localStorage persistence. Switching to mainnet requires a confirm modal. Defaults to testnet so judges can test freely without spending real funds. API visibility tray: Live log of every SoSoValue, Anthropic, and SoDEX call with timestamps, latency, and HTTP status. Judges can verify all data is real. README rewritten with architecture diagram, file structure, and Wave 2 checklist."
+                        - button "Milestone" [ref=e695] [cursor=pointer]:
+                          - generic [ref=e696]: Milestone
+                          - img [ref=e698]
+                      - generic [ref=e700]:
+                        - generic [ref=e701]:
+                          - generic [ref=e702]:
+                            - generic [ref=e703]: 0points
+                            - button [ref=e704] [cursor=pointer]:
+                              - img [ref=e705]
+                          - generic [ref=e707]:
+                            - generic [ref=e708]: Previous Wave Points
+                            - list [ref=e709]:
+                              - listitem [ref=e710]:
+                                - generic [ref=e711]: 1st Wave
+                                - generic [ref=e712]: 5 pt
+                        - generic [ref=e717]:
+                          - generic [ref=e718]: Grant
+                          - generic [ref=e719]: 0 USDC
+                    - button "10" [ref=e720] [cursor=pointer]:
+                      - generic [ref=e721]:
+                        - img [ref=e722]
+                        - generic [ref=e724]: "10"
+                      - img [ref=e726]
+                  - generic [ref=e728]:
+                    - generic [ref=e729]:
+                      - generic [ref=e730]:
+                        - generic [ref=e731]:
+                          - generic [ref=e732]:
+                            - img "sosomind" [ref=e734]
+                            - generic [ref=e735]: Hidden
+                          - generic [ref=e736]:
+                            - link "sosomind" [ref=e737] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/Z4ZAB4pRWuMaNRzo/products/nPMd7o12eiVA49L2
+                              - generic [ref=e738]: sosomind
+                              - img [ref=e740]
+                            - generic [ref=e742]: The Agentic Finance OS for Serious Crypto Traders
+                            - list [ref=e744]:
+                              - listitem [ref=e745]: Market Infrastructure
+                              - listitem [ref=e746]: DeFi
+                              - listitem [ref=e747]: AI / Data & Analytics
+                        - generic [ref=e748]:
+                          - generic [ref=e749]: Updates in this Wave
+                          - paragraph [ref=e751]: in progress
+                        - button "Milestone" [ref=e753] [cursor=pointer]:
+                          - generic [ref=e754]: Milestone
+                          - img [ref=e756]
+                      - generic [ref=e758]:
+                        - generic [ref=e759]:
+                          - generic [ref=e760]:
+                            - generic [ref=e761]: 0points
+                            - button [ref=e762] [cursor=pointer]:
+                              - img [ref=e763]
+                          - generic [ref=e765]:
+                            - generic [ref=e766]: Previous Wave Points
+                            - list [ref=e767]:
+                              - listitem [ref=e768]:
+                                - generic [ref=e769]: 1st Wave
+                                - generic [ref=e770]: 10 pt
+                        - generic [ref=e775]:
+                          - generic [ref=e776]: Grant
+                          - generic [ref=e777]: 0 USDC
+                    - button "13" [ref=e778] [cursor=pointer]:
+                      - generic [ref=e779]:
+                        - img [ref=e780]
+                        - generic [ref=e782]: "13"
+                      - img [ref=e784]
+                  - generic [ref=e786]:
+                    - generic [ref=e787]:
+                      - generic [ref=e788]:
+                        - generic [ref=e789]:
+                          - img "ShadowAlpha" [ref=e792]
+                          - generic [ref=e793]:
+                            - link "ShadowAlpha" [ref=e794] [cursor=pointer]:
+                              - /url: https://app.akindo.io/communities/0n4ROMZ2xs1jLd20/products/934W0Z9zxSxjmXpD
+                              - generic [ref=e795]: ShadowAlpha
+                              - img [ref=e797]
+                            - generic [ref=e799]: Autonomous execution infrastructure for onchain trading powered by AI agents
+                            - list [ref=e801]:
+                              - listitem [ref=e802]: Market Infrastructure
+                              - listitem [ref=e803]: AI agents
+                              - listitem [ref=e804]: trading tools
+                            - link "GitHub" [ref=e806] [cursor=pointer]:
+                              - /url: https://github.com/linnbenton/shadowalpha
+                              - img [ref=e807]
+                              - generic [ref=e809]: GitHub
+                        - generic [ref=e810]:
+                          - generic [ref=e811]: Updates in this Wave
+                          - paragraph [ref=e813]: "Wave 2 — AI Execution Intelligence ShadowAlpha evolved from a static trading interface into an adaptive AI-driven execution engine. This phase introduced: Real-time market ingestion from external intelligence APIs Dynamic AI signal generation (LONG / SHORT / NEUTRAL) Autonomous execution routing logic Risk evaluation engine with confidence scoring Interactive BUY / SELL execution controls Live market overview for BTC, ETH, and SOL Institutional-style execution terminal and portfolio monitoring Solana devnet transaction execution integration The platform now behaves like a lightweight autonomous quant trading system rather than a visual dashboard."
+                        - button "Milestone" [ref=e815] [cursor=pointer]:
+                          - generic [ref=e816]: Milestone
+                          - img [ref=e818]
+                      - generic [ref=e820]:
+                        - generic [ref=e821]:
+                          - generic [ref=e822]:
+                            - generic [ref=e823]: 0points
+                            - button [ref=e824] [cursor=pointer]:
+                              - img [ref=e825]
+                          - generic [ref=e827]:
+                            - generic [ref=e828]: Previous Wave Points
+                            - list [ref=e829]:
+                              - listitem [ref=e830]:
+                                - generic [ref=e831]: 1st Wave
+                                - generic [ref=e832]: 0 pt
+                        - generic [ref=e837]:
+                          - generic [ref=e838]: Grant
+                          - generic [ref=e839]: 0 USDC
+                    - button "8" [ref=e840] [cursor=pointer]:
+                      - generic [ref=e841]:
+                        - img [ref=e842]
+                        - generic [ref=e844]: "8"
+                      - img [ref=e846]
+                - generic [ref=e848]:
+                  - button "Previous" [disabled]
+                  - generic [ref=e849]: 1 / 6
+                  - button "Next" [ref=e850] [cursor=pointer]
+                - generic [ref=e852]:
+                  - img [ref=e854]
+                  - generic [ref=e856]: Protocol fee is 10.0% of distribution.
+              - generic [ref=e857]:
+                - button "Submit" [ref=e858] [cursor=pointer]
+                - generic [ref=e859]:
+                  - generic [ref=e860]:
+                    - heading "Grant" [level=3] [ref=e861]
+                    - list [ref=e862]:
+                      - listitem [ref=e863]:
+                        - heading "Total" [level=4] [ref=e864]
+                        - generic [ref=e865]: 10,000 USDC
+                      - listitem [ref=e866]:
+                        - heading "Pool" [level=4] [ref=e867]
+                        - generic [ref=e868]: 7,000 USDC
+                      - listitem [ref=e869]:
+                        - heading "Distribution Network" [level=4] [ref=e870]
+                        - generic [ref=e871]: Ethereum
+                  - generic [ref=e872]:
+                    - heading "Build with" [level=3] [ref=e873]
+                    - generic [ref=e874]:
+                      - generic [ref=e875]:
+                        - img "SoSoValue" [ref=e876]
+                        - text: SoSoValue
+                      - generic [ref=e877]: SoDEX
+                      - generic [ref=e878]: ValueChain
+                      - generic [ref=e879]: AI
+                  - generic [ref=e880]:
+                    - heading "Judging Criteria" [level=3] [ref=e881]
+                    - list [ref=e882]:
+                      - listitem [ref=e883]: User Value & Practical Impact
+                      - listitem [ref=e884]: Functionality & Working Demo
+                      - listitem [ref=e885]: Logic, Workflow & Product Design
+                      - listitem [ref=e886]: Data / API Integration
+                      - listitem [ref=e887]: UX & Clarity
+                  - generic [ref=e888]:
+                    - heading "Category" [level=3] [ref=e889]
+                    - generic [ref=e890]: Tools
+                  - generic [ref=e891]:
+                    - heading "Tags" [level=3] [ref=e892]
+                    - list [ref=e894]:
+                      - listitem [ref=e895]: "#SoSoValue"
+                      - listitem [ref=e896]: "#SoDEX"
+                      - listitem [ref=e897]: "#ValueChain"
+                      - listitem [ref=e898]: "#Agentic"
+                      - listitem [ref=e899]: "#One-Person"
+                      - listitem [ref=e900]: "#On-Chain Finance"
+                      - listitem [ref=e901]: "#AI x Web3"
+                  - generic [ref=e902]:
+                    - heading "Github repo" [level=3] [ref=e903]
+                    - link "https://github.com/SoSoValueLabs/ssi-protocol" [ref=e904] [cursor=pointer]:
+                      - /url: https://github.com/SoSoValueLabs/ssi-protocol
+                  - generic [ref=e905]:
+                    - heading "Community" [level=3] [ref=e906]
+                    - link "https://discord.gg/HQuGhhkhUW" [ref=e908] [cursor=pointer]:
+                      - /url: https://discord.gg/HQuGhhkhUW
+      - contentinfo [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e30]:
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - img [ref=e33]
+                - link "BOOK A STRATEGY CALL" [ref=e43] [cursor=pointer]:
+                  - /url: https://calendly.com/shinkinjo/30min
+              - generic [ref=e44]:
+                - list [ref=e45]:
+                  - listitem [ref=e46]:
+                    - link "Contact us" [ref=e47] [cursor=pointer]:
+                      - /url: https://app.deform.cc/form/d4def915-fae8-46a9-b66f-3bf623ff2a98/?page_number=0
+                  - listitem [ref=e48]:
+                    - link "Buildathons" [ref=e49] [cursor=pointer]:
+                      - /url: https://app.akindo.io/wave-hacks
+                  - listitem [ref=e50]:
+                    - link "Products" [ref=e51] [cursor=pointer]:
+                      - /url: https://app.akindo.io/products
+                  - listitem [ref=e52]:
+                    - link "The Builder Activation" [ref=e53] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@akindo_io
+                - list [ref=e54]:
+                  - listitem [ref=e55]:
+                    - link "About us" [ref=e56] [cursor=pointer]:
+                      - /url: https://akindo.io
+                  - listitem [ref=e57]:
+                    - link "Brand Assets" [ref=e58] [cursor=pointer]:
+                      - /url: https://drive.google.com/drive/folders/14xy6WPsUUSkoqn6nULor0WFrLjizscrs?usp=sharing
+                  - listitem [ref=e59]:
+                    - link "Terms" [ref=e60] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/Terms-4d86eec7d87c424e987ddb0dbc53af29
+                  - listitem [ref=e61]:
+                    - link "Privacy Policy" [ref=e62] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/PrivacyPolicy-db4b7aad0fe74d95a580665bb6d374a0
+            - generic [ref=e63]:
+              - list [ref=e64]:
+                - listitem [ref=e65]:
+                  - link [ref=e66] [cursor=pointer]:
+                    - /url: https://twitter.com/akindo_io
+                    - img [ref=e67]
+                - listitem [ref=e69]:
+                  - link [ref=e70] [cursor=pointer]:
+                    - /url: https://discord.gg/xAHPkSM9t7
+                    - img [ref=e71]
+                - listitem [ref=e73]:
+                  - link [ref=e74] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@akindo_io
+                    - img [ref=e75]
+                - listitem [ref=e77]:
+                  - link [ref=e78] [cursor=pointer]:
+                    - /url: https://t.me/akindo_io
+                    - img [ref=e79]
+                - listitem [ref=e81]:
+                  - link "Luma" [ref=e82] [cursor=pointer]:
+                    - /url: https://lu.ma/user/akindo
+                    - img "Luma" [ref=e84]
+                - listitem [ref=e85]:
+                  - link "Substack" [ref=e86] [cursor=pointer]:
+                    - /url: https://akindo.substack.com/
+                    - img "Substack" [ref=e88]
+              - generic [ref=e89]: ©AKINDO
+          - img "Build a Killer App" [ref=e91]
+    - region "Notifications Alt+T"
+  - alert [ref=e92]: AKINDO
+  - generic:
+    - alertdialog
+  - generic:
+    - alertdialog

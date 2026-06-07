@@ -1,0 +1,145 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e3]:
+        - generic [ref=e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic:
+        - generic:
+          - button "Grok" [ref=e6] [cursor=pointer]:
+            - img [ref=e7]
+          - button "Chat" [ref=e10] [cursor=pointer]:
+            - img [ref=e11]
+      - generic [ref=e14]:
+        - button "Skip to home timeline" [ref=e15] [cursor=pointer]
+        - button "Skip to trending" [ref=e17] [cursor=pointer]
+        - banner [ref=e19]:
+          - generic [ref=e21]:
+            - generic [ref=e22]:
+              - heading "X" [level=1] [ref=e24] [cursor=pointer]:
+                - link "X" [ref=e25]:
+                  - /url: /home
+                  - img [ref=e27]
+              - navigation "Primary" [ref=e31]:
+                - link "Home" [ref=e32] [cursor=pointer]:
+                  - /url: /home
+                  - generic [ref=e33]:
+                    - img [ref=e35]
+                    - generic [ref=e38]: Home
+                - link "Search and explore" [ref=e39] [cursor=pointer]:
+                  - /url: /explore
+                  - generic [ref=e40]:
+                    - img [ref=e42]
+                    - generic [ref=e45]: Explore
+                - link "Notifications (2 unread notifications)" [ref=e46] [cursor=pointer]:
+                  - /url: /notifications
+                  - generic [ref=e47]:
+                    - generic [ref=e48]:
+                      - img [ref=e49]
+                      - generic "2 unread items" [ref=e52]:
+                        - generic [ref=e53]: "2"
+                    - generic [ref=e54]: Notifications
+                - link "Direct Messages" [ref=e55] [cursor=pointer]:
+                  - /url: /i/chat
+                  - generic [ref=e56]:
+                    - img [ref=e58]
+                    - generic [ref=e61]: Chat
+                - link "Grok" [ref=e62] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic [ref=e63]:
+                    - img [ref=e65]
+                    - generic [ref=e68]: Grok
+                - link "Premium" [ref=e69] [cursor=pointer]:
+                  - /url: /i/premium
+                  - generic [ref=e70]:
+                    - img [ref=e72]
+                    - generic [ref=e75]: Premium
+                - link "Bookmarks" [ref=e76] [cursor=pointer]:
+                  - /url: /i/bookmarks
+                  - generic [ref=e77]:
+                    - img [ref=e79]
+                    - generic [ref=e82]: Bookmarks
+                - link "Articles" [ref=e83] [cursor=pointer]:
+                  - /url: /compose/articles
+                  - generic [ref=e84]:
+                    - img [ref=e86]
+                    - generic [ref=e91]: Articles
+                - link "Profile" [ref=e92] [cursor=pointer]:
+                  - /url: /anxbrt
+                  - generic [ref=e93]:
+                    - img [ref=e95]
+                    - generic [ref=e98]: Profile
+                - button "More menu items" [ref=e99] [cursor=pointer]:
+                  - generic [ref=e100]:
+                    - img [ref=e102]
+                    - generic [ref=e105]: More
+              - link "Post" [ref=e107] [cursor=pointer]:
+                - /url: /compose/post
+                - generic [ref=e113]: Post
+            - button "Account menu" [ref=e116] [cursor=pointer]:
+              - generic [ref=e124]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "Rishav":
+                        - img "Rishav"
+              - generic [ref=e128]:
+                - generic [ref=e130]:
+                  - generic [ref=e132]: Rishav
+                  - img "Verified account" [ref=e135]
+                - generic [ref=e141]: "@anxbrt"
+              - img [ref=e143]
+        - main [ref=e146]:
+          - generic [ref=e149]:
+            - generic "Home timeline" [ref=e151]:
+              - generic [ref=e152]:
+                - generic [ref=e158] [cursor=pointer]:
+                  - button "Back" [ref=e160]:
+                    - img [ref=e162]
+                  - heading "Profile" [level=2] [ref=e167]
+                - generic:
+                  - generic:
+                    - status:
+                      - button:
+                        - generic:
+                          - img
+                          - generic: See new posts
+              - progressbar "Loading posts by @EmmanuelOg75160" [ref=e170]:
+                - img [ref=e172]
+            - generic "Trending" [ref=e179]:
+              - generic [ref=e180]:
+                - search "Search" [ref=e185]:
+                  - generic [ref=e190]:
+                    - img [ref=e192]
+                    - combobox "Search query" [ref=e197]
+                - progressbar "Loading timeline" [ref=e201]:
+                  - img [ref=e203]
+                - progressbar "Loading recommendations for users to follow" [ref=e209]:
+                  - img [ref=e211]
+                - navigation "Footer" [ref=e215]:
+                  - generic [ref=e216]:
+                    - link "Terms of Service" [ref=e217] [cursor=pointer]:
+                      - /url: https://x.com/tos
+                    - generic [ref=e218]: "|"
+                  - generic [ref=e219]:
+                    - link "Privacy Policy" [ref=e220] [cursor=pointer]:
+                      - /url: https://x.com/privacy
+                    - generic [ref=e221]: "|"
+                  - generic [ref=e222]:
+                    - link "Cookie Policy" [ref=e223] [cursor=pointer]:
+                      - /url: https://support.x.com/articles/20170514
+                    - generic [ref=e224]: "|"
+                  - generic [ref=e225]:
+                    - link "Accessibility" [ref=e226] [cursor=pointer]:
+                      - /url: https://help.x.com/resources/accessibility
+                    - generic [ref=e227]: "|"
+                  - generic [ref=e228]:
+                    - link "Ads info" [ref=e229] [cursor=pointer]:
+                      - /url: https://business.x.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+                    - generic [ref=e230]: "|"
+                  - button "More" [ref=e231] [cursor=pointer]:
+                    - generic [ref=e232]:
+                      - text: More
+                      - img [ref=e233]
+                  - generic [ref=e236]: © 2026 X Corp.

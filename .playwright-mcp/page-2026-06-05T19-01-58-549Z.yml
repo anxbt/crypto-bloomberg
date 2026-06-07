@@ -1,0 +1,669 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: https://app.akindo.io/
+            - img [ref=e9]
+          - generic [ref=e18]:
+            - link "Buildathons" [ref=e20] [cursor=pointer]:
+              - /url: https://app.akindo.io/wave-hacks
+            - link "Hackathons" [ref=e22] [cursor=pointer]:
+              - /url: https://app.akindo.io/hackathons
+            - link "Products" [ref=e24] [cursor=pointer]:
+              - /url: https://app.akindo.io/products
+            - button "Showcase Product" [ref=e26] [cursor=pointer]
+            - button "anxbrt" [ref=e28] [cursor=pointer]:
+              - img "anxbrt" [ref=e29]
+        - link "Build Your One-Person On-Chain Finance Business with SoSoValue 1Days 13:58 Left to Submit" [ref=e31] [cursor=pointer]:
+          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+          - generic [ref=e32]: Build Your One-Person On-Chain Finance Business with SoSoValue
+          - generic [ref=e33]:
+            - text: 1Days 13:58
+            - generic [ref=e34]: Left to Submit
+      - main [ref=e36]:
+        - generic [ref=e37]:
+          - heading "Buildathons" [level=1] [ref=e39]
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - generic [ref=e43]:
+                  - generic [ref=e44]: Total
+                  - generic [ref=e45]:
+                    - generic [ref=e46]: "70"
+                    - generic [ref=e47]: Buildathons
+                - generic [ref=e48]:
+                  - generic [ref=e50]: Partner Investors
+                  - paragraph [ref=e51]: Top-performing teams in each Buildathon unlock fundraising opportunities with our partner VCs.
+                  - generic [ref=e53]:
+                    - generic [ref=e54]:
+                      - img "Spartan" [ref=e56]
+                      - generic [ref=e57]:
+                        - link "https://www.spartangroup.io/" [ref=e58] [cursor=pointer]:
+                          - /url: https://www.spartangroup.io/
+                          - img [ref=e59]
+                          - generic [ref=e62]: https://www.spartangroup.io/
+                        - link "https://x.com/TheSpartanGroup" [ref=e63] [cursor=pointer]:
+                          - /url: https://x.com/TheSpartanGroup
+                          - img [ref=e64]
+                          - generic [ref=e66]: https://x.com/TheSpartanGroup
+                    - generic [ref=e67]:
+                      - img "Multicoin Capital" [ref=e69]
+                      - generic [ref=e70]:
+                        - link "https://multicoin.capital/" [ref=e71] [cursor=pointer]:
+                          - /url: https://multicoin.capital/
+                          - img [ref=e72]
+                          - generic [ref=e75]: https://multicoin.capital/
+                        - link "https://x.com/multicoin" [ref=e76] [cursor=pointer]:
+                          - /url: https://x.com/multicoin
+                          - img [ref=e77]
+                          - generic [ref=e79]: https://x.com/multicoin
+                    - generic [ref=e80]:
+                      - img "Animoca" [ref=e82]
+                      - generic [ref=e83]:
+                        - link "https://www.animocabrands.com/" [ref=e84] [cursor=pointer]:
+                          - /url: https://www.animocabrands.com/
+                          - img [ref=e85]
+                          - generic [ref=e88]: https://www.animocabrands.com/
+                        - link "https://x.com/animocabrands" [ref=e89] [cursor=pointer]:
+                          - /url: https://x.com/animocabrands
+                          - img [ref=e90]
+                          - generic [ref=e92]: https://x.com/animocabrands
+                    - generic [ref=e93]:
+                      - img "IVC" [ref=e95]
+                      - generic [ref=e96]:
+                        - link "https://www.ivcrypto.io/" [ref=e97] [cursor=pointer]:
+                          - /url: https://www.ivcrypto.io/
+                          - img [ref=e98]
+                          - generic [ref=e101]: https://www.ivcrypto.io/
+                        - link "https://x.com/ivcryptofund" [ref=e102] [cursor=pointer]:
+                          - /url: https://x.com/ivcryptofund
+                          - img [ref=e103]
+                          - generic [ref=e105]: https://x.com/ivcryptofund
+                    - generic [ref=e106]:
+                      - img "1kx" [ref=e108]
+                      - generic [ref=e109]:
+                        - link "https://1kx.network/" [ref=e110] [cursor=pointer]:
+                          - /url: https://1kx.network/
+                          - img [ref=e111]
+                          - generic [ref=e114]: https://1kx.network/
+                        - link "https://x.com/1kxnetwork" [ref=e115] [cursor=pointer]:
+                          - /url: https://x.com/1kxnetwork
+                          - img [ref=e116]
+                          - generic [ref=e118]: https://x.com/1kxnetwork
+                    - generic [ref=e119]:
+                      - img "DWF Ventures" [ref=e121]
+                      - generic [ref=e122]:
+                        - link "https://www.dwf-labs.com/ventures" [ref=e123] [cursor=pointer]:
+                          - /url: https://www.dwf-labs.com/ventures
+                          - img [ref=e124]
+                          - generic [ref=e127]: https://www.dwf-labs.com/ventures
+                        - link "https://x.com/DWFVentures" [ref=e128] [cursor=pointer]:
+                          - /url: https://x.com/DWFVentures
+                          - img [ref=e129]
+                          - generic [ref=e131]: https://x.com/DWFVentures
+                    - generic [ref=e132]:
+                      - img "Big Brain Holdings" [ref=e134]
+                      - generic [ref=e135]:
+                        - link "https://www.bigbrain.holdings/" [ref=e136] [cursor=pointer]:
+                          - /url: https://www.bigbrain.holdings/
+                          - img [ref=e137]
+                          - generic [ref=e140]: https://www.bigbrain.holdings/
+                        - link "https://x.com/BigBrainVC" [ref=e141] [cursor=pointer]:
+                          - /url: https://x.com/BigBrainVC
+                          - img [ref=e142]
+                          - generic [ref=e144]: https://x.com/BigBrainVC
+                    - generic [ref=e145]:
+                      - img "IOSG" [ref=e147]
+                      - generic [ref=e148]:
+                        - link "https://iosg.vc/" [ref=e149] [cursor=pointer]:
+                          - /url: https://iosg.vc/
+                          - img [ref=e150]
+                          - generic [ref=e153]: https://iosg.vc/
+                        - link "https://x.com/IOSGVC" [ref=e154] [cursor=pointer]:
+                          - /url: https://x.com/IOSGVC
+                          - img [ref=e155]
+                          - generic [ref=e157]: https://x.com/IOSGVC
+                    - generic [ref=e158]:
+                      - img "SNZ" [ref=e160]
+                      - generic [ref=e161]:
+                        - link "https://snzholding.com/" [ref=e162] [cursor=pointer]:
+                          - /url: https://snzholding.com/
+                          - img [ref=e163]
+                          - generic [ref=e166]: https://snzholding.com/
+                        - link "https://x.com/snzholding" [ref=e167] [cursor=pointer]:
+                          - /url: https://x.com/snzholding
+                          - img [ref=e168]
+                          - generic [ref=e170]: https://x.com/snzholding
+                    - generic [ref=e171]:
+                      - img "DFG" [ref=e173]
+                      - generic [ref=e174]:
+                        - link "https://www.dfg.group/" [ref=e175] [cursor=pointer]:
+                          - /url: https://www.dfg.group/
+                          - img [ref=e176]
+                          - generic [ref=e179]: https://www.dfg.group/
+                        - link "https://x.com/DFG__Official" [ref=e180] [cursor=pointer]:
+                          - /url: https://x.com/DFG__Official
+                          - img [ref=e181]
+                          - generic [ref=e183]: https://x.com/DFG__Official
+                    - generic [ref=e184]:
+                      - img "KOSMOS Ventures" [ref=e186]
+                      - generic [ref=e187]:
+                        - link "https://www.kosmos.vc/" [ref=e188] [cursor=pointer]:
+                          - /url: https://www.kosmos.vc/
+                          - img [ref=e189]
+                          - generic [ref=e192]: https://www.kosmos.vc/
+                        - link "https://x.com/KosmosVC" [ref=e193] [cursor=pointer]:
+                          - /url: https://x.com/KosmosVC
+                          - img [ref=e194]
+                          - generic [ref=e196]: https://x.com/KosmosVC
+                    - generic [ref=e197]:
+                      - img "Foresight Ventures" [ref=e199]
+                      - generic [ref=e200]:
+                        - link "https://www.foresightventures.com/" [ref=e201] [cursor=pointer]:
+                          - /url: https://www.foresightventures.com/
+                          - img [ref=e202]
+                          - generic [ref=e205]: https://www.foresightventures.com/
+                        - link "https://x.com/ForesightVen" [ref=e206] [cursor=pointer]:
+                          - /url: https://x.com/ForesightVen
+                          - img [ref=e207]
+                          - generic [ref=e209]: https://x.com/ForesightVen
+                    - generic [ref=e210]:
+                      - img "Taisu" [ref=e212]
+                      - generic [ref=e213]:
+                        - link "https://www.taisu.io/" [ref=e214] [cursor=pointer]:
+                          - /url: https://www.taisu.io/
+                          - img [ref=e215]
+                          - generic [ref=e218]: https://www.taisu.io/
+                        - link "https://x.com/Taisu_Ventures" [ref=e219] [cursor=pointer]:
+                          - /url: https://x.com/Taisu_Ventures
+                          - img [ref=e220]
+                          - generic [ref=e222]: https://x.com/Taisu_Ventures
+                    - generic [ref=e223]:
+                      - img "Jsquare" [ref=e225]
+                      - generic [ref=e226]:
+                        - link "https://www.jsquare.co/" [ref=e227] [cursor=pointer]:
+                          - /url: https://www.jsquare.co/
+                          - img [ref=e228]
+                          - generic [ref=e231]: https://www.jsquare.co/
+                        - link "https://x.com/JSquare_co" [ref=e232] [cursor=pointer]:
+                          - /url: https://x.com/JSquare_co
+                          - img [ref=e233]
+                          - generic [ref=e235]: https://x.com/JSquare_co
+                    - generic [ref=e236]:
+                      - img "C2 Ventures" [ref=e238]
+                      - generic [ref=e239]:
+                        - link "https://www.csquared.vc/" [ref=e240] [cursor=pointer]:
+                          - /url: https://www.csquared.vc/
+                          - img [ref=e241]
+                          - generic [ref=e244]: https://www.csquared.vc/
+                        - link "https://x.com/CsquaredVC" [ref=e245] [cursor=pointer]:
+                          - /url: https://x.com/CsquaredVC
+                          - img [ref=e246]
+                          - generic [ref=e248]: https://x.com/CsquaredVC
+                    - generic [ref=e249]:
+                      - img "Verda Ventures" [ref=e251]
+                      - generic [ref=e252]:
+                        - link "https://verda.ventures/" [ref=e253] [cursor=pointer]:
+                          - /url: https://verda.ventures/
+                          - img [ref=e254]
+                          - generic [ref=e257]: https://verda.ventures/
+                        - link "https://x.com/verdaventures" [ref=e258] [cursor=pointer]:
+                          - /url: https://x.com/verdaventures
+                          - img [ref=e259]
+                          - generic [ref=e261]: https://x.com/verdaventures
+                    - generic [ref=e262]:
+                      - img "Coinmarketcap" [ref=e264]
+                      - generic [ref=e265]:
+                        - link "https://coinmarketcap.com/events/cmc-labs/" [ref=e266] [cursor=pointer]:
+                          - /url: https://coinmarketcap.com/events/cmc-labs/
+                          - img [ref=e267]
+                          - generic [ref=e270]: https://coinmarketcap.com/events/cmc-labs/
+                        - link "https://x.com/CoinMarketCap" [ref=e271] [cursor=pointer]:
+                          - /url: https://x.com/CoinMarketCap
+                          - img [ref=e272]
+                          - generic [ref=e274]: https://x.com/CoinMarketCap
+              - link "Akindo YouTube" [ref=e275] [cursor=pointer]:
+                - /url: https://dub.sh/BNvxSyU
+                - img "Akindo YouTube" [ref=e276]
+            - generic [ref=e277]:
+              - generic [ref=e278]:
+                - 'link "SoSoValue Build Your One-Person On-Chain Finance Business with SoSoValue Powered by SoSoValue''s data,news feeds,index tools,trading APIs,and high-performance L1 ValueChain SoSoValue SoSoValue #SoSoValue #SoDEX #ValueChain #Agentic #One-Person #On-Chain Finance #AI x Web3 2nd Wave 3,000 USDC Building 1d 13h left Grant total 10,000 USDC JOIN Euphoria hubel Anselem636577 796 Builders" [ref=e280] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+                  - generic [ref=e281]:
+                    - generic [ref=e282]:
+                      - img "SoSoValue" [ref=e284]
+                      - generic [ref=e285]:
+                        - generic [ref=e286]: Build Your One-Person On-Chain Finance Business with SoSoValue
+                        - generic [ref=e287]: Powered by SoSoValue's data,news feeds,index tools,trading APIs,and high-performance L1 ValueChain
+                        - generic [ref=e288]:
+                          - generic [ref=e290]:
+                            - img "SoSoValue" [ref=e291]
+                            - generic [ref=e292]: SoSoValue
+                          - list [ref=e294]:
+                            - listitem [ref=e295]: "#SoSoValue"
+                            - listitem [ref=e296]: "#SoDEX"
+                            - listitem [ref=e297]: "#ValueChain"
+                            - listitem [ref=e298]: "#Agentic"
+                            - listitem [ref=e299]: "#One-Person"
+                            - listitem [ref=e300]: "#On-Chain Finance"
+                            - listitem [ref=e301]: "#AI x Web3"
+                    - generic [ref=e302]:
+                      - generic [ref=e305]: 2nd Wave
+                      - generic [ref=e306]:
+                        - generic [ref=e308]: 3,000 USDC
+                        - generic [ref=e309]:
+                          - img [ref=e311]
+                          - generic [ref=e313]: Building
+                        - generic [ref=e318]: 1d 13h left
+                  - generic [ref=e320]:
+                    - generic [ref=e321]:
+                      - generic [ref=e322]: Grant total
+                      - generic [ref=e324]:
+                        - generic [ref=e325]: 10,000
+                        - generic [ref=e326]: USDC
+                    - button "JOIN" [ref=e328]:
+                      - text: JOIN
+                      - img [ref=e329]
+                    - generic [ref=e333]:
+                      - generic [ref=e334]:
+                        - img "Euphoria" [ref=e336]
+                        - img "hubel" [ref=e338]
+                        - img "Anselem636577" [ref=e340]
+                      - generic [ref=e341]:
+                        - generic [ref=e342]: "796"
+                        - generic [ref=e343]: Builders
+                - 'link "Fhenix Private By Design dApp Buildathon Build the Future of Confidential Compute on any EVM Fhenix Fhenix #Solidity #EVM #privacy #Arbitrum #Base 5th Wave 5,000 USDC Judging 13 hours left Grant total 50,000 USDC JOIN XX99_98 Zeeast Shivam17 518 Builders" [ref=e345] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/Nm2qjzEBgCqJD90W
+                  - generic [ref=e346]:
+                    - generic [ref=e347]:
+                      - img "Fhenix" [ref=e349]
+                      - generic [ref=e350]:
+                        - generic [ref=e351]: Private By Design dApp Buildathon
+                        - generic [ref=e352]: Build the Future of Confidential Compute on any EVM
+                        - generic [ref=e353]:
+                          - generic [ref=e355]:
+                            - img "Fhenix" [ref=e356]
+                            - generic [ref=e357]: Fhenix
+                          - list [ref=e359]:
+                            - listitem [ref=e360]: "#Solidity"
+                            - listitem [ref=e361]: "#EVM"
+                            - listitem [ref=e362]: "#privacy"
+                            - listitem [ref=e363]: "#Arbitrum"
+                            - listitem [ref=e364]: "#Base"
+                    - generic [ref=e365]:
+                      - generic [ref=e368]: 5th Wave
+                      - generic [ref=e369]:
+                        - generic [ref=e371]: 5,000 USDC
+                        - generic [ref=e372]:
+                          - img [ref=e374]
+                          - generic [ref=e376]: Judging
+                        - generic [ref=e381]: 13 hours left
+                  - generic [ref=e383]:
+                    - generic [ref=e384]:
+                      - generic [ref=e385]: Grant total
+                      - generic [ref=e387]:
+                        - generic [ref=e388]: 50,000
+                        - generic [ref=e389]: USDC
+                    - button "JOIN" [ref=e391]:
+                      - text: JOIN
+                      - img [ref=e392]
+                    - generic [ref=e396]:
+                      - generic [ref=e397]:
+                        - img "XX99_98" [ref=e399]
+                        - img "Zeeast" [ref=e401]
+                        - img "Shivam17" [ref=e403]
+                      - generic [ref=e404]:
+                        - generic [ref=e405]: "518"
+                        - generic [ref=e406]: Builders
+                - 'link "IoTeX Crypto''s Got Talent Season 2 The original shark tank for crypto IoTeX IoTeX #Blockchain #DePIN #0G #RWA 1st Wave 500,000 USDC Judging 24d 7h left Grant total 500,000 USDC JOIN XX99_98 J145k Arthur_sodex 300 Builders" [ref=e408] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/eae4X6p1MS46aBzA
+                  - generic [ref=e409]:
+                    - generic [ref=e410]:
+                      - img "IoTeX" [ref=e412]
+                      - generic [ref=e413]:
+                        - generic [ref=e414]: Crypto's Got Talent Season 2
+                        - generic [ref=e415]: The original shark tank for crypto
+                        - generic [ref=e416]:
+                          - generic [ref=e418]:
+                            - img "IoTeX" [ref=e419]
+                            - generic [ref=e420]: IoTeX
+                          - list [ref=e422]:
+                            - listitem [ref=e423]: "#Blockchain"
+                            - listitem [ref=e424]: "#DePIN"
+                            - listitem [ref=e425]: "#0G"
+                            - listitem [ref=e426]: "#RWA"
+                    - generic [ref=e427]:
+                      - generic [ref=e430]: 1st Wave
+                      - generic [ref=e431]:
+                        - generic [ref=e433]: 500,000 USDC
+                        - generic [ref=e434]:
+                          - img [ref=e436]
+                          - generic [ref=e438]: Judging
+                        - generic [ref=e443]: 24d 7h left
+                  - generic [ref=e445]:
+                    - generic [ref=e446]:
+                      - generic [ref=e447]: Grant total
+                      - generic [ref=e449]:
+                        - generic [ref=e450]: 500,000
+                        - generic [ref=e451]: USDC
+                    - button "JOIN" [ref=e453]:
+                      - text: JOIN
+                      - img [ref=e454]
+                    - generic [ref=e458]:
+                      - generic [ref=e459]:
+                        - img "XX99_98" [ref=e461]
+                        - img "J145k" [ref=e463]
+                        - img "Arthur_sodex" [ref=e465]
+                      - generic [ref=e466]:
+                        - generic [ref=e467]: "300"
+                        - generic [ref=e468]: Builders
+                - 'link "Clawathon Tokyo Clawathon Tokyo Edition Hackathon to build agentic workflows that complete tasks without human intervention. Clawathon Tokyo Clawathon Tokyo #Blockchain #OpenClaw #AI Agent #World #NEAR #XRPL Grant total 300,000 jpy Pending Mekzed Shivang stw123 46 Builders" [ref=e470] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/eaKEp9dxBH8JwEErg
+                  - generic [ref=e472]:
+                    - img "Clawathon Tokyo" [ref=e474]
+                    - generic [ref=e475]:
+                      - generic [ref=e476]: Clawathon Tokyo Edition
+                      - generic [ref=e477]: Hackathon to build agentic workflows that complete tasks without human intervention.
+                      - generic [ref=e478]:
+                        - generic [ref=e480]:
+                          - img "Clawathon Tokyo" [ref=e481]
+                          - generic [ref=e482]: Clawathon Tokyo
+                        - list [ref=e484]:
+                          - listitem [ref=e485]: "#Blockchain"
+                          - listitem [ref=e486]: "#OpenClaw"
+                          - listitem [ref=e487]: "#AI Agent"
+                          - listitem [ref=e488]: "#World"
+                          - listitem [ref=e489]: "#NEAR"
+                          - listitem [ref=e490]: "#XRPL"
+                  - generic [ref=e492]:
+                    - generic [ref=e493]:
+                      - generic [ref=e494]: Grant total
+                      - generic [ref=e496]: 300,000 jpy
+                    - generic [ref=e499]:
+                      - img [ref=e501]
+                      - generic [ref=e503]: Pending
+                    - generic [ref=e505]:
+                      - generic [ref=e506]:
+                        - img "Mekzed" [ref=e508]
+                        - img "Shivang" [ref=e510]
+                        - img "stw123" [ref=e512]
+                      - generic [ref=e513]:
+                        - generic [ref=e514]: "46"
+                        - generic [ref=e515]: Builders
+                - 'link "Consensus [Consensus Miami 2026] CoinDesk PitchFest & PitchFest Side Quest: Agentic Commerce Pitch live in Miami. Get discovered by the world’s leading VCs. Consensus Consensus #AI Agent #AI #Blockchain Grant total Consensus Pending khabib07 akanimoh Gentle 11 Builders" [ref=e517] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/d86mWdxDQU2QV7d3
+                  - generic [ref=e519]:
+                    - img "Consensus" [ref=e521]
+                    - generic [ref=e522]:
+                      - generic [ref=e523]: "[Consensus Miami 2026] CoinDesk PitchFest & PitchFest Side Quest: Agentic Commerce"
+                      - generic [ref=e524]: Pitch live in Miami. Get discovered by the world’s leading VCs.
+                      - generic [ref=e525]:
+                        - generic [ref=e527]:
+                          - img "Consensus" [ref=e528]
+                          - generic [ref=e529]: Consensus
+                        - list [ref=e531]:
+                          - listitem [ref=e532]: "#AI Agent"
+                          - listitem [ref=e533]: "#AI"
+                          - listitem [ref=e534]: "#Blockchain"
+                  - generic [ref=e536]:
+                    - generic [ref=e537]:
+                      - generic [ref=e538]: Grant total
+                      - generic [ref=e540]: Consensus
+                    - generic [ref=e543]:
+                      - img [ref=e545]
+                      - generic [ref=e547]: Pending
+                    - generic [ref=e549]:
+                      - generic [ref=e550]:
+                        - img "khabib07" [ref=e552]
+                        - img "akanimoh" [ref=e554]
+                        - img "Gentle" [ref=e556]
+                      - generic [ref=e557]:
+                        - generic [ref=e558]: "11"
+                        - generic [ref=e559]: Builders
+                - 'link "Aleo Build a Privacy-focused Application on Aleo Trade without exposure. Vote without surveillance. Prove identity without documents. This is Aleo. Aleo Aleo #Aleo #Zero-knowledge #Smart Contracts #Blockchain #Stablecoins #DeFi #privacy Grant total 50,000 USDT Pending zax MoscleDev buildlabz 463 Builders" [ref=e561] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/gXdXJvJXxTJKBELvo
+                  - generic [ref=e563]:
+                    - img "Aleo" [ref=e565]
+                    - generic [ref=e566]:
+                      - generic [ref=e567]: Build a Privacy-focused Application on Aleo
+                      - generic [ref=e568]: Trade without exposure. Vote without surveillance. Prove identity without documents. This is Aleo.
+                      - generic [ref=e569]:
+                        - generic [ref=e571]:
+                          - img "Aleo" [ref=e572]
+                          - generic [ref=e573]: Aleo
+                        - list [ref=e575]:
+                          - listitem [ref=e576]: "#Aleo"
+                          - listitem [ref=e577]: "#Zero-knowledge"
+                          - listitem [ref=e578]: "#Smart Contracts"
+                          - listitem [ref=e579]: "#Blockchain"
+                          - listitem [ref=e580]: "#Stablecoins"
+                          - listitem [ref=e581]: "#DeFi"
+                          - listitem [ref=e582]: "#privacy"
+                  - generic [ref=e584]:
+                    - generic [ref=e585]:
+                      - generic [ref=e586]: Grant total
+                      - generic [ref=e588]:
+                        - generic [ref=e589]: 50,000
+                        - generic [ref=e590]: USDT
+                    - generic [ref=e593]:
+                      - img [ref=e595]
+                      - generic [ref=e597]: Pending
+                    - generic [ref=e599]:
+                      - generic [ref=e600]:
+                        - img "zax" [ref=e602]
+                        - img "MoscleDev" [ref=e604]
+                        - img "buildlabz" [ref=e606]
+                      - generic [ref=e607]:
+                        - generic [ref=e608]: "463"
+                        - generic [ref=e609]: Builders
+                - 'link "ClawCon Tokyo ClawCon Tokyo Demoday Showcase your product built with OpenClaw ClawCon Tokyo ClawCon Tokyo #OpenClaw #LLM #AI Agent Grant total ClawCon Tokyo Pending zax Usman80 Izi 16 Builders" [ref=e611] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/PvD9WedpPH4zGmex
+                  - generic [ref=e613]:
+                    - img "ClawCon Tokyo" [ref=e615]
+                    - generic [ref=e616]:
+                      - generic [ref=e617]: ClawCon Tokyo Demoday
+                      - generic [ref=e618]: Showcase your product built with OpenClaw
+                      - generic [ref=e619]:
+                        - generic [ref=e621]:
+                          - img "ClawCon Tokyo" [ref=e622]
+                          - generic [ref=e623]: ClawCon Tokyo
+                        - list [ref=e625]:
+                          - listitem [ref=e626]: "#OpenClaw"
+                          - listitem [ref=e627]: "#LLM"
+                          - listitem [ref=e628]: "#AI Agent"
+                  - generic [ref=e630]:
+                    - generic [ref=e631]:
+                      - generic [ref=e632]: Grant total
+                      - generic [ref=e634]: ClawCon Tokyo
+                    - generic [ref=e637]:
+                      - img [ref=e639]
+                      - generic [ref=e641]: Pending
+                    - generic [ref=e643]:
+                      - generic [ref=e644]:
+                        - img "zax" [ref=e646]
+                        - img "Usman80" [ref=e648]
+                        - img "Izi" [ref=e650]
+                      - generic [ref=e651]:
+                        - generic [ref=e652]: "16"
+                        - generic [ref=e653]: Builders
+                - 'link "Polygon Labs Polygon Buildathon: From Launch to Fundraising Build, Scale, and Fund Your Startup with Polygon. AI, DeFi, Infra – the future is here. Polygon Labs Polygon Labs #Polygon #AggLayer #KATANA #AI #DeFi #Infra Grant total 50,000 USDC Pending Acedeno88 chinmoy rony4433 372 Builders" [ref=e655] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/ENDGJ468Ktzmv9wNk
+                  - generic [ref=e657]:
+                    - img "Polygon Labs" [ref=e659]
+                    - generic [ref=e660]:
+                      - generic [ref=e661]: "Polygon Buildathon: From Launch to Fundraising"
+                      - generic [ref=e662]: Build, Scale, and Fund Your Startup with Polygon. AI, DeFi, Infra – the future is here.
+                      - generic [ref=e663]:
+                        - generic [ref=e665]:
+                          - img "Polygon Labs" [ref=e666]
+                          - generic [ref=e667]: Polygon Labs
+                        - list [ref=e669]:
+                          - listitem [ref=e670]: "#Polygon"
+                          - listitem [ref=e671]: "#AggLayer"
+                          - listitem [ref=e672]: "#KATANA"
+                          - listitem [ref=e673]: "#AI"
+                          - listitem [ref=e674]: "#DeFi"
+                          - listitem [ref=e675]: "#Infra"
+                  - generic [ref=e677]:
+                    - generic [ref=e678]:
+                      - generic [ref=e679]: Grant total
+                      - generic [ref=e681]:
+                        - generic [ref=e682]: 50,000
+                        - generic [ref=e683]: USDC
+                    - generic [ref=e686]:
+                      - img [ref=e688]
+                      - generic [ref=e690]: Pending
+                    - generic [ref=e692]:
+                      - generic [ref=e693]:
+                        - img "Acedeno88" [ref=e695]
+                        - img "chinmoy" [ref=e697]
+                        - img "rony4433" [ref=e699]
+                      - generic [ref=e700]:
+                        - generic [ref=e701]: "372"
+                        - generic [ref=e702]: Builders
+                - 'link "Linera Build Real-Time Onchain Apps on Linera Microchains Don''t Be Late. Be Real-Time. Linera Linera #Linera #Rust #Prediction Markets #Gaming #Infrastructure #Blockchain Grant total 50,000 USDC Pending johnsdanlami weshall Flow 662 Builders" [ref=e704] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/X4ZV12Z6GSMEkmOkX
+                  - generic [ref=e706]:
+                    - img "Linera" [ref=e708]
+                    - generic [ref=e709]:
+                      - generic [ref=e710]: Build Real-Time Onchain Apps on Linera Microchains
+                      - generic [ref=e711]: Don't Be Late. Be Real-Time.
+                      - generic [ref=e712]:
+                        - generic [ref=e714]:
+                          - img "Linera" [ref=e715]
+                          - generic [ref=e716]: Linera
+                        - list [ref=e718]:
+                          - listitem [ref=e719]: "#Linera"
+                          - listitem [ref=e720]: "#Rust"
+                          - listitem [ref=e721]: "#Prediction Markets"
+                          - listitem [ref=e722]: "#Gaming"
+                          - listitem [ref=e723]: "#Infrastructure"
+                          - listitem [ref=e724]: "#Blockchain"
+                  - generic [ref=e726]:
+                    - generic [ref=e727]:
+                      - generic [ref=e728]: Grant total
+                      - generic [ref=e730]:
+                        - generic [ref=e731]: 50,000
+                        - generic [ref=e732]: USDC
+                    - generic [ref=e735]:
+                      - img [ref=e737]
+                      - generic [ref=e739]: Pending
+                    - generic [ref=e741]:
+                      - generic [ref=e742]:
+                        - img "johnsdanlami" [ref=e744]
+                        - img "weshall" [ref=e746]
+                        - img "Flow" [ref=e748]
+                      - generic [ref=e749]:
+                        - generic [ref=e750]: "662"
+                        - generic [ref=e751]: Builders
+                - 'link "AKINDO ETHDenver 2026 Pitchfest: Official Submission Page Pitch to the world''s top web3 VCs at ETHDenver 2026 AKINDO AKINDO #ETHDenver Grant total ETHDenver Pending nikohbuilds igor_stadnyk lgnd 114 Builders" [ref=e753] [cursor=pointer]':
+                  - /url: https://app.akindo.io/wave-hacks/Mz70AdkNoiVBqGL8
+                  - generic [ref=e755]:
+                    - img "AKINDO" [ref=e757]
+                    - generic [ref=e758]:
+                      - generic [ref=e759]: "ETHDenver 2026 Pitchfest: Official Submission Page"
+                      - generic [ref=e760]: Pitch to the world's top web3 VCs at ETHDenver 2026
+                      - generic [ref=e761]:
+                        - generic [ref=e763]:
+                          - img "AKINDO" [ref=e764]
+                          - generic [ref=e765]: AKINDO
+                        - list [ref=e767]:
+                          - listitem [ref=e768]: "#ETHDenver"
+                  - generic [ref=e770]:
+                    - generic [ref=e771]:
+                      - generic [ref=e772]: Grant total
+                      - generic [ref=e774]: ETHDenver
+                    - generic [ref=e777]:
+                      - img [ref=e779]
+                      - generic [ref=e781]: Pending
+                    - generic [ref=e783]:
+                      - generic [ref=e784]:
+                        - img "nikohbuilds" [ref=e786]
+                        - img "igor_stadnyk" [ref=e788]
+                        - img "lgnd" [ref=e790]
+                      - generic [ref=e791]:
+                        - generic [ref=e792]: "114"
+                        - generic [ref=e793]: Builders
+              - generic [ref=e795]:
+                - generic [ref=e796]:
+                  - button "1" [ref=e797] [cursor=pointer]:
+                    - generic [ref=e798]: "1"
+                  - button "2" [ref=e799] [cursor=pointer]:
+                    - generic [ref=e800]: "2"
+                  - button "3" [ref=e801] [cursor=pointer]:
+                    - generic [ref=e802]: "3"
+                - img [ref=e804]
+                - button "7" [ref=e806] [cursor=pointer]
+                - button [ref=e808] [cursor=pointer]:
+                  - img [ref=e809]
+      - contentinfo [ref=e812]:
+        - generic [ref=e813]:
+          - generic [ref=e816]:
+            - generic [ref=e817]:
+              - generic [ref=e818]:
+                - img [ref=e819]
+                - link "BOOK A STRATEGY CALL" [ref=e829] [cursor=pointer]:
+                  - /url: https://calendly.com/shinkinjo/30min
+              - generic [ref=e830]:
+                - list [ref=e831]:
+                  - listitem [ref=e832]:
+                    - link "Contact us" [ref=e833] [cursor=pointer]:
+                      - /url: https://app.deform.cc/form/d4def915-fae8-46a9-b66f-3bf623ff2a98/?page_number=0
+                  - listitem [ref=e834]:
+                    - link "Buildathons" [ref=e835] [cursor=pointer]:
+                      - /url: https://app.akindo.io/wave-hacks
+                  - listitem [ref=e836]:
+                    - link "Products" [ref=e837] [cursor=pointer]:
+                      - /url: https://app.akindo.io/products
+                  - listitem [ref=e838]:
+                    - link "The Builder Activation" [ref=e839] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@akindo_io
+                - list [ref=e840]:
+                  - listitem [ref=e841]:
+                    - link "About us" [ref=e842] [cursor=pointer]:
+                      - /url: https://akindo.io
+                  - listitem [ref=e843]:
+                    - link "Brand Assets" [ref=e844] [cursor=pointer]:
+                      - /url: https://drive.google.com/drive/folders/14xy6WPsUUSkoqn6nULor0WFrLjizscrs?usp=sharing
+                  - listitem [ref=e845]:
+                    - link "Terms" [ref=e846] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/Terms-4d86eec7d87c424e987ddb0dbc53af29
+                  - listitem [ref=e847]:
+                    - link "Privacy Policy" [ref=e848] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/PrivacyPolicy-db4b7aad0fe74d95a580665bb6d374a0
+            - generic [ref=e849]:
+              - list [ref=e850]:
+                - listitem [ref=e851]:
+                  - link [ref=e852] [cursor=pointer]:
+                    - /url: https://twitter.com/akindo_io
+                    - img [ref=e853]
+                - listitem [ref=e855]:
+                  - link [ref=e856] [cursor=pointer]:
+                    - /url: https://discord.gg/xAHPkSM9t7
+                    - img [ref=e857]
+                - listitem [ref=e859]:
+                  - link [ref=e860] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@akindo_io
+                    - img [ref=e861]
+                - listitem [ref=e863]:
+                  - link [ref=e864] [cursor=pointer]:
+                    - /url: https://t.me/akindo_io
+                    - img [ref=e865]
+                - listitem [ref=e867]:
+                  - link "Luma" [ref=e868] [cursor=pointer]:
+                    - /url: https://lu.ma/user/akindo
+                    - img "Luma" [ref=e870]
+                - listitem [ref=e871]:
+                  - link "Substack" [ref=e872] [cursor=pointer]:
+                    - /url: https://akindo.substack.com/
+                    - img "Substack" [ref=e874]
+              - generic [ref=e875]: ©AKINDO
+          - img "Build a Killer App" [ref=e877]
+    - region "Notifications Alt+T"
+  - alert [ref=e878]
+  - generic:
+    - alertdialog
+  - generic:
+    - alertdialog

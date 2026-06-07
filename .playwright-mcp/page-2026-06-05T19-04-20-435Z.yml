@@ -1,0 +1,188 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: https://app.akindo.io/
+            - img [ref=e9]
+          - generic [ref=e18]:
+            - link "Buildathons" [ref=e20] [cursor=pointer]:
+              - /url: https://app.akindo.io/wave-hacks
+            - link "Hackathons" [ref=e22] [cursor=pointer]:
+              - /url: https://app.akindo.io/hackathons
+            - link "Products" [ref=e24] [cursor=pointer]:
+              - /url: https://app.akindo.io/products
+            - link "Sign in" [ref=e25] [cursor=pointer]:
+              - /url: https://app.akindo.io/login
+        - link "Build Your One-Person On-Chain Finance Business with SoSoValue 1Days 13:55 Left to Submit" [ref=e27] [cursor=pointer]:
+          - /url: https://app.akindo.io/wave-hacks/JBEQXgN4Zi2jA3wA
+          - generic [ref=e28]: Build Your One-Person On-Chain Finance Business with SoSoValue
+          - generic [ref=e29]:
+            - text: 1Days 13:55
+            - generic [ref=e30]: Left to Submit
+      - main [ref=e32]:
+        - generic [ref=e33]:
+          - link "Buildathons" [ref=e34] [cursor=pointer]:
+            - /url: https://app.akindo.io/wave-hacks
+            - img [ref=e35]
+            - generic [ref=e38]: Buildathons
+          - generic [ref=e39]:
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - img "WaveHack" [ref=e43]
+                - link "What is WaveHack?" [ref=e44] [cursor=pointer]:
+                  - /url: https://buildathon-akindo.notion.site/Buildathon-Powered-by-WaveHack-Protocol-2f30a394059980828c09fce119956e2d
+              - link "Post" [ref=e45] [cursor=pointer]:
+                - /url: https://twitter.com/intent/tweet?text=Check%20this%20out!%20Build%20Your%20One-Person%20On-Chain%20Finance%20Business%20with%20SoSoValue%20https%3A%2F%2Fapp.akindo.io%2Fwave-hacks%2FJBEQXgN4Zi2jA3wA%20on%20%40akindo_io
+                - img [ref=e46]
+                - generic [ref=e48]: Post
+            - generic [ref=e49]:
+              - heading "Build Your One-Person On-Chain Finance Business with SoSoValue" [level=1] [ref=e50]
+              - generic [ref=e51]: Powered by SoSoValue's data,news feeds,index tools,trading APIs,and high-performance L1 ValueChain
+              - link "SoSoValue SoSoValue" [ref=e52] [cursor=pointer]:
+                - /url: https://app.akindo.io/communities/wKg3A9xVlu8ZpwqPL
+                - generic [ref=e53]:
+                  - img "SoSoValue" [ref=e55]
+                  - generic [ref=e56]: SoSoValue
+            - generic [ref=e57]:
+              - button "Overview" [ref=e58] [cursor=pointer]:
+                - generic [ref=e60]: Overview
+              - button "Judges" [ref=e61] [cursor=pointer]:
+                - generic [ref=e63]: Judges
+              - button "Submissions 149" [ref=e64] [cursor=pointer]:
+                - generic [ref=e65]:
+                  - generic [ref=e66]: Submissions
+                  - generic [ref=e67]: "149"
+              - button "Comments 0" [ref=e68] [cursor=pointer]:
+                - generic [ref=e69]:
+                  - generic [ref=e70]: Comments
+                  - generic [ref=e71]: "0"
+              - button "Join a team 53" [ref=e72] [cursor=pointer]:
+                - generic [ref=e73]:
+                  - generic [ref=e74]: Join a team
+                  - generic [ref=e75]: "53"
+            - generic [ref=e78]:
+              - generic [ref=e79]:
+                - button "Join Buildathon" [ref=e80] [cursor=pointer]
+                - generic [ref=e81]: You can join at any time
+              - generic [ref=e82]:
+                - generic [ref=e83]:
+                  - heading "Grant" [level=3] [ref=e84]
+                  - list [ref=e85]:
+                    - listitem [ref=e86]:
+                      - heading "Total" [level=4] [ref=e87]
+                      - generic [ref=e88]: 10,000 USDC
+                    - listitem [ref=e89]:
+                      - heading "Pool" [level=4] [ref=e90]
+                      - generic [ref=e91]: 7,000 USDC
+                    - listitem [ref=e92]:
+                      - heading "Distribution Network" [level=4] [ref=e93]
+                      - generic [ref=e94]: Ethereum
+                - generic [ref=e95]:
+                  - heading "Build with" [level=3] [ref=e96]
+                  - generic [ref=e97]:
+                    - generic [ref=e98]:
+                      - img "SoSoValue" [ref=e99]
+                      - text: SoSoValue
+                    - generic [ref=e100]: SoDEX
+                    - generic [ref=e101]: ValueChain
+                    - generic [ref=e102]: AI
+                - generic [ref=e103]:
+                  - heading "Judging Criteria" [level=3] [ref=e104]
+                  - list [ref=e105]:
+                    - listitem [ref=e106]: User Value & Practical Impact
+                    - listitem [ref=e107]: Functionality & Working Demo
+                    - listitem [ref=e108]: Logic, Workflow & Product Design
+                    - listitem [ref=e109]: Data / API Integration
+                    - listitem [ref=e110]: UX & Clarity
+                - generic [ref=e111]:
+                  - heading "Category" [level=3] [ref=e112]
+                  - generic [ref=e113]: Tools
+                - generic [ref=e114]:
+                  - heading "Tags" [level=3] [ref=e115]
+                  - list [ref=e117]:
+                    - listitem [ref=e118]: "#SoSoValue"
+                    - listitem [ref=e119]: "#SoDEX"
+                    - listitem [ref=e120]: "#ValueChain"
+                    - listitem [ref=e121]: "#Agentic"
+                    - listitem [ref=e122]: "#One-Person"
+                    - listitem [ref=e123]: "#On-Chain Finance"
+                    - listitem [ref=e124]: "#AI x Web3"
+                - generic [ref=e125]:
+                  - heading "Github repo" [level=3] [ref=e126]
+                  - link "https://github.com/SoSoValueLabs/ssi-protocol" [ref=e127] [cursor=pointer]:
+                    - /url: https://github.com/SoSoValueLabs/ssi-protocol
+                - generic [ref=e128]:
+                  - heading "Community" [level=3] [ref=e129]
+                  - link "https://discord.gg/HQuGhhkhUW" [ref=e131] [cursor=pointer]:
+                    - /url: https://discord.gg/HQuGhhkhUW
+      - contentinfo [ref=e132]:
+        - generic [ref=e133]:
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - generic [ref=e138]:
+                - img [ref=e139]
+                - link "BOOK A STRATEGY CALL" [ref=e149] [cursor=pointer]:
+                  - /url: https://calendly.com/shinkinjo/30min
+              - generic [ref=e150]:
+                - list [ref=e151]:
+                  - listitem [ref=e152]:
+                    - link "Contact us" [ref=e153] [cursor=pointer]:
+                      - /url: https://app.deform.cc/form/d4def915-fae8-46a9-b66f-3bf623ff2a98/?page_number=0
+                  - listitem [ref=e154]:
+                    - link "Buildathons" [ref=e155] [cursor=pointer]:
+                      - /url: https://app.akindo.io/wave-hacks
+                  - listitem [ref=e156]:
+                    - link "Products" [ref=e157] [cursor=pointer]:
+                      - /url: https://app.akindo.io/products
+                  - listitem [ref=e158]:
+                    - link "The Builder Activation" [ref=e159] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@akindo_io
+                - list [ref=e160]:
+                  - listitem [ref=e161]:
+                    - link "About us" [ref=e162] [cursor=pointer]:
+                      - /url: https://akindo.io
+                  - listitem [ref=e163]:
+                    - link "Brand Assets" [ref=e164] [cursor=pointer]:
+                      - /url: https://drive.google.com/drive/folders/14xy6WPsUUSkoqn6nULor0WFrLjizscrs?usp=sharing
+                  - listitem [ref=e165]:
+                    - link "Terms" [ref=e166] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/Terms-4d86eec7d87c424e987ddb0dbc53af29
+                  - listitem [ref=e167]:
+                    - link "Privacy Policy" [ref=e168] [cursor=pointer]:
+                      - /url: https://akindo.notion.site/PrivacyPolicy-db4b7aad0fe74d95a580665bb6d374a0
+            - generic [ref=e169]:
+              - list [ref=e170]:
+                - listitem [ref=e171]:
+                  - link [ref=e172] [cursor=pointer]:
+                    - /url: https://twitter.com/akindo_io
+                    - img [ref=e173]
+                - listitem [ref=e175]:
+                  - link [ref=e176] [cursor=pointer]:
+                    - /url: https://discord.gg/xAHPkSM9t7
+                    - img [ref=e177]
+                - listitem [ref=e179]:
+                  - link [ref=e180] [cursor=pointer]:
+                    - /url: https://www.youtube.com/@akindo_io
+                    - img [ref=e181]
+                - listitem [ref=e183]:
+                  - link [ref=e184] [cursor=pointer]:
+                    - /url: https://t.me/akindo_io
+                    - img [ref=e185]
+                - listitem [ref=e187]:
+                  - link "Luma" [ref=e188] [cursor=pointer]:
+                    - /url: https://lu.ma/user/akindo
+                    - img "Luma" [ref=e190]
+                - listitem [ref=e191]:
+                  - link "Substack" [ref=e192] [cursor=pointer]:
+                    - /url: https://akindo.substack.com/
+                    - img "Substack" [ref=e194]
+              - generic [ref=e195]: ©AKINDO
+          - img "Build a Killer App" [ref=e197]
+    - region "Notifications Alt+T"
+  - alert [ref=e198]: AKINDO
+  - generic:
+    - alertdialog
+  - generic:
+    - alertdialog
